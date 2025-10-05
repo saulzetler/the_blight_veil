@@ -1,13 +1,83 @@
-**Intro Hook (Read Aloud):**
-> The city of Concord’s capital is alive with tension. Stone towers loom over crowded streets, banners snap in the wind, and the air is thick with the scent of incense and fear. You stand among a restless crowd gathered in the central square, where justice is swift and mercy is rare. The distant toll of a bell signals that something — or someone — is about to change the fate of this city forever.
-
-**Prompt:**
-> As the crowd murmurs and the stage is prepared, you sense that the next moments will shape not only Marla’s fate, but your own. What do you do? Will you watch, intervene, or seek answers among the faces around you?
-
-**Intro Hook (Read Aloud):**
-> The city of Concord’s capital is alive with tension. Stone towers loom over crowded streets, banners snap in the wind, and the air is thick with the scent of incense and fear. You stand among a restless crowd gathered in the central square, where justice is swift and mercy is rare. The distant toll of a bell signals that something — or someone — is about to change the fate of this city forever.
-
 **Session 1 DM Guide**
+---
+
+## Preparation & Immersion Enhancers
+
+**Environmental Details:**
+- The square is paved with cracked stone, lined by looming statues of Concord heroes. The air smells of incense, sweat, and distant smoke. Vendors hawk wares nervously, and the crowd’s mood shifts with every word from the stage. Occasional gusts carry the sound of distant bells and the mutter of rumors about the Blight.
+- Weather: Overcast, with a chill wind. Occasional drizzle. The crowd huddles under cloaks and banners.
+- Crowd Behavior: Some citizens are restless, others fearful, a few defiant. Minor NPCs include a lost child, a merchant, and a Concord scribe.
+
+**Handouts & Props:**
+- Print or sketch the Scrap of Hymn, Concord Proclamation, and Cindersong Sigil for players to examine.
+- Draw a simple map of the city square and stage layout for tactical encounters and chases.
+
+**Background Music/Sound:**
+- Prepare ambient crowd noise, distant bells, and tense music for dramatic moments.
+
+**Contingency Plans:**
+- If players use magic, describe how the Concord reacts (e.g., anti-magic wards, panic, or escalation).
+- If players split up, run parallel scenes and use minor NPCs to relay information or cause complications.
+- If players attempt legal arguments, allow checks for Law or History to sway the crowd or officials.
+- If players incite a riot, describe chaos: stalls overturned, guards overwhelmed, citizens fleeing or joining in.
+
+**Additional Skill Checks:**
+- Investigation: Searching for clues about Marla’s true motives or hidden allies (DC 13).
+- Medicine: Helping injured citizens or Marla after a rescue (DC 12).
+- Performance: Joining Marla’s song to sway the crowd (DC 15).
+- Sleight of Hand: Planting evidence or stealing keys from guards (DC 14).
+
+**Consequences for Failure:**
+- If a check fails, the crowd may turn hostile, evidence may be destroyed, or the Concord may escalate force.
+
+**Minor NPCs:**
+- Lost Child: Distracts guards, may be helped or ignored.
+- Merchant: Offers information for coin, may be bribed.
+- Scribe: Records events, can be convinced to alter the official account.
+
+**Rumors in the Crowd:**
+- “The Blight Veil creeps closer each night.”
+- “Heretics sing storms awake.”
+- “The Inquisition grows desperate.”
+
+**Stat Blocks (Quick Reference):**
+
+**Concord Inquisitor**
+AC: 14 | HP: 18 | Attack: Longsword +4 (1d8+2) | Skills: Intimidation +3, Religion +2
+
+**Captain Deyran**
+AC: 16 | HP: 28 | Attack: Greatsword +5 (2d6+3) | Skills: Athletics +4, Intimidation +5
+
+**Special Ability: Sweeping Attack (1/Encounter):**
+Captain Deyran makes a greatsword attack against up to two adjacent targets within reach. On a hit, each target takes normal damage and must succeed on a DC 13 Strength saving throw or be knocked prone.
+
+**Marla Veinwright**
+AC: 12 | HP: 10 | Attack: Dagger +2 (1d4+1) | Skills: Performance +4, Deception +3
+
+**Encounter Tuning Suggestions:**
+- For a large party (5+), increase Inquisitor and Captain HP by 10–20%.
+- For a small party (3 or fewer), use the listed stats.
+- For more challenge, give Captain Deyran a special ability (e.g., once per encounter, he can make a sweeping attack or intimidate the party).
+- Adjust the number of enemies for balance: 2 Inquisitors + 1 Captain is a good baseline for level 3.
+
+**Motivations & Secrets:**
+- Marla: Wants to spread the Cindersong, hopes to inspire rebellion, fears for her family.
+- Rellis: Torn between duty and doubt, secretly keeps a forbidden hymn scrap.
+- Deyran: Seeks promotion, despises heretics, hides a personal loss to the Blight.
+
+**Branching Outcomes (Expanded):**
+- If players split up, run simultaneous scenes and use minor NPCs to relay information.
+- If players leave early, they may find coded messages or be followed by Concord agents.
+- If players bribe, disguise, or incite a riot, adjust the scene with chaos, shifting allegiances, and new opportunities or threats.
+
+**Immersion Tips:**
+- Use crowd reactions, rumors, and random events (e.g., sudden storm, lost child) to keep the scene dynamic.
+- Offer sensory details and minor NPC interactions to make the world feel alive.
+
+---
+
+**Intro Hook (Read Aloud):**
+> The city of Concord’s capital is alive with tension. Stone towers loom over crowded streets, banners snap in the wind, and the air is thick with the scent of incense and fear. You stand among a restless crowd gathered in the central square, where justice is swift and mercy is rare. The distant toll of a bell signals that something — or someone — is about to change the fate of this city forever.
 
 ---
 
@@ -28,7 +98,7 @@ Session 1 begins in the capital of the Concord during a public demonstration. A 
 > “Enough of this dithering, Rellis! The people crave justice! By fire and blade, we show them the price of rebellion!”
 
 **Onlooker: Fearful Citizen** – Terrified of Concord authority.
-> “Please, just let them burn her and be done with it. We’ve all seen what happens when you cross the Inquisition.”
+> “Please, just let them burn her and be done with it.”
 
 **Onlooker: Sympathetic Citizen (Cindersong sympathizer)** – Whispering support.
 > “The song she sings… I’ve heard it in my dreams. Stranger, if you value truth, do not let them take her voice.”
