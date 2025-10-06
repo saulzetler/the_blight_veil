@@ -1,15 +1,18 @@
 # Session Notes Template
 
 **Session Date:**
+Oct 28th
 
 **Session Title:**
+Trouble in the capital
 
 ---
 
 ## Players & Characters
-- Player 1: Character Name
-- Player 2: Character Name
-- Player 3: Character Name
+- Player 1: Hog Thunderwood
+- Player 2: Fergie
+- Player 3: 
+- Player 4: 
 
 ---
 
