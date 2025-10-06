@@ -18,6 +18,9 @@
 **Contingency Plans:**
 - If players use magic, describe how the Concord reacts (e.g., anti-magic wards, panic, or escalation).
 - If players split up, run parallel scenes and use minor NPCs to relay information or cause complications.
+  - Force regrouping by triggering a major event (e.g., Concord patrols close in, forcing everyone to flee to the same alley or safehouse).
+  - Use environmental hazards (collapsing stalls, spreading fire, or a sudden lockdown) to funnel the party back together.
+  - Have a key NPC (e.g., Marla or a Cindersong sympathizer) send a message or create a distraction that reunites the group.
 - If players attempt legal arguments, allow checks for Law or History to sway the crowd or officials.
 - If players incite a riot, describe chaos: stalls overturned, guards overwhelmed, citizens fleeing or joining in.
 
