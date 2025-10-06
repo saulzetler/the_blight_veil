@@ -18,10 +18,14 @@ Varric Thane rose from a line of frontier-born soldiers — men and women harden
 
 To Thane, mercy is treason, and compromise is weakness. He believes that the Concord’s peace can only be maintained through overwhelming dominance — of body, of faith, and of will. His campaigns are brutal but efficient, his soldiers fanatically loyal.
 
+
 **Past Events:**
 - Personally led the Siege of Aster’s Hollow, where he burned an entire city to stop the spread of “blight contagion.”
 - Rumored to have executed his own brother for questioning the Concord’s war on the southern tribes.
 - Recently began clashing with the Pillar of Vision over the “purity” of new conscripts.
+	Thane insists that the Concord’s armies must accept any able-bodied recruit, regardless of background, so long as they prove loyalty and strength. He believes that survival demands pragmatism and numbers, even if it means conscripting those with questionable lineage or minor Veil-touched traits.
+	Elira Voss, however, demands strict spiritual and genetic screening. She fears that allowing the impure—those with suspected heretical beliefs, blighted ancestry, or exposure to forbidden magics—will invite corruption into the ranks. Her clergy push for rigorous tests, rituals, and surveillance, rejecting anyone who fails to meet their standards of purity.
+	Their conflict has led to heated debates, stalled recruitment drives, and growing tension between the military and the Church. Some soldiers whisper that Voss’s standards are impossible, while others fear Thane’s leniency will doom the Concord to internal rot.
 
 **Symbol:** A broken sword reforged and bound with iron wire — representing discipline through suffering.
 
@@ -80,6 +84,16 @@ The Concord’s doctrine preaches that civilization must be preserved at any cos
 
 ---
 
+# **The Capital: Orrenval & The Sanctara**
+
+## Orrenval
+Orrenval is the heart of the Concord, a city built atop the ruins of ancient temples and battlefields from the Godfall. Its origins lie in the unification of warring city-states, chosen for its strategic location and spiritual significance. Today, Orrenval is a sprawling metropolis of stone towers, bustling markets, and imposing statues of Concord heroes. The city is a center of governance, faith, and military power, where the Trifarix rules and the fate of the world is often decided.
+
+## The Sanctara
+The Sanctara is Orrenval’s holy chapel, originally constructed as a shrine to the Dawnfather and later expanded into a grand cathedral after the Godfall. Its foundations are said to rest on sacred ground where the veil between worlds is thinnest. In the current day, the Sanctara serves as both a place of worship and a seat of spiritual authority for the Concord. Its halls are filled with relics, murals depicting the Godfall, and the ever-present scent of incense. The clergy of the Sanctara oversee rituals, trials, and the cataloging of miracles, making it a focal point for both faith and political intrigue.
+
+---
+
 ## **Relations with Other Factions**
 
 - **The Faith:** A strained alliance — the Concord uses religion as a tool of control but fears the Faith’s growing zealotry.  
@@ -90,8 +104,8 @@ The Concord’s doctrine preaches that civilization must be preserved at any cos
 
 ## **Notable Events**
 
-- Founding of the Trifarix after the Collapse  
-- The Codification of Concord Law  
-- The Purges of the First Blighted  
-- The Reclamation of the Iron Marches
+- **Founding of the Trifarix after the Collapse:** In the aftermath of the Godfall and the collapse of old orders, three leaders united to form the Trifarix, establishing the Concord’s ruling council and restoring stability to a fractured world.
+- **The Codification of Concord Law:** The Trifarix enacted a sweeping set of laws to enforce unity, suppress dissent, and regulate faith and magic. This legal code became the backbone of Concord society and its expansion.
+- **The Purges of the First Blighted:** In response to the rise of Veil-touched outcasts, the Concord launched brutal purges to cleanse its lands, driving survivors into exile and cementing the regime’s reputation for ruthless order.
+- **The Reclamation of the Iron Marches:** Concord armies retook the war-torn Iron Marches from rebel factions and blighted forces, securing vital trade routes and expanding the regime’s influence across the frontier.
 

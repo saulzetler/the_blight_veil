@@ -47,8 +47,8 @@ The Free Peoples thrive on adaptability. They scavenge, repurpose, and barter ac
 
 ## **Notable Events**
 
-- The Pact of the Free Winds  
-- The Burning of the Dusk Market  
-- The Blockade of the Silver Roads  
-- The Fall of Wornspire Refugees
+- **The Pact of the Free Winds:** A historic agreement among the Free Peoples, ensuring open trade and mutual aid between caravans and settlements, regardless of origin or creed.
+- **The Burning of the Dusk Market:** A tragic night when Concord agents set fire to a bustling market suspected of harboring heretics, forcing survivors to flee deeper into the wastes.
+- **The Blockade of the Silver Roads:** A tense standoff where Free Peoples caravans broke through a Concord military blockade, securing vital supplies for isolated communities.
+- **The Fall of Wornspire Refugees:** The collapse of the Wornspire enclave, sending waves of desperate refugees into Free Peoples territory and reshaping alliances across the frontier.
 

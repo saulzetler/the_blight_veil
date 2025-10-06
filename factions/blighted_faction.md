@@ -47,8 +47,8 @@ A growing belief among the Blighted that the Veil is not destruction, but awaken
 
 ## **Notable Events**
 
-- The Siege of Wornspire  
-- The Blighted Exodus  
-- The Fall of Lume  
-- The Veilheart Accord
+- **The Siege of Wornspire:** The Blighted, led by Esmir the Hollow, defended the ruined city of Wornspire against Concord forces. The battle ended in devastation, scattering survivors and fueling legends of Blighted resilience.
+- **The Blighted Exodus:** A mass migration of Blighted outcasts fleeing Concord purges, seeking sanctuary in the Veil-touched wilds. This event marked the birth of new enclaves and the rise of the Veilborne Creed.
+- **The Fall of Lume:** The city of Lume, once a beacon of knowledge, was consumed by the Veil after a failed experiment to harness its power. Many Blighted trace their origins to this catastrophe.
+- **The Veilheart Accord:** A secret pact among Blighted leaders to unite their scattered enclaves, share knowledge, and resist outside threats. The Accord remains shrouded in mystery, rumored to involve forbidden magics and prophecy.
 

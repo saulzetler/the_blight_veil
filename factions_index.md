@@ -11,3 +11,6 @@ The Faith is a fractured spiritual institution worshipping the Silent Pantheon. 
 
 ## [The Free Peoples](factions/free_peoples_faction.md)
 A confederation of exiles, nomads, and survivors who reject the Concord and Faith. They value freedom, cunning, and loyalty, living by their own rules and preserving lost traditions in a world scarred by the Veil.
+
+## [The Cindersong](factions/cindersong_faction.md)
+A secretive network of musicians, rebels, and heretics who preserve forbidden hymns and lost cultural heritage. Their coded songs inspire hope and resistance, challenging Concord oppression and aiding the marginalized.
