@@ -46,6 +46,3 @@ Before the war, the world was a tapestry of vibrant cultures, city-states, and w
 	- What truly happened to the slain gods?
 	- Can the Blight Veil be healed, or is it the world’s new destiny?
 	- Who benefits from the chaos that followed?
-
----
-This lore sets the stage for your campaign, offering hooks for quests, mysteries, and character backgrounds tied to the Godfall and its aftermath.
