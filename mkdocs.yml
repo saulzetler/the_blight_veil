@@ -16,9 +16,14 @@
         - Branching: session1_oct28/branching.md
         - Reactions: session1_oct28/reactions.md
         - NPCs: session1_oct28/npcs.md
+        - Notes: session1_oct28/notes.md
+        - Cinematic Recap: session1_oct28/cinematic_recap.md
+        - Recap: session1_oct28/recap.md
         - Ending: session1_oct28/ending.md
       - Session 2:
         - Ideas: session2/session2_ideas.md
+        - Opening Scenes: session2/opening_scenes.md
+        - Iria Kael: session2/iria_kael.md
     - Factions:
       - Blighted: factions/blighted_faction.md
       - Cindersong: factions/cindersong_faction.md
@@ -34,76 +39,27 @@
       - Rumors Mechanic: notes/rumors_mechanic.md
       - Veil Core Lore: notes/veil_core_lore.md
     - Players:
-      - Fergie: players/fergie/fergie_hook.md
-      - Hog: players/hog/hog_hook.md
-      - Oscar: players/oscar/oscar_hook.md
-      - Knight: players/knight/knight.md
+      - Fergie:
+        - Hook: players/fergie/fergie_hook.md
+        - From Paul: players/fergie/from_paul.md
+      - Hog:
+        - Hook: players/hog/hog_hook.md
+        - From Daws: players/hog/from_daws.md
+      - Oscar:
+        - Hook: players/oscar/oscar_hook.md
+        - Bio: players/oscar/oscar.md
+      - Knight:
+        - Knight: players/knight/knight.md
+        - Amulet v2: players/knight/amulet_v2.md
+        - Amulet: players/knight/amulet.md
+    - Images: images/index.md
   markdown_extensions:
     - toc:
         permalink: true
     - admonition
     - pymdownx.superfences
-    site_name: The Blight Veil
-    site_description: "Campaign wiki for The Blight Veil — sessions, factions, NPCs, and player hooks."
-    theme:
-      name: material
-      palette:
-        primary: indigo
-        accent: red
-    nav:
-      - Home: index.md
-      - Sessions:
-        - Session 1:
-          - Intro: session1_oct28/intro.md
-          - Prep: session1_oct28/prep.md
-          - Items & Skills: session1_oct28/items_skills.md
-          - Stat Blocks: session1_oct28/stat_blocks.md
-          - Branching: session1_oct28/branching.md
-          - Reactions: session1_oct28/reactions.md
-          - NPCs: session1_oct28/npcs.md
-          - Ending: session1_oct28/ending.md
-          - Notes: session1_oct28/notes.md
-          - Cinematic Recap: session1_oct28/cinematic_recap.md
-          - Recap: session1_oct28/recap.md
-        - Session 2:
-          - Ideas: session2/session2_ideas.md
-          - Opening Scenes: session2/opening_scenes.md
-          - Iria & Kael: session2/iria_kael.md
-      - Factions:
-        - Blighted: factions/blighted_faction.md
-        - Cindersong: factions/cindersong_faction.md
-        - Concord: factions/concord_faction.md
-        - Faith: factions/faith_faction.md
-        - Free Peoples: factions/free_peoples_faction.md
-      - Notes:
-        - Common Knowledge: notes/common_knowledge.md
-        - Concord Veil Control: notes/concord_veil_control.md
-        - Expanded Lore: notes/expanded_lore.md
-        - Godfall: notes/godfall.md
-        - Region Questlines: notes/region_questlines.md
-        - Rumors Mechanic: notes/rumors_mechanic.md
-        - Veil Core Lore: notes/veil_core_lore.md
-      - Players:
-        - Fergie:
-          - Hook: players/fergie/fergie_hook.md
-          - From Paul: players/fergie/from_paul.md
-        - Hog:
-          - Hook: players/hog/hog_hook.md
-          - From Daws: players/hog/from_daws.md
-        - Oscar:
-          - Hook: players/oscar/oscar_hook.md
-          - Bio: players/oscar/oscar.md
-        - Knight:
-          - Knight: players/knight/knight.md
-          - Amulet v2: players/knight/amulet_v2.md
-          - Amulet: players/knight/amulet.md
-    markdown_extensions:
-      - toc:
-          permalink: true
-      - admonition
-      - pymdownx.superfences
-      - pymdownx.highlight
-    extra:
-      social:
-        - icon: fontawesome/brands/github
-          link: https://github.com/saulzetler/the_blight_veil
+    - pymdownx.highlight
+  extra:
+    social:
+      - icon: fontawesome/brands/github
+        link: https://github.com/saulzetler/the_blight_veil
