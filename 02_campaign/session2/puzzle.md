@@ -50,7 +50,47 @@ Several **stone reliefs** around the grove depict figures singing toward a colum
     
 
 ---
+## 🎶 **Torn Note Clue: “The Third Tongue”**
 
+**Physical description:**  
+A small, irregular scrap of parchment, singed at one corner and damp from the forest air. The ink has bled in places, but fragments of musical symbols and poetic lines remain. It looks like it was once part of a larger page — perhaps a hymn, ritual chant, or coded message.
+
+> _Faint writing can be made out between the stains and burn marks:_
+> 
+> _“…each flame must find its voice—  
+> One to rise, one to fall, one to hold true.  
+> Alone they are silence; together, a song.”_
+> 
+> _Below the words are three small glyphs shaped like stylized tongues of fire, each pointing in a different direction. One curves upward, one downward, and one straight ahead._
+> 
+> _(On a successful DC 13 Arcana or Performance check)_ the player realizes these markings could correspond to **three voices or tones** that must harmonize — the upward tongue representing a higher note, the downward a lower, and the straight one a central pitch.
+
+---
+
+### 🧩 **Mechanical Hints for the DM**
+
+|Action|Clue Given|
+|---|---|
+|**Investigation (DC 12)**|Players notice faint soot on the edge of the parchment — the same ash hue as the Cindersong sigil. It likely came from this grove.|
+|**Arcana or Religion (DC 13)**|The text feels ritualistic. “Three tongues” could represent three voices or three aspects of the flame — harmony as a form of devotion.|
+|**Performance (DC 14)**|A player humming softly while looking at the parchment may notice how three notes in harmony make the air subtly resonate — the grove seems to “listen.”|
+
+---
+
+### 🗝️ **Narrative Use**
+
+You can place this scrap:
+
+- Half-buried under leaves near the **monolith’s base**.
+    
+- In the mouth of a **small woodland creature’s den**, as if stolen.
+    
+- Wedged between two **roots or stones**, gently singed.
+    
+- Or even discovered earlier in the session — later revealed to be key once the players find the monolith.
+    
+
+---
 ## **The Puzzle Solution**
 
 To unlock the secret chamber, the players must **replicate the melody of the Cindersong** by humming or playing the correct notes.

@@ -28,6 +28,8 @@ To deepen the moment, another player might notice faint footprints near the shri
 **Optional Hook:**  
 A faint warmth still lingers under the ruin; a successful _Religion_ or _Arcana_ check could reveal traces of radiant magic twisted into shadow. Someone _wanted_ the Light to suffer.
 
+[[defiled_shrine.png]]
+
 ---
 
 ### **Scene 2 – Rusted Concord Metal**
@@ -64,6 +66,8 @@ If other players engage, they might ask about his serial number (“05C4R”) or
 **Optional Hook:**  
 A _Perception_ check reveals faint etching under the rust — the same three-ring sigil of Cindersong, freshly carved.  
 Someone might have hidden the body here intentionally.
+
+[[rusted_breastplate.png]]
 
 ---
 
