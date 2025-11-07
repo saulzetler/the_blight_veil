@@ -1,6 +1,8 @@
 
 ## 🌙 _Vigilant Warning (the party senses them coming)_
 
+Song: Dark Dystopian Ambient
+
 > The river whispers against stone, a low, steady hush beneath the hush of insects.  
 > The campfire has burned down to embers — the glow just enough to outline faces softened by exhaustion.  
 > For the first time in days, there’s laughter. Faint, but real.  

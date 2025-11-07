@@ -1,5 +1,6 @@
 ## **Scene: The Echoing Reliquary**
 
+Song: Cinematic Documentary Underscore Strings
 ### **Location Description**
 
 Deep in a forgotten dell, surrounded by skeletal birch trees, lies a **stone monolith half-sunken into the soil** — its surface worn smooth except for faint carvings that seem to shimmer when touched by light. The air here is unnaturally still; even the birds do not sing.
@@ -132,6 +133,32 @@ Inside lies a small stone chamber lined with red crystal veins that pulse like l
         
     - Once per long rest, can emit a **“resonant strike”**, releasing a 15-ft cone of concussive sound (DC 15 Con save or be knocked prone).
         
+
+Here are descriptive, in-world style narrations for each item — evocative enough to intrigue your players without spelling out the mechanics. Each reads as something you could narrate aloud when the party discovers, studies, or first wields the object.
+
+---
+
+### **The Emberheart Pendant**
+
+> The pendant is warm even before it’s touched — a slow, living warmth that seeps through the air around it.  
+> At its center rests a shard of amber glass, and within that glass, a fleck of red light pulses faintly, like a slumbering ember that never fades. When the wearer draws near open flame, the pendant seems to stir — the glow quickens, its warmth deepens, and for a heartbeat the air hums with a faint tremor of heat.  
+> Those who have carried it speak of dreams filled with smoke and crackling whispers, as if something within the pendant is remembering the fires it has known.
+
+---
+
+### **Song of the Veiled Choir** _(Scroll or Lyric Fragment)_
+
+> The parchment hums with an inaudible vibration — more _felt_ than heard, as if the ink itself hums against the skin. Its notation is strange: looping sigils and breath marks that seem to suggest both melody and heartbeat.  
+> When whispered or hummed, the sound dies unnaturally in the air, swallowed by stillness — yet in that silence, you can feel the pulse of those nearby. It’s as though the song binds listeners together, not by sound, but by rhythm.  
+> Some say the tune was first sung by those who wished to speak freely in the midst of fear — a hymn meant not to be heard, but _felt_.
+
+---
+
+### **The Cindersong Blade**
+
+> Forged from blackened steel laced with fine, copper-red veining, this blade hums faintly when drawn — a tone that rises and falls with the wielder’s motion, like a single note searching for harmony.  
+> When it strikes, the air ripples; dust and leaves stir as if the world itself flinched. To some, the hum grows louder with each swing — not from the blade, but from somewhere deeper, as though unseen voices were trying to match its pitch.  
+> Those who wield it too long report that the sword’s song begins to echo their heartbeat — and that when it finally crescendos, silence follows.
 
 ---
 

@@ -1,5 +1,7 @@
 ## 🏕️ Scene: The Riverbank Camp
 
+Song: Ethreal Cinematic Ambient
+
 ### 🎭 **Read-Aloud Description**
 
 > The river finds them before the people do — a slow, silvery thread winding through the mist and stone. The air is damp and smells of pine-sap and smoke.

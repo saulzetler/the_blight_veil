@@ -1,5 +1,7 @@
 ### **The Edge of the Ashroot**
 
+Song: Ambient Cinematic Beautiful
+
 The land bleeds out from Orrenval’s clear-cut ring, where stumps and splintered trunks jut from the soil like broken teeth. The air still smells faintly of ash and iron — the ghost of the forges that fed the Concord’s hunger. Early light seeps through a pale dawn mist, cold and colorless, pooling in the furrows carved by wagon wheels long abandoned.
 
 You follow the remnants of an old logging road — rutted, half-claimed by moss and root — where rusted saws hang from forgotten scaffolds and felled pines lie in ordered rows, rotting in silence. The forest here feels _held_. No wind stirs. No bird dares speak. Every sound your party makes — each footfall, each drawn breath — feels far too loud beneath the watch of invisible eyes.
@@ -62,6 +64,8 @@ If they’re slow to open up, you can narrate a small sensory cue:
 ---
 
 ### **The Deep Path**
+
+Cinematic Ambient Cello
 
 Hours pass, and the scars begin to fade. The rhythm of your boots turns soft, swallowed by damp earth and a rising breath of life beneath it. The trees here grow taller, their bark veined with pale silver where dawnlight breaks through the canopy. The air no longer smells of iron but of loam and cold sap; each inhale feels older than your lungs.
 

@@ -4,6 +4,7 @@
 
 **Tone:** desecration, quiet guilt, fading faith
 
+Song: Ambient Suspense
 #### **Setup**
 
 A few hours into their flight from Orrenval, the group follows a mud track through thinning mist. The trees are unnaturally tall, their canopies blotting out most of the sun. The first sign of civilization comes in the form of a broken shrine to **Lathander** — Fergie’s god, the Radiant Dawn.
@@ -36,6 +37,7 @@ A faint warmth still lingers under the ruin; a successful _Religion_ or _Arcana_
 
 **Tone:** memory, identity, unease
 
+Song: Cinematic Ambient Choir Drones
 #### **Setup**
 
 Not long after the shrine, the group passes through a patch of fog where something metallic gleams.
@@ -75,6 +77,7 @@ Someone might have hidden the body here intentionally.
 
 **Tone:** moral dilemma, humanity in collapse, interrogation of ideals
 
+Song: Ambient Cinematic Background
 #### **Setup**
 
 As night approaches, the forest path opens into a clearing strewn with the wreckage of a small skirmish. A **Concord supply wagon** has been overturned. Cindersong graffiti marks its side — recently painted. Two soldiers lie dead, one dying. A fifth figure sits by the wreck: an armed traveler, ragged but alert. This will be your **new NPC** — a field medic or deserter named [[iria_cael]], a woman in her thirties with sun-scorched skin and a calm, suspicious manner.
