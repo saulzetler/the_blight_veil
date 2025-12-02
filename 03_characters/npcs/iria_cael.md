@@ -136,3 +136,4 @@ If the party gains her trust, she reveals she carries a **sealed Concord dossier
 * She might later be **captured by Concord** and reappear in a moral dilemma rescue.
 * If she dies, her blood briefly opens a flicker of the Veil — revealing the same silhouette from Session 1.
 * If she survives long-term, she could become a **moral foil to Fergie**, or a reluctant confidante for Oscar.
+

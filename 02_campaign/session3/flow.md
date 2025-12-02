@@ -1,0 +1,7 @@
+1. [[leaving_camp]] [[ashroot_rebel_map.png]]
+2. [[river_crossing]]
+3. [[blighted_zombie]]
+4. [[rootspire_arrival]] [[ahroot_aerial_view.png]]
+5. [[rootspire_market]]
+6. [[ascent]]
+7. [[council_trial]]

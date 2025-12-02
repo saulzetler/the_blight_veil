@@ -35,5 +35,13 @@
       ],
       "key": "ArrowDown"
     }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
   ]
 }
