@@ -98,7 +98,6 @@ _Primary merchant, quest-giver, weird-magic hook_
     
 - **Special Reaction:** Studies Oscar’s terrarium intensely; senses discord in Zennor’s amulet.
     
-
 ---
 
 ## **Rootshaper Apprentice – Selune of the Knots**

@@ -4,4 +4,4 @@
 4. [[rootspire_arrival]] [[ahroot_aerial_view.png]]
 5. [[rootspire_market]]
 6. [[ascent]]
-7. [[council_trial]]
+7. [[council_trial]] [[heartwood_chamber.png]]
