@@ -1,0 +1,14 @@
+|d12|Effect Name|Description|Mechanical Note (Optional)|Fade Trigger|
+|---|---|---|---|---|
+|1|Harmonic Ringing|A faint tone persists in one ear. It subtly shifts pitch when someone lies or withholds truth.|Advantage on first Insight check this session.|After a meaningful conversation.|
+|2|Depth Misalignment|Distant objects feel slightly closer than they are. Close objects feel momentarily far.|Disadvantage on the first ranged attack only.|After a short rest or focused grounding.|
+|3|Echoed Speech|For a few seconds after speaking, your voice overlaps with a half-beat delay — as if remembered before heard.|Intimidation checks gain advantage once.|After strong emotion or raised voice.|
+|4|Veil Residue|Your shadow flickers faintly in the wrong direction under certain light.|No mechanical effect unless noticed.|Fades by next dawn.|
+|5|Emotional Static|An emotion lingers that isn’t fully yours — resolve, anger, sorrow, vigilance.|Gain 1 use of Inspiration if roleplayed.|After acting decisively.|
+|6|Fractured Reflection|In reflective surfaces, your eyes seem slightly misaligned or older.|First time you’re targeted by a fear effect, advantage.|After a failed save against fear (or next rest).|
+|7|Pulse Sync|Your heartbeat briefly matches the hum you heard in the chamber during quiet moments.|Once, you can steady yourself and remove disadvantage on a roll.|After combat or adrenaline spike.|
+|8|Thinness|You feel lighter, almost less anchored to gravity for a moment.|First fall damage this session reduced by half.|After a significant jump or fall.|
+|9|Overlap|For a blink, you see a faint afterimage of where someone stood a moment ago.|Advantage on first Perception check involving movement.|After successful Perception roll.|
+|10|Wordless Understanding|You briefly sense when others feel doubt — a subtle shift in posture or breath stands out more sharply.|Advantage on one Persuasion or Insight check.|After social encounter concludes.|
+|11|Cold Vacancy|A sudden chill when you think of the council — not fear, just absence.|No mechanical effect. Narrative only.|Fades by next long rest.|
+|12|Unfinished Thought|You are convinced you forgot something important from the chamber — but cannot name it.|DM may later seed a flash-memory moment.|When plot reveals relevant truth.|
