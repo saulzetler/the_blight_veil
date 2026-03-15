@@ -1,0 +1,9 @@
+I believe in Lathander (the Morninglord):
+
+Lathander was a Faerûnian greater god with a vast portfolio including birth, renewal, spring and youth, as well as athletics, self-perfection, vitality and creativity.     A god of hope and beginnings, Lathander's name was invoked at the start of new endeavorstself, he was the god of dawn, which represented the potential of a new day. A god of hope and beginnings, Lathander's name was invoked at the start of new endeavors, whether sealing a new deal, or setting out on a new journey.
+
+Ferg came to worship Lathander at the temple of Radiant Dawn, where he was taught to apply his control of fire in a positive way, through his teachings.The wielding of fire was about renewal, hope, and warmth, as opposed to destruction and hate. This was very important to the teachers of the sanctuary who were afraid of Fergie’s power as it was foreign to them. 
+
+Ferg’s relationship with his god is complicated - because he can feel that honing his skills through the prism of renewal, dawn, rebirth... does not allow him to fully harness his powers. He can feel that there is more to fire than that. At the same time, through his upbringing at the temple of radiant dawn, he’s committed to their principles of renewal, and using fire to bring light and hope into people’s lives.
+
+Fergie feels that Lathander wants to set strict boundaries around his usage of fire (only using his powers to bring light and hope etc.), which he is conflicted about. He wants to use his powers for good, but feels that there is much more to fire than that. Furthermore, Lathander has not answered any prayers, which has created even more uncertainty. Were Lathander to validate Ferg’s doubts about the limitations of wielding his powers through his teachings, or were Ferg to see the power of fire as wielded through other methods of worship, he might doubt that god.

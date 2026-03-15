@@ -1,4 +1,4 @@
-[[open]]
+[[02_campaign/session4/open]]
 [[council_questions]]
 [[council_notes]]
 [[quest]]

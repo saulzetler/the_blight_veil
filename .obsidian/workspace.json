@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7663638e93e1849e",
+        "id": "92b80500fdd27297",
         "type": "tabs",
         "children": [
           {
-            "id": "65a48a609a51b5e9",
+            "id": "878db5e45e053696",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_refernce/templates/claude_context/claude_system_prompt.md",
+                "file": "02_campaign/session5/06_close.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "claude_system_prompt"
+              "title": "06_close"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_refernce/templates/claude_context/claude_system_prompt.md",
+                "file": "02_campaign/session5/06_close.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for claude_system_prompt"
+              "title": "Backlinks for 06_close"
             }
           },
           {
@@ -155,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 375.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,54 +170,54 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "65a48a609a51b5e9",
+  "active": "878db5e45e053696",
   "lastOpenFiles": [
+    "players/oscar/oscar.md",
+    "players/hog/from_daws.md",
+    "players/oscar",
+    "players/hog",
+    "players",
+    "notes/concord_veil_control.md",
+    "notes/veil_core_lore.md",
+    "notes",
+    "session1_oct28/recap.md",
+    "session1_oct28/stat_blocks.md",
+    "session1_oct28/prep.md",
+    "session1_oct28/cinematic_recap.md",
+    "session1_oct28",
+    "02_campaign/session5/05_resonance.md",
+    "02_campaign/session5/06_close.md",
+    "03_characters/players/hog/beliefs.md",
+    "03_characters/players/zennor/beliefs.md",
+    "03_characters/players/fergie/beliefs.md",
+    "02_campaign/session5/04_revelation.md",
+    "02_campaign/session5/03_combat.md",
+    "02_campaign/session5/02_descent.md",
+    "02_campaign/session5/01_open.md",
+    "02_campaign/session5",
+    "02_campaign/session4/session4_recap_pointform.md",
+    "02_campaign/session4/session4_told_by_hog.md",
+    "02_campaign/session4/session4_dm_recap.md",
+    "04_refernce/templates/claude_context/claude_system_prompt.md",
     "02_campaign/session4/session4_recap",
     "02_campaign/session4/recap",
     "CLAUDE.md",
     "02_campaign/session4/open.md",
-    "04_refernce/templates/claude_context/claude_system_prompt.md",
     "04_refernce/templates/claude_context",
     "02_campaign/session4/council_notes.md",
     "02_campaign/session4/fall_effect_table.md",
     "02_campaign/session4/fall.md",
-    "02_campaign/session4/flow.md",
-    "02_campaign/session4/anomaly_reliquary.md",
-    "02_campaign/session3/session3_recap.md",
     "04_refernce/images/timoor1.png",
     "04_refernce/images/timoor2.png",
-    "02_campaign/session4/messenger.md",
-    "02_campaign/session4/return_to_rootspire.md",
-    "02_campaign/session4/questions.md",
-    "03_characters/npcs/timoor/twigmoss_timoorik.md",
     "04_refernce/images/ashroot_rebel_map.png",
-    "04_refernce/mechanics/arena_game.md",
-    "02_campaign/session4/quest.md",
-    "02_campaign/session3/flow.md",
     "04_refernce/images/council_glyphs.png",
     "04_refernce/images/council_sigils.png",
-    "02_campaign/session4/council_questions.md",
-    "02_campaign/session3/market_item_guide.md",
     "04_refernce/images/council_chamber.png",
     "04_refernce/images/council_chamber.png",
     "04_refernce/images/blighted_veil.png",
     "04_refernce/images/forgotten_grove.png",
     "04_refernce/images/ahroot_aerial_view.png",
-    "03_characters/npcs/maria_zurita.md",
-    "02_campaign/session3/council_trial.md",
-    "01_worldbuilding/cannon/context.md",
-    "02_campaign/session1/recap.md",
-    "02_campaign/session1/session1_recap.md",
-    "02_campaign/session2/recap.md",
-    "02_campaign/session2/session2_recap.md",
     "01_worldbuilding/cannon",
-    "04_refernce/Untitled",
-    "03_characters/npcs/timoor",
-    "02_campaign/session4",
-    "04_refernce/tips",
-    "Untitled.canvas",
-    "04_refernce/templates",
-    "02_campaign/session3",
-    "03_characters/npcs"
+    "Untitled.canvas"
   ]
 }

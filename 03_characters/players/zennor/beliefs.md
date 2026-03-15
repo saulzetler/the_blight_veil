@@ -1,0 +1,3 @@
+I think Zennor believes that gods are real, but himself pledges allegiance or faith to none (currently). He has been through too much with the Dawnshield and Eris (his wife). I think he has little hope in the greater good of gods, and thinks they are a means of control and delusion.
+That being said, I don't think he would be surprised of great / powerful gods out there
+He would obvs be skeptical / doubting
