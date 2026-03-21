@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_campaign/session5/06_close.md",
+                "file": "02_campaign/session4/session4_told_by_hog_short.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06_close"
+              "title": "session4_told_by_hog_short"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 468.50418853759766
+    "width": 339.50418853759766
   },
   "right": {
     "id": "86b62f4cb77c858e",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_campaign/session5/06_close.md",
+                "file": "02_campaign/session4/session4_told_by_hog_short.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 06_close"
+              "title": "Backlinks for session4_told_by_hog_short"
             }
           },
           {
@@ -155,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,6 +173,19 @@
   },
   "active": "878db5e45e053696",
   "lastOpenFiles": [
+    "02_campaign/session4/session4_told_by_hog.md",
+    "02_campaign/session4/session4_told_by_hog_short.md",
+    "02_campaign/session4/session4_dm_recap.md",
+    "02_campaign/session4/session4_recap_pointform.md",
+    "02_campaign/session5/extras/EXT_champions_return.md",
+    "02_campaign/session4/return_to_rootspire.md",
+    "02_campaign/session5/extras/EXT_witchlight_sightings.md",
+    "02_campaign/session5/extras/EXT_heat_without_flame.md",
+    "02_campaign/session5/extras",
+    "02_campaign/session4/flow.md",
+    "02_campaign/session5/02_descent.md",
+    "02_campaign/session5/01_open.md",
+    "02_campaign/session5/06_close.md",
     "players/oscar/oscar.md",
     "players/hog/from_daws.md",
     "players/oscar",
@@ -186,27 +200,15 @@
     "session1_oct28/cinematic_recap.md",
     "session1_oct28",
     "02_campaign/session5/05_resonance.md",
-    "02_campaign/session5/06_close.md",
     "03_characters/players/hog/beliefs.md",
     "03_characters/players/zennor/beliefs.md",
     "03_characters/players/fergie/beliefs.md",
     "02_campaign/session5/04_revelation.md",
     "02_campaign/session5/03_combat.md",
-    "02_campaign/session5/02_descent.md",
-    "02_campaign/session5/01_open.md",
     "02_campaign/session5",
-    "02_campaign/session4/session4_recap_pointform.md",
-    "02_campaign/session4/session4_told_by_hog.md",
-    "02_campaign/session4/session4_dm_recap.md",
-    "04_refernce/templates/claude_context/claude_system_prompt.md",
     "02_campaign/session4/session4_recap",
     "02_campaign/session4/recap",
-    "CLAUDE.md",
-    "02_campaign/session4/open.md",
     "04_refernce/templates/claude_context",
-    "02_campaign/session4/council_notes.md",
-    "02_campaign/session4/fall_effect_table.md",
-    "02_campaign/session4/fall.md",
     "04_refernce/images/timoor1.png",
     "04_refernce/images/timoor2.png",
     "04_refernce/images/ashroot_rebel_map.png",
@@ -217,7 +219,6 @@
     "04_refernce/images/blighted_veil.png",
     "04_refernce/images/forgotten_grove.png",
     "04_refernce/images/ahroot_aerial_view.png",
-    "01_worldbuilding/cannon",
     "Untitled.canvas"
   ]
 }
