@@ -12,7 +12,7 @@
 
 - [Session 5 Beat — The Sighting](#session-5-beat)
 - [The Full Truth — DM Only](#the-full-truth)
-- [NPC: Maren Ashfeld](#maren-ashfeld)
+- [NPC: Eris]
 - [Full Subplot Arc — Beat by Beat](#full-subplot-arc)
 - [Sela and the Veil](#sela-and-the-veil)
 
@@ -84,7 +84,7 @@ If the party reads or re-reads the board after this:
 > The name at the bottom has been torn away. Just the edge of ink remains.
 
 > [!warning]
-> **DM Note:** The posting was made by someone actively *looking* for Maren — not a concerned citizen. Someone who knows who she is and wants to find her before she finds anyone else.
+> **DM Note:** The posting was made by someone actively *looking* for Eris — not a concerned citizen. Someone who knows who she is and wants to find her before she finds anyone else.
 >
 > The board-keeper, if pressed: a person in Concord traveling clothes removed the name two days ago. They asked no questions. They paid the keeper a coin to forget they were there.
 >
@@ -103,7 +103,7 @@ If the party reads or re-reads the board after this:
 
 ### What Zennor Believes
 
-Zennor believes his wife, **Maren Ashfeld**, is a witch who sacrificed their daughter **Sela** — to the Veil, to some dark power, in a ritual he didn't understand. He believes this is why Sela is gone. He blames Maren. The exact shape of the break is his backstory to define, but the certainty is fixed: Maren caused Sela's death. That certainty is the only solid thing he has left, and he has been building his grief on top of it for years.
+Zennor believes his wife, **Eris**, is a witch who sacrificed their daughter (let Zennor choose name Sela placeholder) — to the Veil, to some dark power, in a ritual he didn't understand. He believes this is why Sela is gone. He blames Eris. The exact shape of the break is his backstory to define, but the certainty is fixed: Eris caused Sela's death. That certainty is the only solid thing he has left, and he has been building his grief on top of it for years.
 
 ### What Actually Happened
 
@@ -123,9 +123,9 @@ He was wrong. He has been carrying the wrong thing for years.
 
 ---
 
-### Where Maren Is Now
+### Where Eris Is Now
 
-Maren has been alone since the break. She never stopped looking.
+Eris has been alone since the break. She never stopped looking.
 
 She doesn't know where Sela went, but she knows the Veil took her — and she believes, correctly, that the Veil does not destroy. It converts. It preserves in its way. Sela is somewhere inside the membrane. Maren has been following resonance sites for years because the Veil hums differently near them, and in the humming she has — once, maybe twice — heard something that sounded like a child's breathing.
 
@@ -139,11 +139,11 @@ She left because she wasn't ready.
 
 ---
 
-## Maren Ashfeld — NPC Document
+## Eris — NPC Document
 
 ### Identity
 
-**Name:** Maren Ashfeld
+**Name:** Eris
 **Age:** Mid-to-late 40s
 **Race:** Human
 **Alignment:** Neutral Good

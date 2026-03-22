@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_campaign/session4/session4_told_by_hog_short.md",
+                "file": "02_campaign/session5/00_flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "session4_told_by_hog_short"
+              "title": "00_flow"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.50418853759766
+    "width": 271.5
   },
   "right": {
     "id": "86b62f4cb77c858e",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_campaign/session4/session4_told_by_hog_short.md",
+                "file": "02_campaign/session5/00_flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for session4_told_by_hog_short"
+              "title": "Backlinks for 00_flow"
             }
           },
           {
@@ -173,42 +173,44 @@
   },
   "active": "878db5e45e053696",
   "lastOpenFiles": [
-    "02_campaign/session4/session4_told_by_hog.md",
-    "02_campaign/session4/session4_told_by_hog_short.md",
-    "02_campaign/session4/session4_dm_recap.md",
-    "02_campaign/session4/session4_recap_pointform.md",
-    "02_campaign/session5/extras/EXT_champions_return.md",
-    "02_campaign/session4/return_to_rootspire.md",
+    "03_characters/players/zennor/amulet_v2.md",
     "02_campaign/session5/extras/EXT_witchlight_sightings.md",
+    "02_campaign/session5/05_resonance.md",
     "02_campaign/session5/extras/EXT_heat_without_flame.md",
-    "02_campaign/session5/extras",
-    "02_campaign/session4/flow.md",
+    "02_campaign/session5/04_revelation.md",
+    "02_campaign/session5/03_combat.md",
+    "03_characters/players/oscar/oscar_hook.md",
+    "03_characters/npcs/timoor/progression.md",
+    "03_characters/npcs/timoor/twigmoss_timoorik.md",
+    "04_refernce/images/oscar.png",
     "02_campaign/session5/02_descent.md",
+    "04_refernce/images/hollow_nave.png",
     "02_campaign/session5/01_open.md",
+    "02_campaign/session4/session4_recap_pointform.md",
+    "02_campaign/session5/00_flow.md",
     "02_campaign/session5/06_close.md",
-    "players/oscar/oscar.md",
-    "players/hog/from_daws.md",
+    "02_campaign/session5/extras/EXT_champions_return.md",
+    "03_characters/players/zennor/zennor.md",
+    "03_characters/players/zennor/amulet.md",
+    "03_characters/players/zennor/beliefs.md",
+    "03_characters/players/zennor/zennor_arc.md",
+    "01_worldbuilding/Act1/act1_roadmap.md",
+    "01_worldbuilding/Act1",
+    "04_refernce/templates/claude_context/plot_act1.md",
+    "CLAUDE.md",
+    "02_campaign/session4/session4_told_by_hog_short.md",
+    "04_refernce/notes/veil_core_lore.md",
+    "04_refernce/notes/concord_veil_control.md",
+    "04_refernce/notes",
+    "02_campaign/session4/session4_told_by_hog.md",
+    "02_campaign/session5/extras",
     "players/oscar",
     "players/hog",
     "players",
-    "notes/concord_veil_control.md",
-    "notes/veil_core_lore.md",
     "notes",
-    "session1_oct28/recap.md",
-    "session1_oct28/stat_blocks.md",
-    "session1_oct28/prep.md",
-    "session1_oct28/cinematic_recap.md",
     "session1_oct28",
-    "02_campaign/session5/05_resonance.md",
-    "03_characters/players/hog/beliefs.md",
-    "03_characters/players/zennor/beliefs.md",
-    "03_characters/players/fergie/beliefs.md",
-    "02_campaign/session5/04_revelation.md",
-    "02_campaign/session5/03_combat.md",
     "02_campaign/session5",
     "02_campaign/session4/session4_recap",
-    "02_campaign/session4/recap",
-    "04_refernce/templates/claude_context",
     "04_refernce/images/timoor1.png",
     "04_refernce/images/timoor2.png",
     "04_refernce/images/ashroot_rebel_map.png",
@@ -217,8 +219,6 @@
     "04_refernce/images/council_chamber.png",
     "04_refernce/images/council_chamber.png",
     "04_refernce/images/blighted_veil.png",
-    "04_refernce/images/forgotten_grove.png",
-    "04_refernce/images/ahroot_aerial_view.png",
     "Untitled.canvas"
   ]
 }

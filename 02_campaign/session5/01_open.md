@@ -149,12 +149,12 @@ These are ambient details. None are plot-critical. Use them to keep the world br
 
 ## Transitioning Out
 
-| If the party... | Then... |
-|---|---|
-| Head toward the lower roots *(intended)* | Transition directly to **Scene 02: Descent.** The letter has given them urgency — something is coming, and they want to find the construct first. |
+| If the party...                              | Then...                                                                                                                                                                                      |
+| -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Head toward the lower roots *(intended)*     | Transition directly to **Scene 02: Descent.** The letter has given them urgency — something is coming, and they want to find the construct first.                                            |
 | Try to gather more intel on the Concord unit | Allow one or two beats in Rootspire — a contact, a rumour. Keep it to 10 minutes. Then: someone in the lower market says the construct was seen again this morning. Redirects them downward. |
-| Go straight to the Council of 8 | The Council already knows. One of the Eight: *"We are aware. This changes your timeline, not your task. Begin the descent."* Cold, efficient. Back to Scene 02. |
-| Split the party | Let one thread run briefly, then have Pell or another NPC pull them back. The lower roots require all of them — Vessel-Null responds specifically to Oscar's presence. |
+| Go straight to the Council of 8              | The Council already knows. One of the Eight: *"We are aware. This changes your timeline, not your task. Begin the descent."* Cold, efficient. Back to Scene 02.                              |
+| Split the party                              | Let one thread run briefly, then have Pell or another NPC pull them back. The lower roots require all of them — Vessel-Null responds specifically to Oscar's presence.                       |
 
 > [!warning] If This Scene Runs Long
 > Over 25 minutes — cut all optional beats and atmosphere. The three must-hit beats are non-negotiable: news arrives, party reads the letter, lower roots is the move. That's the scene.

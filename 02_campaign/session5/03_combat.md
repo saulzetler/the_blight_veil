@@ -72,15 +72,15 @@ The chamber has **four significant features** that matter for the encounter:
 
 ## Vessel-Null
 
-| | |
-|---|---|
-| **Designation** | Unknown. Self-identifies as nothing. The party may name it — Oscar may name it. |
-| **Origin** | Project Dawnswell prototype — pre-Oscar iteration. Built to contain and process divine resonance at a small, portable scale. |
-| **Current state** | Partially Blighted. Chassis threaded with crystalline Veil-growth — translucent blue-white tendrils woven into the joints, the chest cavity, the optical mechanisms. Still functional. Still conscious, in fragments. |
-| **Appearance** | Similar in basic architecture to Oscar but older — rougher construction, heavier frame, no aesthetic consideration in the design. Where Oscar might read as purposeful, Vessel-Null reads as instrumental. Built to do a job, not to be. The crystalline growth gives it a strange terrible beauty: it looks like a stained-glass window was slowly absorbed into a machine. Its eyes still glow — the same core light as Oscar's, but fractured, refracting through the crystal. |
-| **Voice** | Mechanical — the same base register as any warforged — but doubled. Two voices simultaneously: one the construct's own, one something else. Not a demon, not a possessing force. The resonance itself, expressing through the same vocal mechanism. The two voices are almost always slightly out of sync. |
-| **Movement** | Stiff but powerful. The crystal growth constrains some joints but reinforces others. In Phase 2 its movements become erratic — not weakened, destabilised. It does not move like something trying to hurt you. It moves like something trying not to. |
-| **What it wants** | To remember what it was made for. To finish its function. It has been down here for years running an incomplete task with no parameters, no oversight, and a growing resonance it cannot process. It is exhausted in the way that only things built without the ability to stop can be exhausted. |
+|                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Designation**   | Unknown. Self-identifies as nothing. The party may name it — Oscar may name it.                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Origin**        | Project Dawnswell prototype — pre-Oscar iteration. Built to contain and process divine resonance at a small, portable scale.                                                                                                                                                                                                                                                                                                                                                      |
+| **Current state** | Partially Blighted. Chassis threaded with crystalline Veil-growth — translucent blue-white tendrils woven into the joints, the chest cavity, the optical mechanisms. Still functional. Still conscious, in fragments.                                                                                                                                                                                                                                                             |
+| **Appearance**    | Similar in basic architecture to Oscar but older — rougher construction, heavier frame, no aesthetic consideration in the design. Where Oscar might read as purposeful, Vessel-Null reads as instrumental. Built to do a job, not to be. The crystalline growth gives it a strange terrible beauty: it looks like a stained-glass window was slowly absorbed into a machine. Its eyes still glow — the same core light as Oscar's, but fractured, refracting through the crystal. |
+| **Voice**         | Mechanical — the same base register as any warforged — but doubled. Two voices simultaneously: one the construct's own, one something else. Not a demon, not a possessing force. The resonance itself, expressing through the same vocal mechanism. The two voices are almost always slightly out of sync.                                                                                                                                                                        |
+| **Movement**      | Stiff but powerful. The crystal growth constrains some joints but reinforces others. In Phase 2 its movements become erratic — not weakened, destabilised. It does not move like something trying to hurt you. It moves like something trying not to.                                                                                                                                                                                                                             |
+| **What it wants** | To remember what it was made for. To finish its function. It has been down here for years running an incomplete task with no parameters, no oversight, and a growing resonance it cannot process. It is exhausted in the way that only things built without the ability to stop can be exhausted.                                                                                                                                                                                 |
 
 ---
 
@@ -152,16 +152,16 @@ The Blighted creatures activate immediately. Vessel-Null takes one round to full
 
 Use a **Stone Golem** chassis (MM p.170) as the base, with the following modifications:
 
-| | |
-|---|---|
-| **HP** | 120 (reduced from 178 — Vessel-Null is damaged, not at full capacity) |
-| **AC** | 15 (crystalline growth has partially compromised the chassis) |
-| **Speed** | 25 ft (stiff, constrained by crystal growth) |
-| **Remove** | Slow (the golem's Slow action — Vessel-Null cannot impose this) |
-| **Add** | **Resonance Pulse (Recharge 5–6):** Vessel-Null emits a burst of Veil resonance in a 15 ft radius. Each creature must make a DC 14 Constitution save or be incapacitated until the end of their next turn as the resonance interferes with their nervous system. Constructs and undead are immune. |
-| **Add** | **Split Attention:** When Vessel-Null takes damage from a source, roll a d6. On a 1–2, it turns to face that source and attacks it on its next turn regardless of tactical positioning — the growth's control is imprecise. |
-| **Vulnerability** | Radiant damage causes the crystalline growth to crack — on a hit with radiant damage, Vessel-Null loses its reaction until the start of its next turn as the growth destabilises. |
-| **Clarity Window** | When reduced to 30 HP or below, the growth loses some of its hold. Vessel-Null regains partial control. It stops targeting Oscar entirely. It may speak. |
+|                    |                                                                                                                                                                                                                                                                                                    |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **HP**             | 120 (reduced from 178 — Vessel-Null is damaged, not at full capacity)                                                                                                                                                                                                                              |
+| **AC**             | 15 (crystalline growth has partially compromised the chassis)                                                                                                                                                                                                                                      |
+| **Speed**          | 25 ft (stiff, constrained by crystal growth)                                                                                                                                                                                                                                                       |
+| **Remove**         | Slow (the golem's Slow action — Vessel-Null cannot impose this)                                                                                                                                                                                                                                    |
+| **Add**            | **Resonance Pulse (Recharge 5–6):** Vessel-Null emits a burst of Veil resonance in a 15 ft radius. Each creature must make a DC 14 Constitution save or be incapacitated until the end of their next turn as the resonance interferes with their nervous system. Constructs and undead are immune. |
+| **Add**            | **Split Attention:** When Vessel-Null takes damage from a source, roll a d6. On a 1–2, it turns to face that source and attacks it on its next turn regardless of tactical positioning — the growth's control is imprecise.                                                                        |
+| **Vulnerability**  | Radiant damage causes the crystalline growth to crack — on a hit with radiant damage, Vessel-Null loses its reaction until the start of its next turn as the growth destabilises.                                                                                                                  |
+| **Clarity Window** | When reduced to 30 HP or below, the growth loses some of its hold. Vessel-Null regains partial control. It stops targeting Oscar entirely. It may speak.                                                                                                                                           |
 
 **Blighted Hollow Growths (×3)**
 
@@ -217,13 +217,13 @@ If the party lets the moment breathe — if Oscar responds, if anyone asks what 
 
 If Vessel-Null was subdued rather than reduced to near-zero HP, it can also answer one direct question before going dormant. Good questions and their answers:
 
-| If asked... | Vessel-Null says... |
-|---|---|
-| "What were you built for?" | *"Containment. Resonance processing. They called it Dawnswell. I don't — I don't remember who 'they' were."* |
-| "How long have you been down here?" | *"I stopped counting. The counting mechanism drifted too."* |
-| "What is the drift?" | *"The boundary between the vessel and what the vessel holds. If the vessel drifts — if it forgets the boundary — it becomes what it was built to contain."* |
-| "Are there others like you?" | *[Long pause.]* *"There was supposed to be a second iteration. Better calibrated. They said they fixed the drift."* *[It looks at Oscar.]* |
-| "What do you want?" | *[The longest pause.]* *"I wanted to finish the function. I can't remember the function."* *[Quieter:]* *"I think I just wanted someone to come."* |
+| If asked...                         | Vessel-Null says...                                                                                                                                         |
+| ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| "What were you built for?"          | *"Containment. Resonance processing. They called it Dawnswell. I don't — I don't remember who 'they' were."*                                                |
+| "How long have you been down here?" | *"I stopped counting. The counting mechanism drifted too."*                                                                                                 |
+| "What is the drift?"                | *"The boundary between the vessel and what the vessel holds. If the vessel drifts — if it forgets the boundary — it becomes what it was built to contain."* |
+| "Are there others like you?"        | *[Long pause.]* *"There was supposed to be a second iteration. Better calibrated. They said they fixed the drift."* *[It looks at Oscar.]*                  |
+| "What do you want?"                 | *[The longest pause.]* *"I wanted to finish the function. I can't remember the function."* *[Quieter:]* *"I think I just wanted someone to come."*          |
 
 > [!warning] DM Only
 > "Did they fix the drift?" is the most important question in the session. Do not answer it — not here, not in Scene 04. The answer is unknown even to the DM. Vessel-Null's drift took years to manifest. Oscar has not been alive long enough to know. This question should follow Oscar's player out of the session and into every future one.
