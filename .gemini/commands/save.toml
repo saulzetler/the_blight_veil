@@ -1,0 +1,9 @@
+description = "Stages, commits, and pushes changes to git."
+prompt = """
+I am saving my progress. Please execute the following git operations:
+!{git add .}
+!{git commit -m "{{args | default: 'Campaign Update ' + (now | date: '%Y-%m-%d %H:%M:%S')}}"}
+!{git push origin main}
+
+Once finished, confirm the status of the save and report any errors.
+"""
