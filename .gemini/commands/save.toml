@@ -1,9 +1,12 @@
 description = "Stages, commits, and pushes changes to git."
 prompt = """
-I am saving my progress. Please execute the following git operations:
-!{git add .}
-!{git commit -m "{{args | default: 'Campaign Update ' + (now | date: '%Y-%m-%d %H:%M:%S')}}"}
-!{git push origin main}
+I want to save my progress. Please perform the following steps:
+1. Run `git add .`
+2. Determine the commit message:
+   - If the user provided a message (which will be appended at the end of this prompt), use that message.
+   - If no message was provided, use "Campaign Update " followed by the current date and time.
+3. Run `git commit -m "[your determined message]"`
+4. Run `git push origin main`
 
-Once finished, confirm the status of the save and report any errors.
+Once finished, confirm the status and report any errors.
 """
