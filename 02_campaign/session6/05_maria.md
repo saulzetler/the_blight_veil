@@ -109,6 +109,28 @@ Let this land, then let the table respond however they will.
 
 Let the rest of the party engage normally — this doesn't have to be a two-hander. Maria stays polite and slightly formal with everyone but Fergie, with occasional, startling flashes of vulnerability if pressed with real kindness.
 
+### Following Each Line Further
+
+A single line rarely ends a real conversation — here's where each path goes if Fergie (or the table) keeps pushing.
+
+**If Kinship continues:**
+> *"They told me what I was for. Not who. I don't think anyone's ever asked me the difference before."* *(A pause — she almost reaches toward her own Stone, catches herself.)* *"I don't know how to want something that isn't the mission. Show me — is that what you're doing? Showing me?"*
+
+**If Suspicion continues:**
+> *"Go ahead. Ask your questions like you're building a case. I'll answer them — I have nothing to hide from you, only from the people who sent me."* *(Quieter, almost involuntary:)* *"I'd rather you be afraid of me than pity me. I can work with fear."*
+
+**If Denial continues:**
+> *"Fine. I'm nothing. A trick of the Stones, a coincidence with a face. Tell yourself that on the walk home and see if it holds."* *(She doesn't raise her voice. It's worse that she doesn't.)* *"I hope it's true, Fergie. I hope I'm the one who isn't real. It would be so much easier than the alternative."*
+
+### If Fergie Stays Silent or Disengages
+
+Some tables won't play the choice point actively — that's a valid read too. Don't force a line out of him.
+
+> [!tip] If Fergie doesn't engage
+> Let Maria fill the silence rather than waiting on him — she reads withdrawal as its own answer, closer to denial than neutral:
+> *"You don't have to say anything. I've had a great deal of practice being looked at like a problem to solve."* *(To the rest of the party, redirecting:)* *"He'll talk when he's ready, or he won't. Ask me what you came to ask."*
+> This hands the scene to the rest of the table without stalling on Fergie's player, and still leaves the door open for him to step back in later without it feeling forced.
+
 ---
 
 ## Skill Checks

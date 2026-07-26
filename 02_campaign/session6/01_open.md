@@ -147,6 +147,23 @@ Reference lines. He does not banter. If a PC shouts up at him, he may answer onc
 | Try to hide or disguise Oscar specifically | Reasonable instinct — reward it narratively (a local helps throw a cloak over him) but it doesn't change what's coming in Scene 02. |
 | Try to rally the crowd against Thane | Momentarily inspiring, but undercut hard by Scene 02 — fear wins out fast once the ship's gone. Let this land as a genuine, if short-lived, moment of leadership. |
 | Split up | Let it happen for a beat, then have the chaos naturally funnel everyone back together as the crowd surges — Rootspire's tiered geography (narrow root-bridges, single chokepoints) makes this easy to justify without forcing it. |
+| Try to draw Thane's fire toward themselves and away from the crowd | Let this work, at least a little — it's exactly the kind of reckless-but-earned action the "one roll" mechanic exists for. DC 15 (Deception, Intimidation, or just standing somewhere loud and visible). On a success, the second shot lands closer to them and further from bystanders — a genuinely brave moment the city will remember (feed it into the Luck Roll in Scene 04 as a *good* rumor seed). On a failure, the shot lands where it was always going to; the attempt reads as noise Thane didn't bother acknowledging. |
+
+---
+
+## Follow-Up Lines — If a PC Talks to a Local Mid-Scene
+
+> [!tip] Optional — only if a player actually engages one of these NPCs directly
+> These extend the one-line reactions above into a short exchange, for tables that want to linger a beat before Scene 02.
+
+**Kett**, if pressed on what she meant:
+> *"I didn't say anything because I didn't know what it meant. A man in a grey coat, no armor, just... watching the gate for three days. I thought he was waiting for a caravan. I don't think he was."*
+
+**Old Wren**, if asked what she's seen before:
+> *"Forty years gone, before Rootspire had a wall worth the name. Different ship. Same sky. They came for someone that time too. I don't remember if we gave them up."* *(She won't say more than that — let it hang unresolved.)*
+
+**Thalan**, if a PC tries to reassure him in the moment (before Scene 02's confrontation):
+> *"Don't. Don't tell me it'll be fine — you don't live here. I have to watch this city's face while it decides whether to be afraid of you or of him. Save the comfort for after."*
 
 ---
 

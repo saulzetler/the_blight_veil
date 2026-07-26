@@ -95,6 +95,12 @@ Present all three plainly and let the party pick. Whichever they choose becomes 
 
 **Check:** DC 12 Athletics or Acrobatics to get the whole party through without incident. **On a failure:** nothing dangerous — just a scramble, someone grabs at Oscar's arm in fear before letting go, a moment of real ugliness that doesn't need to become violence.
 
+**NPC voice — Bram, a bread-stall vendor** who sold the party breakfast yesterday, now refusing to look at them:
+> *"I've got a family behind that curtain. I sold you bread because you paid me and you were polite about it. That's all it was. Don't make me regret it — just go."*
+
+**If the crowd turns on Oscar specifically** (optional beat, line above):
+> A woman grabs at his arm, not to hurt him, just to *stop* him — to make him the reason this is happening to somebody, anybody, other than her. *"Is it because of him? Look at him — that's not natural, that's not —"* She lets go the moment anyone pushes back, more frightened of her own outburst than of Oscar.
+
 ### Option B — Over the Canopy Spiral Rope Bridges
 
 > [!quote] Read Aloud
@@ -102,12 +108,18 @@ Present all three plainly and let the party pick. Whichever they choose becomes 
 
 **Check:** DC 13 Acrobatics or Dexterity save crossing swaying bridges, half-distracted by scanning the sky for the ship's return. **On a failure:** a stumble, a dropped item, nothing worse — but a beat of real tension, hanging above the city that just turned on them.
 
+**NPC voice — a gatewarden** stationed at the Spiral's lower anchor, not stopping them:
+> *"I didn't see you come this way. Nobody did. That's the only help I've got left to give — the Marshal's people don't look up as much as they should."*
+
 ### Option C — Through a Cindersong Whisper-Tunnel
 
 > [!quote] Read Aloud
 > Someone has to know it's there — a hidden path built by rebel sympathizers decades ago, concealed in a knot-hollow most people walk past without a second look. Dark, close, and by far the safest from anyone watching from above.
 
 **Check:** DC 12 Investigation or Survival to actually locate the entrance in the panic (an NPC — Briar Fenstep, a gatewarden, whoever you like — can point them toward it without a check if you want to guarantee this option is available). **On a failure:** lost time, nothing worse — they find it a few minutes later, more shaken than they'd like to admit.
+
+**NPC voice — Briar Fenstep**, if he's the one who points them to it:
+> *"My grandmother's grandmother dug part of this by hand, hiding from a different war. I never thought I'd be the one showing someone through it. Watch your heads, and don't touch the root-walls — some of them are still listening."*
 
 ---
 

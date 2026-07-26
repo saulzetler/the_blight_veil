@@ -75,6 +75,28 @@ Give each player a brief, final chance to react in character before ending. Don'
 
 ---
 
+## If the Party Asks Before You Cut to Black
+
+> [!tip] Optional — keep every answer short; the point is to deepen the question, not resolve it
+> A table that's just heard this will almost always ask at least one follow-up. Have one line ready for each of the likely ones so you're not caught improvising the campaign's central mystery on the spot.
+
+**"Who gave you that order?"**
+> *"Someone I was told to trust before I was told to think about whether that trust made sense. I don't know the name above the order. I'm not sure I'm meant to."*
+
+**"Are you going to do it? Sever him — or Oscar?"**
+> *(A long pause. She doesn't answer yes or no.)* *"I came here to watch. Nobody told me what to do once watching stopped being enough."*
+
+**"What is Oscar to you people?"**
+> *"I don't know. I know he's a *before.* Before whatever I am. That's all the word 'Dawnswell' has ever meant to me — that something came first, and didn't go the way they wanted."*
+
+**If Fergie asks her directly whether she still means what she said earlier (kinship/suspicion/denial callback):**
+> *"Yes."* *(Just that. Whatever she said before, she doesn't take it back — even now.)*
+
+**If someone threatens her to force an answer:**
+> Her Stone flares inverted-cold, bright enough to sting the eyes for a second — not an attack, just reflex. *"That won't make me know something I don't."* This is the last thing she says before you cut to black.
+
+---
+
 ## Ending the Session
 
 Do not resolve what this means. Let it sit exactly where it lands — a Might-branch airship somewhere behind them, a Vision-branch acolyte who's just revealed she was hunting Oscar before she was hunting Fergie, and no clear read on which threat is closer.

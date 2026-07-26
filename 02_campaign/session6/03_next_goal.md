@@ -69,6 +69,12 @@ If nothing concrete exists yet at your table, let Kett or Briar carry it instead
 > [!quote] Kett or Briar
 > *"There's a woman out past the eastern trees. Blue fire, cold as anything. I've seen the mark she leaves. Nobody talks about her because nobody wants her attention. But she's real, and she's close."*
 
+If **Briar Fenstep** specifically is the one carrying this (distinct from Kett's voice — he's older, practical, a scout, not a frightened kid), use his own line instead:
+> *"I've scouted every deer-path east of here for three years. There's one I stopped using. Not because of monsters — because of her. Cold-blue firelight through the trees at night, and tracks that turn back on themselves like whoever left them didn't want to be followed even by herself."*
+
+**If a player presses for more detail** (how far, how dangerous, why hasn't anyone gone looking):
+> *"Two days walking, maybe less if you don't stop. Dangerous? I don't know — nobody who's gotten close has come back talking about it, but nobody's come back hurt either. Mostly they just stop mentioning her at all, like it's easier not to remember she's out there."*
+
 ### Option 2 — The Listening Rock
 
 > [!quote] Read Aloud
