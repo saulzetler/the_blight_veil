@@ -175,6 +175,101 @@ Reference lines. He does not banter. If a PC shouts up at him, he may answer onc
 
 ---
 
+## Optional Flavor Bank
+
+> [!tip] Optional — All Skippable
+> Nothing below is load-bearing. Pull one or two from a list when the scene needs texture, and ignore the rest. You will not get through a quarter of this in one sitting, and that's the point — run the scene twice and it should feel different both times.
+
+### The Sky, Before Anyone Understands It
+
+*Pick at most two. The description works better short.*
+
+- The birds go first. Every bird in the canopy leaves at once, in the same direction, and the quiet they leave behind is the loudest thing that's happened all week.
+- A shadow crosses the market stalls in a straight line, edge to edge, and does not stop crossing.
+- Somebody's laundry, strung between two branches, starts moving in a wind that isn't coming from anywhere.
+- The sap-lanterns dim. Rootspire's lights run on the tree, and the tree has noticed something.
+- The hum arrives before the ship does — low enough that you feel it in your back teeth before you hear it.
+- A dog on the Rootwalk starts barking at the sky and won't stop. Nobody shushes it. Everyone is grateful for the noise.
+
+### Overheard in the Crowd
+
+*One-liners, no names needed. Deal them out as the party moves.*
+
+- *"Is that — is somebody flying that?"*
+- *"It's got a bottom. Things in the sky don't have bottoms."*
+- *"Get inside. Get inside. Why are you all standing there?"*
+- *"That's Concord white. That's Concord white, that's —"*
+- *"My grandmother said they had one of those in the war. I told her she was lying."*
+- *"Where's the Boughwarden? Somebody get the Boughwarden."*
+- *"It's not moving. Why isn't it moving?"*
+- *"Don't look at it. Don't give it your face."*
+- *"They can't get down here. There's no road. There's no road."*
+- *"Are we supposed to bow? Does anyone know if we're supposed to bow?"*
+- *(A child, very calmly:)* *"It's bigger than the tree."* *(A parent, not calmly, dragging them away.)*
+
+### Small Physical Details
+
+- Ash falls for about a minute after the first shot — fine, grey, warm, settling on shoulders like the world's worst snow.
+- The air smells like a struck flint and burnt sugar. Nobody can place the sugar.
+- A rope bridge two tiers up is still swinging from people running across it, long after the last of them is gone.
+- Sap runs from a fresh split in a root-column, thick and slow. The tree is bleeding a little.
+- Someone's abandoned kettle is still on its hook over a cookfire, boiling merrily, in an empty stall.
+- The scorch mark from the first shot is a perfect circle. Rootspire has nothing in it that is a perfect circle.
+- Every door on the block seals at once — the emotion-reactive kind, all flinching in the same half-second.
+- A ladder is still leaning where someone left it, and there are two abandoned sandals at the bottom of it.
+
+### Oscar's Sensor Readouts
+
+> [!tip] Optional running bit — only if your table enjoys it
+> If Oscar's player is running ambient decibel readings, this scene is the best material they'll get all campaign. Feed them numbers; let the player do the comedy and the horror. Deliver flat, without comment.
+
+- *Ambient: 62 dB. Normal market operation.*
+- *Ambient: 4 dB. Recommend recalibration. Recalibration confirms reading.* — the moment the city goes silent
+- *Impact event. 141 dB, single peak, 0.4 seconds. No structural echo — the sound did not come off anything. It came from above.*
+- *Ambient: 88 dB and climbing. Composition: primarily human vocalisation.* (A pause.) *Primarily screaming.*
+- *Subsonic carrier detected, 11 Hz, constant. Source: overhead. Duration: ongoing.* — the airship's hum, which Oscar can hear and nobody else can
+- *Voice event, 96 dB, uniform across all bearings. A voice should not be the same volume in every direction.*
+- *Ambient dropped 30 dB in under two seconds. That is not people getting quieter. That is people leaving.*
+- *No reading available. Sensor is fine. There is simply nothing to measure.* — after the ship withdraws
+
+### Thane — More Lines
+
+*He does not banter. Use these only where a full stop is called for.*
+
+- **If someone in the crowd screams at him:** *"I heard that. It changes nothing."*
+- **If asked what happens if the city refuses:** *"Then I will have been honest with you, and you will have been honest with me."*
+- **If asked how long the city has:** *"Long enough to do the right thing. Not long enough to argue about it first."*
+- **If a PC gives their name:** *(A pause — the first one he hasn't chosen.)* *"I have that name already."*
+- **If someone invokes the Council of 8:** *"Your Council heard the matter. I am the part that comes after."*
+- **If the party surrenders on the spot:** He does not accept. *"Not to me. Not today. This city has to do it."* (He wants Rootspire to break, not the party to fold. Note this — it's the whole reason Scene 02 works.)
+
+### Per-PC Optional Micro-Beats
+
+*One each, at most. Skip any that don't fit the moment.*
+
+> [!tip] Zennor
+> The amulet is warm during the first shot. It has never once been warm during violence before, and he has been in a great deal of violence.
+
+> [!tip] Hog
+> Static crawls up the Stormfist Fragment when the war-fire lands — the same crackle it made the day they nearly burned Marla. It doesn't do anything with it. It just holds it.
+
+> [!tip] Fergie
+> The war-fire is orange, ordinary, hot. His Porter Stone doesn't react to it at all, and after Session 5, that absence is louder than a reaction would have been.
+
+> [!tip] Oscar
+> A woman shoves her toddler into Oscar's arms without a word and runs back for something in a stall. She's gone eleven seconds. She takes the child back without ever looking at Oscar's face.
+
+### After the Second Shot
+
+- The second impact is further away and somehow worse — it means there's a *pattern*, and a pattern means a plan.
+- Somewhere in the Heartwood a bell starts ringing, badly, like whoever's pulling it has never done it before.
+- Two Rootspire gatewardens are standing in the open with bows they have not raised, looking at each other, waiting for the other one to decide.
+- Old Wren has come out of the Sighing Boughs with a rag still in his hand and no intention of using it.
+- The ship begins to turn. It takes a long time to turn. Nobody moves until it's finished.
+- A rumor is already moving through the crowd faster than the smoke: *they named names.* Nobody's sure yet whose.
+
+---
+
 ## Transitioning Out
 
 > [!warning] DM Transition Note — Say This Before Moving On
