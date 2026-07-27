@@ -33,7 +33,58 @@
 | 06 | [[06_cliffhanger\|The Cliffhanger]] | Roleplay | 5–10 min | **Yes — always last** |
 | | **Total** | | **110–165 min** | |
 
-**Full DM-ready guides for all six scenes are written** — see the linked files above. Each contains full read-alouds, NPC blocks, skill check tables, sample dialogue, and if/then branches at the same level of detail as `session5`'s per-scene files.
+**Full DM-ready guides for all six scenes are written** — see the linked files above. Each contains full read-alouds, NPC blocks, skill check tables, sample dialogue, and if/then branches at the same level of detail as `session5`'s per-scene files. **Each scene file also carries an Optional Flavor Bank** — atmosphere lines, NPC one-liners, sensory detail, per-PC micro-beats — all of it skippable, none of it load-bearing. There is deliberately more there than you can use in one night.
+
+---
+
+## One-Page Run Sheet
+
+> [!tip] If You Only Print One Thing
+> Everything below is shorthand. Full detail is in the scene files; this is what you keep in front of you.
+
+| # | Scene | The three things that must happen | Hard cut at |
+|---|---|---|---|
+| 01 | Sky Opens | Ship eclipses canopy · Thane names them · two shots, nobody dies, everyone acts once | 30 min |
+| 02 | Backlash | Fear pushes them out · three real exits offered · **write down which route** | 20 min |
+| 03 | Next Goal | Options come from what they already know · Maria lead stands out · they won't arrive before dark | 15 min |
+| 04 | Camp | Long rest · Luck Roll · Fergie's dream · Oscar's dream | 30 min — say "morning comes" no matter what |
+| 05 | Maria | House described as a home · Maria seen and named · Fergie's choice point drives the room | Give it 45+ |
+| 06 | Cliffhanger | Dawnswell + Oscar recognised · Hidden Orders line · cut to black | 10 min |
+
+**The one thing to protect:** Scene 05. Everything before it is runway. If you are behind, cut from 04 first (it has a cut-order table), then 03, then 02.
+
+### Clock Checkpoints
+
+| Elapsed | You should be… | If you're not |
+|---|---|---|
+| 30 min | Leaving Rootspire (end of 02) | Skip Scene 03's optional third option; pick the destination in one exchange |
+| 50 min | At camp (start of 04) | Run only Fergie's and Oscar's Night Visions; narrate the rest of the night in a sentence |
+| 80 min | Knocking on Maria's door | Cut the approach flavor entirely; open on her in the doorway |
+| 140 min | Into Scene 06 | Skip the follow-up Q&A bank; land the two beats and close |
+
+**Honest total: 125–180 minutes.** The 110-minute floor in the table above assumes you cut aggressively and the table cooperates. Plan for the top half of that range.
+
+---
+
+## Secrets & Clues Bank
+
+> [!warning] DM Only — Unassigned On Purpose
+> Twelve true things the party could plausibly learn tonight, deliberately **not** tied to any scene, NPC, or roll. When a player does something clever, or the scene needs a reward, or someone asks a good question you didn't prep — spend one of these. Anything unspent carries forward to Session 7 at no cost.
+>
+> None of these are required. The session works if the party learns none of them.
+
+1. The letter said the assessment team was three days out. The ship is here now. Somebody lied, or somebody moved very fast, and either answer is bad.
+2. Field officers do not get airships. Pillars do. Whoever decided this was worth a Pillar decided it in Orrenval.
+3. Rootspire has no answer to an attack from above, and every person who lives there worked that out at the same moment this morning.
+4. Cold-centred handprints have been appearing across the lower roots for weeks. Somebody has been mapping them.
+5. Concord agents in traveling clothes — no armor — have been asking whether anyone has seen *a young Genasi woman, blue flame.*
+6. The person east of here has been in the same house for over four hundred days.
+7. The pulse under the Hollow Nave repeats every three minutes. So does something east of Rootspire. (See `04_camp.md` — this is deliberately seeded three separate ways.)
+8. Vessel-Null was built for *containment and resonance processing*, under the name Dawnswell. Oscar's serial follows the same convention with a higher numeral.
+9. The Trifarix's three branches do not coordinate. Vision learned about Thane's airship the same way Rootspire did — by looking up.
+10. Whoever tore the contact name off the witchlight notice board wore Concord traveling clothes, and paid the board-keeper a coin to forget they were there.
+11. Old Wren has seen a Concord airship before — forty years ago, a different ship, the same sky. He will not finish the story.
+12. The old Ashroot weavers had a word for cold-burn: *ashbirth.* Fire that doesn't want to burn. They thought it was a children's story.
 
 ---
 
@@ -277,12 +328,20 @@ Do not resolve what this means. Let it sit exactly where it lands — a Might-br
 
 ## NPC Quick Reference
 
-| NPC | Scene | Role | One-Line Handle |
+> [!tip] How to Use This Table
+> Three-word handle to find the character, then **the line** — read the signature line first, out loud, and the voice comes back. That's what it's for. Don't try to remember a description of how someone sounds; remember one thing they say.
+
+| NPC | Scene | Handle (physical · manner · hook) | Say this line first |
 |---|---|---|---|
-| **High Marshal Varric Thane** | 01 | The Pillar of Might, in person | Absolute, unbending, wants the city to feel the threat, not be levelled. |
-| **Boughwarden Thalan** | 02 | Rootspire's leader | Cornered by his own long-standing fear of exactly this happening. |
-| **Kett** | 01/03 | Rootspire child | Finally tells someone what she saw — a Concord agent, days ago, near the city's edge. |
-| **Maria Zurita** | 05–06 | Echo of Fergie, Concord Vision Seer-Acolyte | Controlled, lonely, terrified she isn't real — and just revealed she was watching for Oscar first. |
+| **High Marshal Varric Thane** | 01 | Towering · absolute · wants the city to break, not burn | *"You have been warned once. That is more mercy than the Trifarix usually extends."* |
+| **Boughwarden Thalan** | 02 | Braided grey · cornered · his life's work failed publicly this morning | *"I have spent years — years — keeping that ship out of our sky."* |
+| **Kett** | 01/02/03 | Small · watchful · knew about the Concord agent and told nobody | *"I only wanted somebody to know."* |
+| **Briar Fenstep** | 02/03 | Wiry · cocky · failed a Council trial and can't let it go | *"Lost yet? You will be."* |
+| **Old Wren** | 01 | Moss-grey beard · dry · has seen this exact sky before | *"Different ship. Same sky."* |
+| **Bram** | 02 | Flour-dusted · frightened · has a family behind the curtain | *"I sold you bread because you paid me and you were polite about it."* |
+| **Selune of the Knots** | 02 | Bark-dust · scattered · heard the tree whisper back | *"It hummed."* |
+| **Nyris the Sapbrewer** | 02 | Resin-stained · blunt · fond of them and won't say so | *"Don't ask what's in it, I'm not in a mood."* |
+| **Maria Zurita** | 05–06 | Blue flame · half-beat slow · terrified she isn't real | *"I've been looking for you."* |
 
 ---
 
