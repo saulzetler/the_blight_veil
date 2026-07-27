@@ -60,6 +60,9 @@
 >
 > Nobody says much at first. There's a lot to not say much about.
 
+> [!tip] Oscar's Sensor — Decibel Reading
+> **24 dB.** Fire crackle, insects, the occasional distant something. Ordinary background for a forest at night — nothing here for Oscar to flag, which is itself worth him saying out loud once, so the table has a baseline before the Night Visions section below breaks that baseline.
+
 Let the party set watch order, handle mundane camp logistics briefly, then move into the Luck Roll.
 
 ---
@@ -130,7 +133,7 @@ Have each player roll the existing d20 Luck Roll from `04_reference/mechanics/ru
 > [!quote] Read (privately) to Fergie's player
 > You're warm, and then you're not. The fire you fell asleep next to is gone — not out, just *elsewhere* — and in its place is a cold that doesn't hurt so much as it *waits*.
 >
-> There's someone in the dream with you. You don't see her. You feel her the way you feel your own Porter Stone — a pressure, a pulse, a shape where a person should be. She isn't threatening. She isn't even really looking at you. She's looking at the *space* where you are, the way you'd study a reflection before deciding it was really you.
+> There's someone in the dream with you. You don't see her. You feel her the way you feel your own Porter Stone — a pressure, a pulse, a shape where a person should be. There's no threat in it, and her attention isn't quite on you either — more on the *space* where you are, the way you'd study a reflection before deciding it was really you.
 >
 > Something in your chest answers something in hers before you've decided whether you want it to.
 >
@@ -153,13 +156,16 @@ Have each player roll the existing d20 Luck Roll from `04_reference/mechanics/ru
 >
 > Somewhere below all of it, three minutes apart, something pulses. Once. Slowly. The same rhythm as the Listening Rock.
 >
-> A question that isn't quite Vessel-Null's voice, and isn't quite your own:
+> A question, in a voice that sounds like it's borrowing from both you and Vessel-Null at once:
 > *"What were you made to be? And is that still what you are?"*
 >
 > You wake with the terrarium held against your chest — you don't remember picking it up — and it's leaning, hard, in the direction the party is walking. Harder than it ever has before.
 
+> [!tip] Oscar's Sensor — Decibel Reading
+> **No source detected.** Oscar heard the pulse and the question as clearly as anything he's ever heard — but the sensor logged nothing. No external sound entered his audio intake at any point during the dream. Whatever he heard, it didn't arrive through his ears.
+
 > [!warning] DM Only — Oscar
-> This is a continuation of Session 5's Scene 04 (`session5/04_revelation.md`) and Scene 05 (`session5/05_resonance.md`) threads — the housing, the tuning-fork resonance, the Dawnswell designation. Don't resolve the letters or the question. The terrarium's harder lean is a genuine mechanical/narrative signal that Maria's house is Veil-adjacent — treat it as confirmation, not new information, if Oscar shared the housing discovery with the party.
+> This is a continuation of Session 5's Scene 04 (`session5/04_revelation.md`) and Scene 05 (`session5/05_resonance.md`) threads — the housing, the tuning-fork resonance, the Dawnswell designation. Don't resolve the letters or the question. The terrarium's harder lean is a genuine mechanical/narrative signal that Maria's house is Veil-adjacent — treat it as confirmation, not new information, if Oscar shared the housing discovery with the party. The sensor's null reading is a deliberately unsettling detail — the "sound" bypassed his normal hearing entirely, which is worth letting the player sit with.
 
 ### Hog — The Thunderwood Invitational
 
@@ -185,7 +191,7 @@ Have each player roll the existing d20 Luck Roll from `04_reference/mechanics/ru
 ### Zennor — The Twine and the Fire
 
 > [!quote] Read (privately, and give it room — this one should land heavier than the others) to Zennor's player
-> It's warm before it's anything else. A kitchen you don't remember ever standing in, except you do — every detail of it, the chip in the second bowl, the way the light came in low through one window in the evening. Eris is there, not looking at you like a stranger, not looking at you like a lie yet either. Just looking at you like a wife looks at a husband who's finally home.
+> It's warm before it's anything else. A kitchen you don't remember ever standing in, except you do — every detail of it, the chip in the second bowl, the way the light came in low through one window in the evening. Eris is there, looking at you the way a wife looks at a husband who's finally home — none of the stranger's caution yet, none of the lie underneath it either.
 >
 > Your daughter is on the floor, small hands working a loop of pink twine into something that will never quite become a bracelet no matter how many times she starts over. She holds it up anyway, proud of the failure.
 >

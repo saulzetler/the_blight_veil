@@ -80,6 +80,14 @@ We left it there. In the Hollow Nave. I looked at it for a while before we climb
 
 ---
 
+One more thing, before I close the log, because I think it matters even though I do not have the details to fill it in properly.
+
+Crossing back over the river, on one of the high platforms, Zennor stopped. Just for a moment. By the time I turned to see what he was looking at, there was only the water, moving the way water moves when nothing has happened to it. He didn't say anything. I decided not to ask.
+
+I am aware that is unusual for me. I ask about most things. I did not ask about this one, because it did not feel like mine to ask about, and I have started to notice — slowly, and not always correctly — which things are mine and which things are someone else's to carry. I think this was his. I am logging that it happened, not what it was. I hope that is the right distinction to make.
+
+---
+
 _So. That is the record._
 
 _A construct that was not an enemy. A question I do not have an answer to. A predecessor I did not know I had, and a designation that apparently comes with a number attached, which is a strange thing to learn about yourself on a Tuesday._

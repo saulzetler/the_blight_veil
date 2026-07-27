@@ -27,6 +27,9 @@
 > [!important] Must Hit
 > **③ Fergie is given the choice point from his arc doc — kinship, suspicion, or denial — and the scene bends around whichever he plays.** Do not script this rigidly; his player's read on Maria drives the room.
 
+> [!important] Must Hit
+> **④ The house itself unsettles Fergie.** Environmental details throughout mirror specific beats of his own backstory, recast with Maria in his place — see "Inside the House" below. This should feel like walking through a life that's almost his.
+
 ---
 
 ## Optional Beats
@@ -82,6 +85,9 @@ Use whichever exit the party took out of Rootspire to color the approach.
 > [!quote] Read Aloud
 > The tunnel surfaces closer than any of you expected — one moment underground in the dark, the next standing at the edge of a clearing with a house in it, disoriented by how fast the hidden path carried you here. It feels less like arriving and more like being delivered.
 
+> [!tip] Oscar's Sensor — Decibel Reading
+> **16 dB, regardless of which route brought the party here.** Quieter than the Cindersong tunnel itself. No birdsong, no wind through the clearing's edge — the house sits inside a pocket of near-total quiet that doesn't extend far past its own treeline.
+
 ---
 
 ## First Sight of Maria
@@ -89,11 +95,76 @@ Use whichever exit the party took out of Rootspire to color the approach.
 > [!quote] Read Aloud
 > She moves like someone who has studied every step before taking it — precise, deliberate, threaded with quiet tension. Her hair burns in cold blue flame, illuminating sharp features and eyes the color of heated metal. In her palm rests a Porter Stone of pale opal, humming in perfect inversion to Fergie's.
 >
-> When she looks at him, it isn't recognition. It's recognition of *possibility.*
+> She looks at him the way you'd look at a question you'd been waiting to ask out loud — recognition of *possibility*, more than recognition itself.
 >
 > *"I've been looking for you."*
 
+> [!tip] Oscar's Sensor — Decibel Reading
+> **Her voice reads as two overlapping waveforms from a single source — 44 dB and 44 dB, perfectly layered, not an echo.** Oscar's never logged a voice do this before. It isn't distortion; the two signals are too clean, too deliberate, to be a malfunction on his end.
+
 Let this land, then let the table respond however they will.
+
+---
+
+## Inside the House — Echoes of a Life Fergie Didn't Live
+
+*This is the scene's other engine, alongside the Fergie choice point below. Maria's house is furnished with a life that runs parallel to Fergie's own — same shapes, same beats, wrong details throughout. None of these need to be found in order, and none require a check unless noted. Let the party discover them naturally while they talk, or let Maria show the party in and simply let these be the room around the conversation. Reference `fergie_hook.md` and `03_characters/players/fergie/from_paul.md` for the real beats these mirror.*
+
+> [!warning] DM Only — How to Use This Section
+> Don't dump all seven at once. Drop two or three naturally during the choice-point conversation, save the jewelry-box and the sketch wall for later in the scene once the table's guard is down, and hold the silhouette study for last — it's the button on the whole scene. If Fergie's player doesn't ask about something, an item can just sit there unremarked; the accumulation is the effect, not any single piece.
+
+### The Assessment Portrait
+
+A small, precisely rendered portrait near the entry — Concord formal style, not folk art. A child of maybe twelve kneels before an unseen examiner, both hands raised to offer up a pale stone on a flat tray. No warmth in the brushwork. A brass plate beneath it reads: *Assessment Day — Acolyte Zurita, Age Twelve.*
+
+> [!tip] If Fergie asks about it
+> *"That's Assessment Day. Every acolyte has one. I don't remember being that small — I remember the tray being heavier than I could carry. They said I managed it fine."* *(A pause.)* *"Vision candidates are assessed early, if the affinity's real. Waiting wastes time."* *(Quieter, unprompted:)* *"I used to wonder what I would have been, if they'd let me wait until sixteen, like everyone else does."*
+
+### The Forge That Isn't
+
+A side room holds a small hearth built for smithwork — tongs, a hammer, a quenching trough, all hung with the kind of care that suggests routine handling. But the forge is cold, has clearly always been cold; frost clings faintly to the iron, and there's no soot anywhere. It has never once been lit.
+
+> [!tip] If Fergie asks about it
+> *"I don't know why I keep it. I've never used it — not once."* *(She touches the tongs without picking them up.)* *"It feels like it's supposed to be mine. I don't have a better way to explain that."*
+
+### The Shrine With No God
+
+A small alcove, clearly load-bearing to the room's design, holds not an idol but a cold brass sigil — a stark geometric sunburst, more instrument than icon. No candle stubs, no offerings, nothing soft about it at all.
+
+> [!tip] If Fergie asks about it
+> *"The Concord doesn't worship. We calibrate."* *(A beat — something unguarded slips through.)* *"I used to leave something here anyway. Flowers, once. I don't know why. Old habit, maybe. Or someone else's."*
+
+### The Reports
+
+A neat stack of correspondence on a writing desk — not letters. Case-file language, addressed *Subject: Zurita, M.* Performance notations, harmonic readings, nothing personal in any of it.
+
+> [!tip] If Fergie asks about it (or reads one — DC 12 Investigation for a clean skim without her noticing)
+> *"They're reports. Nothing interesting — just records of what I'm supposed to be doing."* *(If pressed on who writes to her personally:)* *"No one writes to me for any other reason."*
+
+### The Empty Settings
+
+A small open case on a shelf holds several Porter Stone settings — a ring mount, an earring hook, an anklet clasp — beautifully made, precisely like the ones Fergie moves his own black opal between (`fergie_hook.md`). Every one of hers is empty.
+
+> [!tip] If Fergie asks about it, or shows her his own Stone across its various settings
+> *"Efficient acolytes don't decorate. That's what I was told. I kept the settings anyway — I don't know why, since I've never used them."* *(She looks at wherever Fergie's Stone is mounted, genuinely thrown.)* *"You wear yours. I've never worn mine anywhere but my palm."*
+
+### The Sketch Wall
+
+Charcoal studies cover one wall of a back room, layered over each other like she couldn't stop — mostly faces, drawn obsessively, the same few over and over. One recurring figure: an older man's hands, thick-knuckled, scarred in the specific way of a lifetime at a forge.
+
+> [!tip] If Fergie recognizes his father's hands in the sketch (his player will know before you need to explain it)
+> *"I draw when I can't sleep. I don't know most of the faces."* *(If pushed — "whose hands are these?")* *"I don't know. Should I?"* *(She doesn't ask why he's staring. She already knows the answer will unsettle her more than the question did.)*
+
+### The Unfinished Study
+
+Tucked at the edge of the sketch wall, half-covered by other pages, a study that's different from the rest — less obsessive, more recent. Four rough figures, roughed in but unfinished: a stocky, broad-shouldered shape mid-swing; a tall, angular figure with too-straight edges to be flesh; a grim, armored shape standing apart from the others; and a fifth line, barely started, that could be anyone.
+
+> [!important] Must Hit (if anyone notices it — Insight or Perception DC 16, or simply describe it if the scene needs the button)
+> Do not confirm or deny that it's the party. Maria genuinely doesn't have an answer:
+> *"I don't know why I started that one. Some nights the charcoal moves before I decide what it's for."* *(If pressed harder:)* *"I'm not being difficult. I mean that literally. I don't remember choosing these shapes."*
+
+> [!warning] DM Only — Protect the Ambiguity
+> This is the strongest beat in the room and the easiest to overplay. Do not let Maria — or you — explain it. It should read as possible premonition, possible Echo-bleed from a future that's already happened in another branch, or possible coincidence that means nothing. All three stay true until much later in the campaign. If a player pushes for confirmation, let Maria's genuine confusion be the wall they hit, not a DM shrug.
 
 ---
 
@@ -141,6 +212,7 @@ Some tables won't play the choice point actively — that's a valid read too. Do
 | Persuasion (framing the party as protective of Fergie) | 14 | This softens her stance noticeably — she assumes they might try to "save" him from her, and that assumption makes her cautious rather than hostile. |
 | Arcana (the Stones) | 15 | Her Porter Stone is tuned to the same harmonic root as Fergie's. They are paired — not similar instruments, the same instrument, inverted. |
 | Insight (her reaction to Thane's airship, if mentioned) | 13 | Genuine unease, not solidarity — whatever branch sent her here, it isn't Thane's, and she doesn't love what his methods say about where this is all heading. |
+| Insight or Perception (the unfinished silhouette study) | 16 | The four rough figures on the sketch wall line up uncomfortably well with the party's own builds and stances. See "The Unfinished Study" above — do not confirm this outright. |
 
 ---
 
@@ -166,6 +238,7 @@ This scene does not need a hard transition — let it flow directly into Scene 0
 - **Fergie's arc** — Whatever choice point he played is now live and carries directly into `fergie_arc.md`'s Act III material for future sessions.
 - **Maria as a person, not just a plot device** — However the party engaged with her, note it; it will shape how she's played going forward.
 - **Oscar's quiet recognition** — The unspoken thread that pays off explicitly in Scene 06.
+- **The house's echoes** — Note which environmental details the party actually found and asked about; a future session can pay off the unfinished silhouette study explicitly once the campaign is ready to confirm or deny it. Until then it stays exactly as ambiguous as it read tonight.
 
 ---
 *The Blight Veil | Session 6 | Scene 05 of 06*

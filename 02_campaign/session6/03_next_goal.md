@@ -55,6 +55,9 @@
 >
 > Someone is going to have to say what happens next. No one is telling you this time.
 
+> [!tip] Oscar's Sensor — Decibel Reading
+> **41 dB, down from the high-90s in the market.** Worth a line if Oscar's player wants one — the number itself doesn't mean anything to anyone else at the table, but it's the first time all day his readings have looked normal.
+
 Let the party talk. Then surface the options through whoever makes sense at your table:
 
 ### Option 1 — The Maria Lead (Intended Pick)

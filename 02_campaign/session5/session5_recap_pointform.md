@@ -59,6 +59,14 @@
 - Vessel-Null's body was examined further, then left behind in the Hollow Nave
 - The party climbed back out — the passage felt narrower going up, the dark less attentive
 
+## The Witchlight Sighting
+
+- Crossing one of Rootspire's outer platforms above the river after surfacing, **Zennor alone** saw a woman standing on the far bank — still, glowing faintly, a light that was neither firelight nor moonlight
+- She looked directly at him. No gesture, no call out. He blinked, and she was gone — no splash, no footsteps, the river undisturbed
+- Investigating the bank turned up no footprints except a single handprint pressed into the wet mud — flat, fingers spread, and dry at the center despite the surrounding mud
+- The notice board's posting about a "woman cloaked in lantern-glow" had its contact name torn away — a person in Concord traveling clothes removed it two days earlier and paid the board-keeper to forget they'd been there
+- This closed the session. The Listening Rock and the boot-print reveal were not reached — as far as the party knows, the letter's "three days out" still holds
+
 ---
 
 ## Threads Forward
@@ -69,3 +77,4 @@
 - Oscar chose full disclosure — the whole party is now operating with the same information
 - Vessel-Null's body remains in the Hollow Nave; Maren Ashwick, who tends the lower roots, will eventually find it (not yet encountered this session)
 - **The party does not yet know the Concord assessment team is already in the Ashroot.** The Listening Rock and the boot-print reveal were not reached this session — as far as the party knows, the letter's "three days out" still holds
+- **Zennor's witchlight sighting is unresolved and known only to him** unless his player chooses to share it — the torn notice-board name confirms someone is actively trying to reach her before anyone else finds her first

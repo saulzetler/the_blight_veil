@@ -106,6 +106,9 @@ Do not resolve what this means. Let it sit exactly where it lands — a Might-br
 >
 > *End of Session 6.*
 
+> [!tip] Oscar's Sensor — Decibel Reading
+> **9 dB.** If Oscar's player asks for a number here, or you want one last beat before the table breaks: the lowest reading of the entire session. Lower than the tunnel, lower than the house's approach. For a moment, the whole clearing is holding its breath along with the party.
+
 > [!warning] DM Only
 > If the table wants to keep playing past this line — gently hold the boundary. This cliffhanger works because it's unresolved. Whatever they want to do next (fight, flee, ask more questions) is exactly what Session 7 is for.
 

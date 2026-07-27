@@ -101,6 +101,9 @@ Present all three plainly and let the party pick. Whichever they choose becomes 
 **If the crowd turns on Oscar specifically** (optional beat, line above):
 > A woman grabs at his arm, not to hurt him, just to *stop* him — to make him the reason this is happening to somebody, anybody, other than her. *"Is it because of him? Look at him — that's not natural, that's not —"* She lets go the moment anyone pushes back, more frightened of her own outburst than of Oscar.
 
+> [!tip] Oscar's Sensor — Decibel Reading
+> **89 dB and climbing** — overlapping voices, the pack animal's screaming spiking well above the rest, stall-wood splintering underfoot. Loud enough that Oscar's own vocal output would need to compete to be heard here, if he's tried talking to anyone.
+
 ### Option B — Over the Canopy Spiral Rope Bridges
 
 > [!quote] Read Aloud
@@ -111,6 +114,9 @@ Present all three plainly and let the party pick. Whichever they choose becomes 
 **NPC voice — a gatewarden** stationed at the Spiral's lower anchor, not stopping them:
 > *"I didn't see you come this way. Nobody did. That's the only help I've got left to give — the Marshal's people don't look up as much as they should."*
 
+> [!tip] Oscar's Sensor — Decibel Reading
+> **51 dB, mostly wind and rope-creak.** A relief after the market. Worth noting out loud if Oscar's player wants a beat of dark comedy — the quietest place in the city right now is also the most exposed.
+
 ### Option C — Through a Cindersong Whisper-Tunnel
 
 > [!quote] Read Aloud
@@ -120,6 +126,9 @@ Present all three plainly and let the party pick. Whichever they choose becomes 
 
 **NPC voice — Briar Fenstep**, if he's the one who points them to it:
 > *"My grandmother's grandmother dug part of this by hand, hiding from a different war. I never thought I'd be the one showing someone through it. Watch your heads, and don't touch the root-walls — some of them are still listening."*
+
+> [!tip] Oscar's Sensor — Decibel Reading
+> **19 dB.** The quietest reading Oscar's taken since the Hollow Nave — quiet enough that his own footsteps are the loudest thing in the tunnel. If his player likes symmetry, let them notice that connection themselves; don't point it out for them.
 
 ---
 

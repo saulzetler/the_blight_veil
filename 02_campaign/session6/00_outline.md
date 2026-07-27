@@ -13,7 +13,7 @@
 
 > [!warning] DM Only — Hold These in Mind All Session
 >
-> - **The party doesn't know the assessment team is already here.** Session 5 never reached the boot-print reveal. The blimp arriving already-here *is* that reveal — let it land as a lie exposed, not just an attack.
+> - **The party doesn't know the assessment team is already here.** Session 5 never reached the boot-print reveal — it closed instead on Zennor's private river sighting (`session5/extras/EXT_witchlight_sightings.md`). The blimp arriving already-here *is* the reveal Session 5 never got to — let it land as a lie exposed, not just an attack.
 > - **This is a deliberate escalation, not routine.** High Marshal Varric Thane personally showing up is a big deal — he's a Trifarix Pillar who runs the Legion of the Standard from Orrenval, not a field officer. His presence should read as "this just became the Concord's top priority," not business as usual.
 > - **Nobody dies today.** This is a chase-and-choice session. The blimp scene has stakes (fear, chaos, a few bruises) but no lethal intent from Thane — he wants the city to feel the threat, not levelled. Save real danger for what's waiting at the end.
 > - **The Maria Zurita confrontation is the spine of this session.** Everything before it (blimp, backlash, road, camp) is runway. Don't let any earlier scene eat so much time that Scene 05 gets rushed.
@@ -43,7 +43,7 @@
 
 ### What This Scene Does
 
-The party is fresh out of the lower roots (Session 5 ended mid-climb) when the sky itself becomes the threat. No time is given for the Council-first/team-first choice Session 5's notes flagged — this scene *is* the interrupt. It re-establishes the Concord as an active, personal danger and gives every player one spotlight action without ever touching a grid.
+It's still the same day as Session 5's ending — the party surfaced from the lower roots, crossed the outer platform where Zennor privately saw the witchlight woman, and has spent the rest of the day in Rootspire without deciding anything. No time is given for the Council-first/team-first choice Session 5's notes flagged — the sky itself becomes the interrupt before that conversation happens. It re-establishes the Concord as an active, personal danger and gives every player one spotlight action without ever touching a grid.
 
 ### Must-Hit Beats
 

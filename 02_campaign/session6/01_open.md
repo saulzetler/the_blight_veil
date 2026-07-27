@@ -11,7 +11,7 @@
 | **Estimated time** | 20–30 minutes |
 | **Location** | Rootspire — Rootwalk or Heartwood, surface level |
 | **Movable?** | No. Fixed anchor. Always runs first. |
-| **Entry condition** | Session begins. Party has just climbed out of the lower roots (Session 5's ending). |
+| **Entry condition** | Later the same day as Session 5's ending. The party surfaced from the lower roots, crossed one of Rootspire's outer platforms above the river — where Zennor privately saw the witchlight woman (`session5/extras/EXT_witchlight_sightings.md`) — and has spent the rest of the day in Rootspire without deciding their next move. |
 | **Exit condition** | Two warning shots resolved. The city is visibly turning. |
 
 ---
@@ -48,6 +48,8 @@
 > - **The blimp itself is new to this world.** No prior lore mentions airships. Treat it as unmistakably wrong and out of place — a Concord invention nobody in Rootspire has had reason to imagine.
 > - **Thane's fire is ordinary orange war-fire — not Maria's blue-cold variant.** Keep the two visually and narratively distinct. Don't let players connect them; they're not related.
 > - This scene's job is to re-establish the Concord as a personal, present danger and give every player a spotlight beat. Don't let it run past 30 minutes — Scene 05 is where the session's real weight lives.
+> - **Zennor is carrying today's sighting into this scene, whether or not he told anyone.** Session 5 actually closed on `EXT_witchlight_sightings.md` — Zennor alone saw a glowing woman across the river and she vanished before he could act. Don't reference it directly unless his player brings it up; just let him play a beat quieter or more distracted than usual if that fits, the way someone would a few hours after seeing something they haven't decided what to do with yet.
+> - **Oscar's decibel sensor is a running bit this session.** Wherever a scene has a notable sound cue, a specific reading is seeded below — use it if Oscar's player asks, or drop it unprompted for flavor. Treat it as one of Oscar's construct senses, not a joke item; it's most fun when played completely straight.
 
 ---
 
@@ -68,18 +70,21 @@
 
 ## Running the Scene
 
-Give the party a minute or two to process surfacing from the lower roots before the scene turns.
+Give the party a minute or two of ordinary afternoon before the scene turns — catching breath, comparing notes on the day so far, whatever loose threads need a beat first (Zennor's, if his player raises it, or not).
 
 > [!quote] Read Aloud — The Sky Changes
-> The surface air hits you first — cold, pine, wet earth, the ordinary relief of daylight after an hour underground.
+> The afternoon light's gone low and gold through Rootspire's canopy, the kind of light that makes a hard day feel almost survivable. The city around you is just going about its business — stalls, someone arguing over the price of dried fish, the ordinary noise of a place that doesn't know anything's wrong yet.
 >
 > Then the light changes.
 >
 > Not clouds. Something is moving between you and the sun, slow and deliberate, wrong in a way your eyes take a second too long to process. Through the gaps in the canopy: iron ribs, a hull too vast to be natural, sigils along its belly glowing the cold white of a Concord seal.
 >
-> It isn't falling. It isn't attacking. It's simply *arriving* — the way a verdict arrives, after the argument is already over.
+> It moves slow, closing the distance like it's got nowhere else to be — the kind of unhurried that only makes sense if you already know nobody down here can stop you.
 >
 > Rootspire goes quiet in stages, block by block, as more and more people look up.
+
+> [!tip] Oscar's Sensor — Decibel Reading
+> **58 dB, steady, low-frequency.** A thrum more than a sound — Oscar feels it in the chassis before it registers as noise at all. No mechanical or magical signature he can place. It's just *there*, the way weather is there.
 
 Let the party react — questions, guesses, panic, awe. Then:
 
@@ -91,6 +96,9 @@ Let the party react — questions, guesses, panic, awe. Then:
 > A beat. Long enough to feel deliberate.
 >
 > *"You have been warned once. That is more mercy than the Trifarix usually extends."*
+
+> [!tip] Oscar's Sensor — Decibel Reading
+> **No stable reading.** The sensor can't settle on a number — it registers Thane's voice as a near-whisper at close range and a full-throated shout three streets over, simultaneously, both readings equally strong. Whatever's carrying this voice isn't behaving like air. Oscar's never seen the sensor do this before, and it doesn't have a category for it.
 
 Let that land. Give the table a second before moving to the warning shots.
 
@@ -104,6 +112,18 @@ This is a **narration-and-roll** beat, not a combat encounter. Run it exactly li
 2. The first shot lands — a bolt of ordinary war-fire slamming into the market tier below, close enough to matter, far enough that no one is in real danger unless they choose to be. **Each PC narrates one action** in response and makes **one roll of their choice**, justified by the fiction (protect someone, size up the ship, get people moving, whatever fits). You set the DC based on ambition — see table below. No damage rolls unless someone does something genuinely reckless.
 3. The second shot lands elsewhere in the city — further off, a different quarter, more scale than target. One more round of the same, same order.
 4. Cut straight to Scene 02 once everyone's had their beat. Don't run a third shot.
+
+> [!quote] Read Aloud — The First Shot
+> The sound reaches you before your eyes catch up to it — a low crack, like the sky tearing along a seam. Then the light: a bolt of orange fire slams into the market tier below, and for a second the whole street is shadow and firelight at once. Splinters and smoke go up. The heat rolls past you a half-breath later, already fading.
+
+> [!tip] Oscar's Sensor — Decibel Reading
+> **131 dB at the impact point, 96 dB at the party's position.** Loud enough that every organic PC's ears are ringing regardless of what they rolled. Oscar doesn't flinch — but notes, with something like relief, that the number is well within survivable range. This was never meant to hurt anyone standing where they're standing.
+
+> [!quote] Read Aloud — The Second Shot
+> This one lands farther off — a flat, rolling boom from somewhere past the Heartwood, the sound arriving strange and delayed off the canopy. A thinner column of smoke rises in the distance. Less a strike this time than a statement.
+
+> [!tip] Oscar's Sensor — Decibel Reading
+> **79 dB at the party's position — noticeably quieter than the first.** The drop isn't an accident. Whatever's firing that weapon is choosing where the sound lands as carefully as where the fire does.
 
 ### Example Actions & DCs
 
