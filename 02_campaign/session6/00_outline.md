@@ -28,10 +28,12 @@
 | 01 | [[01_open\|Cold Open: "The Sky Opens"]] | Roleplay + light rolls | 20–30 min | **Yes — always first** |
 | 02 | [[02_backlash\|Backlash and the Way Out]] | Roleplay + choice | 15–20 min | Follows 01 |
 | 03 | [[03_next_goal\|A Clear Next Goal]] | Roleplay + choice | 10–15 min | Follows 02 |
-| 04 | [[04_camp\|Camp in the Ashroot]] | Roleplay | 20–30 min | Follows 03 |
+| 04 | [[04_camp\|Camp in the Ashroot]] | Roleplay | 30–45 min ⚠ | Follows 03 |
 | 05 | [[05_maria\|Maria Zurita's House]] | Roleplay | 40–60 min | Follows 04 |
 | 06 | [[06_cliffhanger\|The Cliffhanger]] | Roleplay | 5–10 min | **Yes — always last** |
-| | **Total** | | **110–165 min** | |
+| | **Total** | | **120–180 min** | |
+
+⚠ **Scene 04 is the one that overruns.** Four must-hit beats plus four privately-delivered Night Visions is a 40-minute scene at a real table, not a 25-minute one — and Scene 05 is what pays for it. `04_camp.md` opens with a cut-order table; read it during prep, not at 11pm.
 
 **Full DM-ready guides for all six scenes are written** — see the linked files above. Each contains full read-alouds, NPC blocks, skill check tables, sample dialogue, and if/then branches at the same level of detail as `session5`'s per-scene files. **Each scene file also carries an Optional Flavor Bank** — atmosphere lines, NPC one-liners, sensory detail, per-PC micro-beats — all of it skippable, none of it load-bearing. There is deliberately more there than you can use in one night.
 
