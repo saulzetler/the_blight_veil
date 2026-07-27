@@ -65,6 +65,21 @@ Let that sit for a beat — genuinely, silently, let the table process it — be
 
 ---
 
+## How the Reveal Lands, By Scene 05's Branch
+
+> [!warning] DM Only — Do This Before You Read the Boxed Text
+> The reveal is the same in every branch. **The reason she says it out loud is not**, and that's what makes it feel like a consequence rather than a scheduled twist. Pick the framing that matches how Fergie played it and adjust one sentence of delivery.
+
+| Scene 05 went… | Why she says it now | Adjust the delivery |
+|---|---|---|
+| **Kinship** | She's telling them because they were kind to her, and she has decided — right now, badly, without thinking it through — that they deserve to know what she was sent to do. This is the version where she is warning them. | Slower. She's choosing each word. The Hidden Orders line comes out like a confession, and she looks at Fergie while she says it because she wants him to hear it from her rather than find out later. |
+| **Suspicion** | She's telling them because they've spent an hour treating her as the threat, and she is tired, and part of her wants them to be *right*. There's something almost triumphant in it that she hates. | Sharper. She lets the Dawnswell line land as a hit. Then the regret arrives late and visibly, after she's already said it — which is worse for her than saying nothing would have been. |
+| **Denial** | She's telling them because Fergie has spent an hour insisting she isn't real, and this is the one piece of evidence she has that somebody, somewhere, wrote her down. The order is proof she exists. | Flat and fast. She's not revealing, she's producing documentation. The crack comes on *"Or — it wasn't. Until now,"* when she hears what she's actually said. |
+| **Fergie disengaged** | She's telling Oscar, not Fergie, and she's telling him because he's the only one in the room who's been listening. | Address the whole reveal to Oscar. Let Fergie be the one who has to catch up. This is the most uncomfortable version and it's a legitimate consequence of not engaging. |
+| **The party threatened her** | She's telling them because her composure already cracked once and she can't get it back. | She says it too quickly, the way you say something to make people stop. Then the silence afterward is hers, not theirs, and she can't fill it. |
+
+---
+
 ## Reaction Prompts — One Line Each, If Time Allows
 
 Give each player a brief, final chance to react in character before ending. Don't force it — a single line each is plenty.
@@ -105,6 +120,64 @@ Do not resolve what this means. Let it sit exactly where it lands — a Might-br
 > Nobody moves. Nobody speaks. The blue flame in her hair is very still.
 >
 > *End of Session 6.*
+
+### Alternate Closing Lines
+
+> [!tip] Optional — pick whichever fits the room you actually have
+> The written line assumes a hushed table. If yours is loud, or angry, or laughing off the tension, one of these will land better. Say it, then close the notebook — the physical gesture does half the work.
+
+- Outside, very faintly, the birds go up all at once. Nobody in the room looks at the window. *End of Session 6.*
+- She sets the cup down. It's the only sound in the house. *End of Session 6.*
+- *(To Oscar's player specifically, and nobody else:)* Every reading you have just dropped to zero. Not quiet. Zero. *End of Session 6.*
+- She opens her mouth to say something else, and doesn't. *End of Session 6.*
+- The fire in the hearth is still making no sound at all. *End of Session 6.*
+- *(If the party threatened her:)* Her Stone is still glowing. Nobody has told her it's still glowing. *End of Session 6.*
+
+---
+
+## More Follow-Up Answers
+
+> [!tip] Optional — keep every one of these short
+> The first bank covers the likeliest questions. These cover the second wave, for a table that won't let you close the book.
+
+**"How long have you known about him?"**
+> *"Two years. I was told to watch for a designation before I was told there'd be a person attached to it."*
+
+**"What does 'severed' actually mean?"**
+> *"I asked. Twice."* *(A pause.)* *"They gave me the same sentence back both times, word for word. I've decided that means they don't know either, or that they do and it's the kind of thing you don't write down."*
+
+**"Then don't do it. Just — don't."**
+> *"That's the first time anyone's suggested that as though it were an option."* *(She doesn't agree. She also doesn't disagree.)*
+
+**"Are there more of you?"**
+> *"Echoes, or acolytes? Because the answer is different and I only know one of them."*
+
+**"Come with us."**
+> *(This lands hard. Whatever branch Scene 05 took.)* *"I have four hundred and six days of notes in this house and an order I haven't refused yet. Ask me again when I've had a night."* — **Do not resolve this. It's Session 7's opening problem.**
+
+**"Who else knows we're here?"**
+> *"I file weekly. I filed three days ago."* *(She does the arithmetic out loud, and doesn't like the answer.)* *"You should probably not be here in four days."*
+
+**"Was any of this — us finding you — was that arranged?"**
+> *"I've thought about that for an hour and I can't make it come out either way. I don't know if I found you or was pointed at you. That's the honest answer and I'm aware it's the worst one."*
+
+**If nobody asks anything at all:**
+> Let the silence run longer than is comfortable, then have *her* break it — *"That's it. That's all of it. I've never said any of it out loud before and I'd like everyone to know it was worse than I expected."* — and cut to black on that.
+
+---
+
+## If the Table Won't Stop
+
+> [!warning] DM Only — likeliest ways the cut-to-black gets fought
+> The scene ends on a question. Hold it. But hold it with an in-fiction answer rather than a DM ruling where you can — it costs nothing and it preserves the spell.
+
+| If they... | Say |
+|---|---|
+| Attack her | Do not run this fight tonight. *"You move — and we're going to pick that up next time."* End there. Starting Session 7 on an initiative roll is a genuinely great cold open; running it at 11pm is not. |
+| Try to leave immediately | Fine — cut to black on the door. The reveal doesn't need them to stay in the room. |
+| Demand she come with them now | See the answer above. She wants a night. So do you. |
+| Ask a fifth follow-up question | Answer it in under ten words, then close the book mid-beat. Brevity reads as gravity here. |
+| Try to take her Stone | She lets them get close enough that it's genuinely unclear whether she'll allow it, and *that's* your cut to black. |
 
 > [!warning] DM Only
 > If the table wants to keep playing past this line — gently hold the boundary. This cliffhanger works because it's unresolved. Whatever they want to do next (fight, flee, ask more questions) is exactly what Session 7 is for.
