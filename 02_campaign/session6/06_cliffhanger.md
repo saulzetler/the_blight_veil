@@ -93,7 +93,7 @@ Give each player a brief, final chance to react in character before ending. Don'
 > *"Yes."* *(Just that. Whatever she said before, she doesn't take it back — even now.)*
 
 **If someone threatens her to force an answer:**
-> Her Stone flares inverted-cold, bright enough to sting the eyes for a second — not an attack, just reflex. *"That won't make me know something I don't."* This is the last thing she says before you cut to black.
+> Her Stone flares inverted-cold, bright enough to sting the eyes for a second. She looks as startled by it as anyone else in the room — it went off on its own. *"That won't make me know something I don't."* This is the last thing she says before you cut to black.
 
 ---
 

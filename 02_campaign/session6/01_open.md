@@ -59,7 +59,7 @@
 | **Allegiance**             | The Legion of the Standard (the Concord's standing army)                                                                                                                                                                                                |
 | **Appearance**             | Towering, wrapped in ceremonial steel scored with old battle-marks he's never had polished out. Carries the Banner of the First Flame — a relic said to have burned away heresy during the founding wars — even here, even from the rail of an airship. |
 | **Demeanour**              | Absolute. Unbending. He has led sieges and burned cities to "stop contagion" — this is, to him, a mild gesture.                                                                                                                                         |
-| **Voice / tone**           | Chest-deep, unhurried, every sentence landing like a verdict already reached. No rhetorical flourish. Short declaratives. He does not raise his voice because he has never needed to.                                                                   |
+| **Voice / tone**           | Chest-deep and unhurried. Short declaratives, no rhetorical flourish, and a full second of silence after each one. He does not raise his voice because he has never needed to.                                                                   |
 | **What he wants**          | For the city to feel, immediately and completely, that harboring the party is not survivable. He is not here to raze Rootspire today — he's here to make its choice for it.                                                                             |
 | **What he knows**          | Captain Deyran's death, the party's trial before the Council of 8, and (per his Might-branch sources) that the party is somewhere in this city, right now.                                                                                              |
 | **Verbal tic / mannerism** | Never repeats himself. Says a thing exactly once, at full weight, and lets the silence after it do the rest of the work.                                                                                                                                |
@@ -77,7 +77,7 @@ Give the party a minute or two to process surfacing from the lower roots before 
 >
 > Not clouds. Something is moving between you and the sun, slow and deliberate, wrong in a way your eyes take a second too long to process. Through the gaps in the canopy: iron ribs, a hull too vast to be natural, sigils along its belly glowing the cold white of a Concord seal.
 >
-> It isn't falling. It isn't attacking. It's simply *arriving* — the way a verdict arrives, after the argument is already over.
+> It is in no hurry at all. It crosses the gap in the canopy at about walking pace, and it takes a long time doing it.
 >
 > Rootspire goes quiet in stages, block by block, as more and more people look up.
 

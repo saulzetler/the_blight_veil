@@ -94,7 +94,7 @@ Have each player roll the existing d20 Luck Roll from `04_reference/mechanics/ru
 > His amulet goes cold at the edge of camp, for no reason anyone can name. It stays cold for the rest of the watch. He's felt this particular cold before, and he doesn't like what it usually means.
 
 > [!tip] Oscar
-> The terrarium leans, faintly, in the direction they're travelling — the same orienting pull it had in the lower roots, quieter now, more patient. It's not urgent. It's *interested.*
+> The terrarium leans, faintly, in the direction they're travelling — the same orienting pull it had in the lower roots, quieter now. It holds the lean a few seconds, relaxes, then does it again. Curious, at whatever speed a plant is curious.
 
 > [!tip] Fergie
 > His Porter Stone double-pulses once in the dark — one warm beat, one cold — and is still again before he can be sure he felt it. If `EXT_heat_without_flame` already ran, this reads as confirmation: whatever's ahead is the same thing that left the cold-centred handprint. The bleed is getting closer.
@@ -109,7 +109,7 @@ Have each player roll the existing d20 Luck Roll from `04_reference/mechanics/ru
 - **Hog**, if he examines the gauntlet token closely: it's warm to the touch, faintly, in a way it's never been before — like something on the other end just noticed him back.
 - **Zennor**, if he asks the amulet (or the party) what the cold means: he doesn't have an answer, only a memory-shape of a feeling — the same cold he felt the night his daughter was taken. He won't say that part out loud unless his player chooses to.
 - **Oscar**, if they try to communicate with the terrarium or ask it something directly: no words, no clearer signal — just the lean, patient and unbothered, like being asked a question by something that doesn't experience urgency the way they do.
-- **Fergie**, if he tries to reach back through the Stone: nothing answers. It's not silence like *absence* — it's silence like someone on the other end is listening very carefully and choosing not to respond yet.
+- **Fergie**, if he tries to reach back through the Stone: nothing answers. The Stone stays warm the whole time he's holding it, though — the warmth of something being held on the other end, not something dormant. Someone over there is listening and choosing not to speak yet.
 
 ## Watch-Order Banter
 
@@ -130,7 +130,7 @@ Have each player roll the existing d20 Luck Roll from `04_reference/mechanics/ru
 > [!quote] Read (privately) to Fergie's player
 > You're warm, and then you're not. The fire you fell asleep next to is gone — not out, just *elsewhere* — and in its place is a cold that doesn't hurt so much as it *waits*.
 >
-> There's someone in the dream with you. You don't see her. You feel her the way you feel your own Porter Stone — a pressure, a pulse, a shape where a person should be. She isn't threatening. She isn't even really looking at you. She's looking at the *space* where you are, the way you'd study a reflection before deciding it was really you.
+> There's someone in the dream with you. You don't see her. You feel her the way you feel your own Porter Stone — a pressure, a pulse, a shape where a person should be. She studies the *space* where you're standing, the way you'd study a reflection before deciding it was really you. Whatever she wants, hurting you doesn't seem to be any part of it.
 >
 > Something in your chest answers something in hers before you've decided whether you want it to.
 >
