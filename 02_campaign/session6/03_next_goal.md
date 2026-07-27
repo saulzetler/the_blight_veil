@@ -111,6 +111,91 @@ If your table wants a third option for texture, this is "we're not ready to comm
 
 ---
 
+## If the Party Invents Their Own Option
+
+> [!warning] DM Only — Read This Before You Run the Scene
+> The most likely fourth option is one the party comes up with themselves, and it is a *good* one: **"the letter said three days out, and the ship is here now — so where's the assessment team?"** Do not shut this down. It's the sharpest read available and rewarding it costs you nothing.
+>
+> It also converges. Per `EXT_heat_without_flame`, Concord Vision agents in traveling clothes have been moving through Rootspire asking whether anyone has seen *"a young Genasi woman, blue flame."* The assessment team is looking for Maria. Tracking them and tracking her are the same walk east.
+>
+> So if the party decides to hunt the Concord team instead of following the Maria lead, **let them, and route them the same direction.** They arrive at the same house. They arrive having chosen it for their own reasons, which is strictly better than arriving because an NPC pointed. Adjust Scene 05's approach only by adding one detail: they find recent Concord boot prints on the path, going the same way, half a day ahead.
+>
+> Other player-generated options and what to do with them:
+>
+> | If they propose... | Do this |
+> |---|---|
+> | Going back for Thalan / to defend Rootspire | Honest answer: Thane wants them *in* the city. Coming back is what makes Rootspire complicit. Let an NPC or a PC's own Insight surface that. It's a real reason, not a wall. |
+> | Following the airship | It went north-west toward the Concord road at a speed nothing on foot matches. Reasonable, impossible today. |
+> | Finding Kett's grey-coated agent | Same convergence as above — east, toward the cold-burn marks. Fold it in. |
+> | Splitting the party | Night is the practical objection, not you. Let them try, let dusk make the argument. |
+
+---
+
+## Optional Flavor Bank
+
+> [!tip] Optional — All Skippable
+> This is the session's shortest scene and the easiest one to let balloon. Use these to give the conversation somewhere to happen, not to add length. If the party picks a destination in four minutes, take the win and go.
+
+### The Treeline — Where They're Standing
+
+- The Great Tree is close enough behind them that they're still in its shade, and far enough that they can see the whole shape of it for the first time in days.
+- There's a smear of smoke over Rootspire's lower tiers that wasn't there at breakfast.
+- Ordinary forest sound comes back gradually and unevenly, like the Ashroot is checking whether it's safe first.
+- Somebody's discarded pack is on the path — dropped by whoever came this way faster than the party did.
+- The road east narrows into deer-path within about a mile. Whoever uses it isn't using carts.
+- The light's already going amber at the edges. Dusk is a real constraint, not a DM excuse — say so plainly and the party will plan around it.
+
+### Decompression — Party Talk Prompts
+
+*Offer these as questions to the table, not as narration. One is usually enough.*
+
+- Who's carrying the bread the woman gave them, and have they eaten any of it?
+- Does anybody say Deyran's name out loud for the first time since Orrenval?
+- Who checks on Oscar first, and who notices that nobody checked on Oscar?
+- Somebody has to say whether they'd have handed themselves over if it would have worked.
+- Is anyone angry at Thalan? Is anyone honest about not being?
+
+### Briar Fenstep — More Lines
+
+*Cocky, practical, and quietly insecure about having failed a Council trial himself.*
+
+- **On why he came out with them:** *"I'm not being noble. I'm being early. Whatever happens in there next, I'd rather hear about it than be in it."*
+- **If asked to come further:** *"Two days? No. I've got a — look, I've got reasons, and none of them are good, and I'd rather you didn't ask."*
+- **If asked what he thinks of the party:** *"I think you got looked at by something enormous and didn't fold. That's more than I managed, once."*
+- **On the eastern path:** *"Third fork past the leaning ash. Don't take the second one, it's a deer trick and you'll spend an afternoon learning that."*
+- **Parting line:** *"If you come back — and I'm saying if — come back the tunnel way. I'll know to look."*
+
+### Kett — More Lines
+
+*If she made it out with them, or catches them at the treeline. Quiet, observant, hears the tree.*
+
+- *"The tree stopped humming when the ship came. It hasn't started again. I keep checking."*
+- *"You're not coming back, are you. It's alright. Everyone does the face you're doing."*
+- **If asked why she never told an adult about the grey-coat:** *"Because adults do things. I only wanted somebody to know."*
+- **To Oscar, if he's listening:** *"Your treebox is pointing. Did you know it points?"*
+
+### Oscar's Sensor Readouts
+
+- *Ambient: 34 dB. Wind, insects, water at approximately 200 metres. Baseline forest. This is the first correct reading in two hours.*
+- *No mechanical signature in any direction. Confirming. No mechanical signature except me.*
+- *Eastward bearing carries a periodic component at the edge of detection. It does not repeat on a schedule I can name yet.*
+
+### Per-PC Optional Micro-Beats
+
+> [!tip] Zennor
+> Standing still is worse than walking. He'll take any destination over another minute of not moving, and his player may well say so.
+
+> [!tip] Hog
+> He's the first one to eat something, out loud, without apologising for it, and it does more for party morale than anything anyone says.
+
+> [!tip] Fergie
+> If he's carrying the Porter Stone in his hand rather than his pocket, note it. He hasn't done that before.
+
+> [!tip] Oscar
+> The terrarium has been leaning east since before anyone asked it anything. Oscar can choose whether that's evidence or whether that's pressure.
+
+---
+
 ## Transitioning Out
 
 > [!warning] DM Transition Note — Say This Before Moving On
