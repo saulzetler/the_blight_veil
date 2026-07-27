@@ -11,7 +11,7 @@
 | **Estimated time** | 20–30 minutes |
 | **Location** | Rootspire — Rootwalk or Heartwood, surface level |
 | **Movable?** | No. Fixed anchor. Always runs first. |
-| **Entry condition** | Session begins. Party has just climbed out of the lower roots (Session 5's ending). |
+| **Entry condition** | Session begins. **Same in-game day as Session 5's ending** — the party surfaced from the lower roots a couple of hours ago, and Zennor has already had his moment at the riverbank (`session5/extras/EXT_witchlight_sightings.md`). |
 | **Exit condition** | Two warning shots resolved. The city is visibly turning. |
 
 ---
@@ -48,6 +48,7 @@
 > - **The blimp itself is new to this world.** No prior lore mentions airships. Treat it as unmistakably wrong and out of place — a Concord invention nobody in Rootspire has had reason to imagine.
 > - **Thane's fire is ordinary orange war-fire — not Maria's blue-cold variant.** Keep the two visually and narratively distinct. Don't let players connect them; they're not related.
 > - This scene's job is to re-establish the Concord as a personal, present danger and give every player a spotlight beat. Don't let it run past 30 minutes — Scene 05 is where the session's real weight lives.
+> - **Zennor is carrying something into this scene that nobody else knows about.** Session 5 closed on his private riverbank sighting. He may not have told the party. Don't surface it for him and don't have anyone ask — but if Kyle wants to bring it up at any point today, take it, and note that the woman he saw and the woman they're about to walk toward are two different people with two very different kinds of light.
 
 ---
 
@@ -71,7 +72,7 @@
 Give the party a minute or two to process surfacing from the lower roots before the scene turns.
 
 > [!quote] Read Aloud — The Sky Changes
-> The surface air hits you first — cold, pine, wet earth, the ordinary relief of daylight after an hour underground.
+> You've been back above ground a couple of hours and it hasn't stopped being a relief — cold air, pine, wet earth, and a city going about its morning with no idea what's under it.
 >
 > Then the light changes.
 >

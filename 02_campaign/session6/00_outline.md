@@ -94,7 +94,7 @@
 
 ### What This Scene Does
 
-The party is fresh out of the lower roots (Session 5 ended mid-climb) when the sky itself becomes the threat. No time is given for the Council-first/team-first choice Session 5's notes flagged — this scene *is* the interrupt. It re-establishes the Concord as an active, personal danger and gives every player one spotlight action without ever touching a grid.
+The party is a couple of hours out of the lower roots — same in-game day as Session 5's close, which landed on Zennor's private riverbank sighting rather than the boot prints — when the sky itself becomes the threat. No time is given for the Council-first/team-first choice Session 5's notes flagged — this scene *is* the interrupt. It re-establishes the Concord as an active, personal danger and gives every player one spotlight action without ever touching a grid.
 
 ### Must-Hit Beats
 

@@ -299,6 +299,17 @@ Have each player roll the existing d20 Luck Roll from `04_reference/mechanics/ru
 >
 > You wake with the twine bracelet in a death-grip and the amulet ice-cold against your chest — colder than the watch-beat earlier tonight, cold enough that for a second you're not sure it's ever going to warm up again.
 
+> [!warning] DM Only — Name Conflict, **Decide Before You Read This Aloud**
+> The vault currently calls Zennor's wife **three different things**, and this dream says her name out loud, so you have to pick one tonight.
+>
+> - **Eris** — used in `EXT_witchlight_sightings.md`'s headers and NPC block, and in this dream.
+> - **Maren Ashfeld** — used in `session5/00_flow.md` (the DM-only truth note and the NPC table) and in `CAMPAIGN_OVERVIEW.md`.
+> - `EXT_witchlight_sightings.md` **uses both**, switching from "Eris" to "Maren" partway through the DM-only section and never switching back.
+>
+> Worse, **"Maren" is already taken.** `session5/02_descent.md` has **Maren Ashwick**, the woman in her late sixties who tends the lower roots — a different person entirely, in the same session, with a surname one letter off **Mira Ashwick** of the Listening Rock. Three characters, two of them named Maren.
+>
+> I have not resolved this — per `CLAUDE.md` I'm flagging it rather than overwriting. **My recommendation:** keep **Eris** for Zennor's wife (it's the name in the dream, in the extras doc's title material, and it isn't colliding with anyone), and leave Maren Ashwick and Mira Ashwick alone. That makes `session5/00_flow.md` and `CAMPAIGN_OVERVIEW.md` the two files needing a find-and-replace, and it's a small job. But it's your call and I haven't made it.
+
 > [!warning] DM Only — Zennor
 > Do not resolve whether this is memory, the amulet's influence, or something reaching for him from wherever Eris/the daughter actually are — that ambiguity is the point, and it's live territory for `zennor_arc.md` and `amulet_v2.md`'s later stages. The voice-shift at the end (Eris's line finishing in a different register) deliberately echoes the amulet lore's established detail that he sometimes hears her voice shade into his daughter's, or vice versa — don't over-explain it in the moment; let it sit as dread.
 

@@ -73,7 +73,7 @@ If **Briar Fenstep** specifically is the one carrying this (distinct from Kett's
 > *"I've scouted every deer-path east of here for three years. There's one I stopped using. Not because of monsters — because of her. Cold-blue firelight through the trees at night, and tracks that turn back on themselves like whoever left them didn't want to be followed even by herself."*
 
 **If a player presses for more detail** (how far, how dangerous, why hasn't anyone gone looking):
-> *"Two days walking, maybe less if you don't stop. Dangerous? I don't know — nobody who's gotten close has come back talking about it, but nobody's come back hurt either. Mostly they just stop mentioning her at all, like it's easier not to remember she's out there."*
+> *"A day's walk. You'll be camping once, and you won't like where. Dangerous? I don't know — nobody who's got close has come back talking about it, but nobody's come back hurt either. Mostly they just stop mentioning her at all, like it's easier not to remember she's out there."*
 
 ### Option 2 — The Listening Rock
 
