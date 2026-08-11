@@ -76,7 +76,7 @@ Give the party a minute or two to process surfacing from the lower roots before 
 >
 > Then the light changes.
 >
-> Not clouds. Something is moving between you and the sun, slow and deliberate, wrong in a way your eyes take a second too long to process. Through the gaps in the canopy: iron ribs, a hull too vast to be natural, sigils along its belly glowing the cold white of a Concord seal.
+> Not clouds. Something is moving between you and the sun, and it takes your eyes a second too long to find the edges of it. Through the gaps in the canopy: iron ribs, a hull too vast to be natural, sigils along its belly glowing the cold white of a Concord seal.
 >
 > It is in no hurry at all. It crosses the gap in the canopy at about walking pace, and it takes a long time doing it.
 >
@@ -89,7 +89,7 @@ Let the party react — questions, guesses, panic, awe. Then:
 >
 > *"People of Rootspire. I am High Marshal Varric Thane, Warden of the Concordant Armies. This city harbors those responsible for the death of a Concord captain, and for defiance of a lawful trial before your own Council. You will surrender them. Or you will be treated as complicit."*
 >
-> A beat. Long enough to feel deliberate.
+> A beat. Nobody below makes a sound — not even the birds that scattered when the ship first crossed the light.
 >
 > *"You have been warned once. That is more mercy than the Trifarix usually extends."*
 
@@ -255,14 +255,14 @@ Reference lines. He does not banter. If a PC shouts up at him, he may answer onc
 > Static crawls up the Stormfist Fragment when the war-fire lands — the same crackle it made the day they nearly burned Marla. It doesn't do anything with it. It just holds it.
 
 > [!tip] Fergie
-> The war-fire is orange, ordinary, hot. His Porter Stone doesn't react to it at all, and after Session 5, that absence is louder than a reaction would have been.
+> The war-fire is orange and hot, nothing more. His Porter Stone stays flat and silent against his chest the entire time — no pulse, no warmth, no cold.
 
 > [!tip] Oscar
 > A woman shoves her toddler into Oscar's arms without a word and runs back for something in a stall. She's gone eleven seconds. She takes the child back without ever looking at Oscar's face.
 
 ### After the Second Shot
 
-- The second impact is further away and somehow worse — it means there's a *pattern*, and a pattern means a plan.
+- The second impact lands in a different quarter entirely, and someone near you starts counting on their fingers, tracking where the ship's turned so far.
 - Somewhere in the Heartwood a bell starts ringing, badly, like whoever's pulling it has never done it before.
 - Two Rootspire gatewardens are standing in the open with bows they have not raised, looking at each other, waiting for the other one to decide.
 - Old Wren has come out of the Sighing Boughs with a rag still in his hand and no intention of using it.

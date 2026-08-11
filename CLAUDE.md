@@ -52,6 +52,17 @@ This is an Obsidian vault for a custom TTRPG campaign called **The Blight Veil**
 
 Dark, mythic, melancholic. Beauty buried in decay. The world is not black-and-white — the Concord genuinely believes it is saving civilization. The Veil's goal is creation, not destruction. Revelations should feel earned.
 
+### Read-Aloud Prose
+
+When writing read-aloud/descriptive text, avoid telling the reader what a place or thing means or represents — describe what's physically there instead.
+
+- Prioritize concrete nouns players can picture (ruts, moss, smoke, cracked shutters) over abstract judgments (ordinary, unremarkable, deliberate).
+- Don't explain the effect a detail is supposed to have on the reader ("you'd walk past it without noticing"). Give the sensory details and let the effect happen on its own.
+- Ground it in the specific moment — what's in front of the players right now — not general facts about a place's history or use.
+- Keep sentences short and concrete rather than analytical asides.
+- If a sentence is a judgment about the scene rather than a sensory detail of it, rewrite it as a sensory detail.
+- This also rules out the "It isn't X. It isn't Y. It's Z." negation-triplet construction and reader-facing metaphors that name their own effect (e.g. "arriving like a verdict already reached") — state the concrete detail directly instead.
+
 ---
 
 ## Instructions for Claude

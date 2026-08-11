@@ -105,7 +105,7 @@ The party is a couple of hours out of the lower roots — same in-game day as Se
 
 ### The Airship
 
-Describe it as wrong before it's understood: a shadow that shouldn't move that fast, a hum underneath the wind, and then — through gaps in the canopy — a vast iron-ribbed hull, sigils along its belly glowing the cold white of Concord seals. It is slow, deliberate, and utterly out of place above a city that grew instead of being built.
+Describe it as wrong before it's understood: a shadow that shouldn't move that fast, a hum underneath the wind, and then — through gaps in the canopy — a vast iron-ribbed hull, sigils along its belly glowing the cold white of Concord seals. It crosses the gap in the canopy at about walking pace, and it takes a long time doing it.
 
 ### Thane's Announcement
 
@@ -263,16 +263,16 @@ The session's spine. First full in-person confrontation with Maria Zurita — we
 
 No fixed location exists in current lore, so let whichever exit the party took in Scene 02 determine the approach:
 
-- **From the market route:** the road out is well-worn, well-travelled — Maria's house sits back from it at the treeline, deliberately unremarkable from the road.
+- **From the market route:** the road out is rutted with cart-wheel tracks, packed hard underfoot — Maria's house sits back from it at the treeline, grey timber, a low fence, one shuttered window facing the road.
 - **From the Canopy Spiral route:** the party comes down out of the high paths and the house is below them first, seen from above before they reach it — a moment to describe the smoke (or lack of ember-orange smoke — hers runs cold) rising oddly from the chimney.
-- **From the Cindersong tunnel route:** the tunnel surfaces closer than expected, and the party arrives almost without transition, disoriented by how fast the hidden path moved them.
+- **From the Cindersong tunnel route:** the tunnel surfaces closer than expected — one moment underground in the dark, the next blinking against daylight with the house already in front of the party.
 
 ### Read-Aloud — First Sight of Maria
 
 Adapt from `maria_zurita.md`'s established introduction:
 
 > [!quote]
-> She moves like someone who has studied every step before taking it — precise, deliberate, threaded with quiet tension. Her hair burns in cold blue flame. In her palm rests a pale opal Porter Stone, humming in perfect inversion to Fergie's.
+> Her steps land exact and evenly spaced, like she's counting them without meaning to. Her hair burns in cold blue flame. In her palm rests a pale opal Porter Stone, humming in perfect inversion to Fergie's.
 >
 > When she looks at him, it isn't recognition. It's recognition of *possibility.*
 >

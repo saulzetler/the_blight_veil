@@ -51,7 +51,7 @@
 ## Running the Scene
 
 > [!quote] Read Aloud — Catching Breath
-> The shouting behind you fades into ordinary forest sound — wind, birds slowly returning to the canopy, the particular quiet of a place that hasn't noticed the city's crisis yet.
+> The shouting behind you fades into wind, and birds slowly returning to the canopy, and your own footsteps on the path.
 >
 > Someone is going to have to say what happens next. No one is telling you this time.
 
@@ -140,7 +140,7 @@ If your table wants a third option for texture, this is "we're not ready to comm
 
 - The Great Tree is close enough behind them that they're still in its shade, and far enough that they can see the whole shape of it for the first time in days.
 - There's a smear of smoke over Rootspire's lower tiers that wasn't there at breakfast.
-- Ordinary forest sound comes back gradually and unevenly, like the Ashroot is checking whether it's safe first.
+- Forest sound comes back gradually and unevenly — one bird, then a pause, then two more, then the wind finally settling into the leaves.
 - Somebody's discarded pack is on the path — dropped by whoever came this way faster than the party did.
 - The road east narrows into deer-path within about a mile. Whoever uses it isn't using carts.
 - The light's already going amber at the edges. Dusk is a real constraint, not a DM excuse — say so plainly and the party will plan around it.

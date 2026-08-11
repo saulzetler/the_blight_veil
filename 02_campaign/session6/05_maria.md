@@ -72,7 +72,7 @@ Use whichever exit the party took out of Rootspire to color the approach.
 
 **From the market route:**
 > [!quote] Read Aloud
-> The road out here is well-worn, ordinary — the kind of path farmers and traders use without thinking about it. Her house sits back from it at the treeline, deliberately unremarkable. You'd walk past it without a second look if you weren't already watching for it.
+> The road out here is rutted with cart-wheel tracks, packed hard by boots and hooves. Her house sits back from it at the treeline — grey timber, a low fence, a woodpile under the eave. One window, shuttered, faces the road.
 
 **From the Canopy Spiral route:**
 > [!quote] Read Aloud
@@ -80,14 +80,14 @@ Use whichever exit the party took out of Rootspire to color the approach.
 
 **From the Cindersong tunnel route:**
 > [!quote] Read Aloud
-> The tunnel surfaces closer than any of you expected — one moment underground in the dark, the next standing at the edge of a clearing with a house in it, disoriented by how fast the hidden path carried you here. It feels less like arriving and more like being delivered.
+> The tunnel surfaces closer than any of you expected. One moment you're underground in the dark; the next you're blinking against daylight at the edge of a clearing, with a house already in front of you.
 
 ---
 
 ## First Sight of Maria
 
 > [!quote] Read Aloud
-> She moves like someone who has studied every step before taking it — precise, deliberate, threaded with quiet tension. Her hair burns in cold blue flame, illuminating sharp features and eyes the color of heated metal. In her palm rests a Porter Stone of pale opal, humming in perfect inversion to Fergie's.
+> Her steps land exact and evenly spaced, like she's counting them without meaning to. Her hair burns in cold blue flame, throwing light across sharp features and eyes the color of heated metal. In her palm rests a Porter Stone of pale opal, humming in perfect inversion to Fergie's.
 >
 > When she looks at him, it isn't recognition. It's recognition of *possibility.*
 >
@@ -130,6 +130,37 @@ Some tables won't play the choice point actively — that's a valid read too. Do
 > Let Maria fill the silence rather than waiting on him — she reads withdrawal as its own answer, closer to denial than neutral:
 > *"You don't have to say anything. I've had a great deal of practice being looked at like a problem to solve."* *(To the rest of the party, redirecting:)* *"He'll talk when he's ready, or he won't. Ask me what you came to ask."*
 > This hands the scene to the rest of the table without stalling on Fergie's player, and still leaves the door open for him to step back in later without it feeling forced.
+
+### If Fergie Thinks She's the Fire Sorcerer He's Been Searching For
+
+*Fergie left the Temple of Radiant Dawn looking for someone who understood fire beyond Lathander's renewal doctrine — the rumor of a scholar who "hears the same fire" he does (`fergie_hook.md`). Maria isn't technically that — she's Vision-trained, not a wandering master — but she's the most powerful, most disciplined fire-wielder he's ever stood in front of, and it's entirely in character for him to wonder, out loud or not, whether he's found what he left home to find. This can run alongside any of the three choice-point paths above; it's a separate thread, not a fourth option.*
+
+> [!quote] Maria — First Reaction, If Fergie Asks or Implies It
+> *(A pause longer than her usual half-beat — this one catches her off guard in a way the Echo questions haven't.)* *"A sorcerer. Nobody's called me that."* *(Almost a laugh, with no humor in it.)* *"I was assessed. Calibrated. There's a difference between being taught to want something and being taught to produce it on command. I don't know which one you're asking me to be."*
+
+**If Fergie treats it with real respect** — asks rather than demands, defers to her as someone with something to teach rather than something to use, takes hesitation as hesitation rather than pushing past it:
+
+> [!quote] Maria, if he earns it
+> *(Something shifts. She looks at him a long moment — the way you'd look at a door you'd stopped trying to open.)* *"Nobody's ever asked me to teach anything. Only to perform it, so someone else could write down what happened."* *(A ghost of something like pride, quickly covered.)* *"Give me your hand. I'll show you the part they never taught you at your temple, because they were afraid of it."*
+
+> [!quote] Read Aloud — The Lesson
+> She doesn't explain first. She takes your hand and lets the cold reach you — not painful, precise, drawn exactly where she wants it to stop. *"Fire isn't the opposite of cold. That's the first mistake everyone makes teaching it. It's the same instinct, pointed two ways. Hold both on purpose, and neither one gets to surprise you."*
+>
+> When she lets go, something in your chest that has only ever run one direction — warm, only warm — knows, for the first time, how to run the other way too. It doesn't feel taken from her. It feels like something you'd forgotten you had.
+
+> [!warning] DM Only — Mechanical Reward: The Inverted Ember
+> If Fergie plays this respectfully — and it should feel earned across the whole exchange, not unlocked by a single polite line — Maria teaches him a technique built from her own nature. This deliberately mirrors her racial trait (`maria_zurita.md`'s **Resilience of the Echo** — resistance to fire *and* cold): she's handing him a taste of what makes her different from him, on purpose, as a gift.
+>
+> **The Inverted Ember.** Once per long rest, as a bonus action, Fergie can call up his flame the way Maria showed him — output and boundary, drawn at once. He deals 4d6 fire damage to one creature within 30 feet, and either he or one ally within 10 feet of him gains resistance to fire *and* cold damage until the start of his next turn. Adjust the damage die to your table's level if 4d6 reads as too strong or too weak this far into the campaign — the paired resistance clause is the part that matters thematically and should stay as written regardless.
+>
+> This is a genuine reward, not a participation prize — protect that by only granting it if the roleplay actually earns it. If he asks for it outright ("teach me something"), that's fine and in character — the granting condition is *how he treats her*, not *whether he asked*.
+
+**If Fergie is dismissive or purely transactional** — treats her expertise as a resource to extract rather than a person offering something:
+
+> [!quote] Maria, if he doesn't earn it
+> *(She goes very still — the particular stillness of someone recognizing a shape they've seen before.)* *"That's the second time today someone's looked at me like I'm a door instead of a person. I'll survive it. I'd rather not, from you."*
+>
+> No lesson follows. She isn't punishing him — she genuinely doesn't have it in her to hand something over to someone treating her like an instrument again. The door isn't locked forever: if he circles back later in the scene, or in a future session, with something that reads as real respect, let The Inverted Ember still be available then. It just isn't available on demand.
 
 ---
 
@@ -176,14 +207,14 @@ Some tables won't play the choice point actively — that's a valid read too. Do
 
 *Two of these, maximum, before they reach the door.*
 
-- The clearing is deliberate. Somebody cut it, years ago, and somebody has kept it cut.
+- The clearing didn't happen by accident. Somebody cut it, years ago, and somebody has kept it cut.
 - There's a woodpile under the eaves, stacked properly, seasoned, and — when anyone touches it — completely unburnt. She has never taken a log from it.
 - The chimney smoke is thin and steady and gives off no smell at all.
 - A rope line runs between two posts with nothing hanging on it.
 - The path to the door has been walked into the grass. One person's width, going both ways, hundreds of times.
 - There's a garden, half of it neat rows and half of it gone wild, and the line between them is where somebody stopped one day and didn't come back.
 - Frost on the north face of the house in a season that has no business producing frost.
-- The birds are ordinary here. After the last two days, that's the unsettling part.
+- Birdsong here, unbroken, no gaps in it. After the last two days, you catch yourself waiting for it to stop.
 
 > [!tip] Optional — The Handprints (recommended if `EXT_heat_without_flame` ran)
 > A cold-centred handprint on the doorframe, at the height of someone steadying themselves on the way in. Then another on a fencepost. Then a dozen of them, once you know what you're looking at — years of them, all over her own house. She doesn't know she leaves them. Nobody has ever told her.
@@ -308,7 +339,7 @@ Some tables won't play the choice point actively — that's a valid read too. Do
 
 ### If the Scene Stalls
 
-- She asks *them* a question. She's been alone four hundred days and she is starving for ordinary conversation: *"What's it like? Travelling with people. I've never done it."*
+- She asks *them* a question — the first one all scene that isn't about Fergie, an order, or a designation: *"What's it like? Travelling with people. I've never done it."*
 - Something outside — the birds going up all at once — and she goes to the window, and doesn't come back to the conversation the same way.
 - She offers to show Fergie something, and it's the logbook, and the entries around the date of Session 5 are underlined.
 - Have her say the quiet part: *"You can ask. Whatever it is, you've all been not-asking it for a quarter of an hour and it's louder than asking would be."*
@@ -326,6 +357,7 @@ This scene does not need a hard transition — let it flow directly into Scene 0
 - **Fergie's arc** — Whatever choice point he played is now live and carries directly into `fergie_arc.md`'s Act III material for future sessions.
 - **Maria as a person, not just a plot device** — However the party engaged with her, note it; it will shape how she's played going forward.
 - **Oscar's quiet recognition** — The unspoken thread that pays off explicitly in Scene 06.
+- **The fire sorcerer thread** — If Fergie pursued this and earned The Inverted Ember, note it — it's now a tangible, ongoing piece of his kit and a standing reason for him to seek Maria out again, independent of whatever else his choice point set in motion.
 
 ---
 *The Blight Veil | Session 6 | Scene 05 of 06*
