@@ -138,19 +138,10 @@ The Dawnshield officer from Sessions 6–7 reappears here. They know who Zennor 
 
 **Oscar** — The Verdancy signatures at this site are stronger. The biomechanical growth is actively orienting toward Oscar. More pressingly: the Concord identifies Oscar by designation during the lockdown. They call them "Verdancy Unit 9" — not Oscar. This is the first time Oscar hears their original classification spoken aloud by someone with institutional memory of what they are. The Recall Directive is in motion.
 
-> [!warning] Unresolved Canon Conflict — Verdancy vs. Dawnswell — **needs a DM decision**
-> This beat and Session 6 now give Oscar two different origin programmes, and I have deliberately not picked one.
+> [!success] Canon Decision — Verdancy vs. Dawnswell — **resolved**
+> This beat and Session 6 had given Oscar two different origin programmes. **Option 1 is now canon:** Verdancy was the cover; Dawnswell was the file. Marr thought she was building ecological units under Vision's Veiled Voice. Guile was funding a containment programme through that same Vision cover and let her believe otherwise. Oscar is Verdancy Unit 9 *and* Dawnswell's second iteration — same machine, two names, two sets of institutional memory that don't talk to each other. This is why Maria (Vision) has heard "Dawnswell" without fully understanding it, and it makes Marr's disappearance considerably darker. `oscar_hook.md` has been updated to reflect this throughout.
 >
-> - `oscar_hook.md` and `session1/reactions.md`: Oscar is **Verdancy Unit 9**, from **Project Verdancy** — Lumestra, Tessaline Marr, under the Veiled Voice (Node 03, *Vision*). Ecological reclamation.
-> - `session5` and `session6/06_cliffhanger.md`: Vessel-Null was built for *"containment, resonance processing — they called it **Dawnswell**"*, said Oscar was the *"second iteration,"* and shares Oscar's serial convention at a lower numeral. `CLAUDE.md` lists Dawnswell as a **Guile** initiative.
->
-> Three ways out, in my order of preference:
->
-> 1. **Verdancy was the cover; Dawnswell was the file.** Marr thought she was building ecological units. Guile was funding a containment programme through a Vision cover and let her believe otherwise. Oscar is Verdancy Unit 9 *and* Dawnswell's second iteration — same machine, two names, two sets of institutional memory that don't talk to each other. This costs nothing, explains why Maria (Vision) has heard "Dawnswell" without understanding it, and makes Marr's disappearance considerably darker.
-> 2. **Dawnswell absorbed Verdancy after the Lumestra collapse** — the sealed results got re-tasked. Cleaner, but it makes Vessel-Null younger than Oscar, which contradicts *"you were made after me."*
-> 3. **They are genuinely unrelated** and the serial-convention match in Session 5 was a coincidence Oscar misread. Cheapest to write, but it retroactively defuses Session 5's best moment.
->
-> If you take option 1, the Sessions 8–9 beat above still works exactly as written — a Might-branch officer reading Oscar's Verdancy designation off a field list has no reason to know the Dawnswell name, and that *gap* is the interesting part.
+> The Sessions 8–9 beat above still works exactly as written — a Might-branch officer reading Oscar's Verdancy designation off a field list has no reason to know the Dawnswell name, and that *gap* is still the interesting part.
 
 ### The Concord Moves
 

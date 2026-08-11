@@ -111,11 +111,11 @@ Sela was seven years old when the Veil thinned through their village of **Crestf
 
 Sela was absorbed.
 
-Not killed. *Absorbed.* Her body dissolved quietly — she was there, and then she was not there, and the air where she'd been standing held a faint light for a moment, and then that too was gone. Maren saw it happen. Maren was *holding Sela's hand* when it happened.
+Not killed. *Absorbed.* Her body dissolved quietly — she was there, and then she was not there, and the air where she'd been standing held a faint light for a moment, and then that too was gone. Eris saw it happen. Eris was *holding Sela's hand* when it happened.
 
-Zennor was elsewhere in the house. By the time he reached the room, there was only Maren, on her knees, glowing.
+Zennor was elsewhere in the house. By the time he reached the room, there was only Eris, on her knees, glowing.
 
-The glow was the Veil's residue. When Sela was taken, the absorption passed through the contact point — not enough to take Maren with it, but enough to mark her permanently. The Veil-touch embedded in her skin like ink in a cut: a faint warmth, a lantern-quality light she cannot suppress, that grows brighter near resonance sites or in grief.
+The glow was the Veil's residue. When Sela was taken, the absorption passed through the contact point — not enough to take Eris with it, but enough to mark her permanently. The Veil-touch embedded in her skin like ink in a cut: a faint warmth, a lantern-quality light she cannot suppress, that grows brighter near resonance sites or in grief.
 
 Zennor looked at his glowing wife beside his daughter's absence and built a story. Grief does this. The story was: she did something. She *caused* this. She *is* this.
 
@@ -127,7 +127,7 @@ He was wrong. He has been carrying the wrong thing for years.
 
 Eris has been alone since the break. She never stopped looking.
 
-She doesn't know where Sela went, but she knows the Veil took her — and she believes, correctly, that the Veil does not destroy. It converts. It preserves in its way. Sela is somewhere inside the membrane. Maren has been following resonance sites for years because the Veil hums differently near them, and in the humming she has — once, maybe twice — heard something that sounded like a child's breathing.
+She doesn't know where Sela went, but she knows the Veil took her — and she believes, correctly, that the Veil does not destroy. It converts. It preserves in its way. Sela is somewhere inside the membrane. Eris has been following resonance sites for years because the Veil hums differently near them, and in the humming she has — once, maybe twice — heard something that sounded like a child's breathing.
 
 She is not dangerous. She is not Blighted. She is a woman who has been alone with grief and the Veil's warmth for a very long time, and she has learned to move quietly, sleep near resonance sites, and avoid the Concord, who collect anyone with visible Veil-touch.
 
@@ -187,7 +187,7 @@ She left because she wasn't ready.
 ### Roleplay Notes
 
 > [!tip]
-> Maren should never be played as accusatory toward Zennor. She is past that. The power of their eventual scene is that she doesn't need an apology — she needs him to *see clearly*, perhaps for the first time, what actually happened and what it cost them both.
+> Eris should never be played as accusatory toward Zennor. She is past that. The power of their eventual scene is that she doesn't need an apology — she needs him to *see clearly*, perhaps for the first time, what actually happened and what it cost them both.
 >
 > Her relationship with Fergie is unexpected warmth. A Fire Genasi who sees fire as purification will interest her. She may tell him quietly, if the moment arises: *"Fire chooses. The Veil doesn't. That's the difference."*
 >
@@ -197,7 +197,7 @@ She left because she wasn't ready.
 
 ### Stat Block
 
-*Maren should never be a combat encounter unless the party attacks her. If forced, she defends and retreats.*
+*Eris should never be a combat encounter unless the party attacks her. If forced, she defends and retreats.*
 
 **CR 1 | Humanoid (Veil-Touched), Neutral Good**
 **AC:** 11 | **HP:** 27 (5d8+5) | **Speed:** 30 ft.
@@ -235,7 +235,7 @@ Zennor sees her across the river. She's gone before he can act. One dry handprin
 
 ### Beat 2 — Mid-Campaign: The Resonance Site
 
-The party investigates one of the four resonance sites. Maren is already there — camped at the perimeter, not inside, watching the site's harmonic behavior the way someone does when they've been doing it for years.
+The party investigates one of the four resonance sites. Eris is already there — camped at the perimeter, not inside, watching the site's harmonic behavior the way someone does when they've been doing it for years.
 
 She sees Zennor before the party sees her.
 
@@ -252,7 +252,7 @@ If Zennor approaches, she speaks first:
 She will tell him the truth of the night Sela was taken. She will not defend herself beyond the facts. If he doesn't believe her, she will let him not believe her. She is done arguing with his grief.
 
 > [!warning]
-> **DM Note:** Do not push this scene to a resolution. Zennor's disbelief is correct — not because Maren is lying, but because his story is *load-bearing*. He has been building on it for years. It doesn't collapse in one conversation. This scene is the first crack. That's all it needs to be.
+> **DM Note:** Do not push this scene to a resolution. Zennor's disbelief is correct — not because Eris is lying, but because his story is *load-bearing*. He has been building on it for years. It doesn't collapse in one conversation. This scene is the first crack. That's all it needs to be.
 
 ---
 
@@ -260,12 +260,12 @@ She will tell him the truth of the night Sela was taken. She will not defend her
 
 The arc is a slow erosion of certainty, not a sudden belief. Evidence accumulates:
 
-- The resonance sites hum near specific frequencies that Maren recognizes and the party can eventually verify are not Blighted — they are something else entirely.
+- The resonance sites hum near specific frequencies that Eris recognizes and the party can eventually verify are not Blighted — they are something else entirely.
 - If Zennor makes a Wisdom or Insight check during a quiet moment near a deep resonance site, he briefly perceives something: a child's footstep pattern in the harmonic. Not Sela. Just the *shape* of her.
-- **Oscar's terrarium reacts near Maren.** The plant inside leans toward her, the way it leans toward active Veil lesions. Toward things that are still connected to the Veil.
+- **Oscar's terrarium reacts near Eris.** The plant inside leans toward her, the way it leans toward active Veil lesions. Toward things that are still connected to the Veil.
 
 > [!warning]
-> **DM Note:** The terrarium responding to Maren does not mean she is Blighted. It means she carries Veil-touch, and the terrarium cures blight by recognizing the Veil's signature. The reaction is *recognition*, not diagnosis.
+> **DM Note:** The terrarium responding to Eris does not mean she is Blighted. It means she carries Veil-touch, and the terrarium cures blight by recognizing the Veil's signature. The reaction is *recognition*, not diagnosis.
 >
 > Oscar may understand this distinction before anyone else does. That is a conversation worth letting happen.
 
@@ -277,7 +277,7 @@ When the party enters a deep resonance space — a Veil-heavy environment, a col
 
 A child's voice. Not words. Just a sound — breath, and the beginning of a name, cut off.
 
-Maren, if present, stops moving entirely.
+Eris, if present, stops moving entirely.
 
 > [!quote]
 > *"That's her."*
@@ -299,14 +299,14 @@ The arc does not end with Sela's return. She cannot be extracted. This is fixed 
 What can happen:
 
 **Option A — Hearing Her.**
-In a deep resonance moment, with Maren present and the party providing some form of harmonic anchor — Oscar's terrarium, Fergie's fire used as a resonance focus, a ritual that requires genuine loss as its component — Sela's voice becomes briefly clear. A few words. Enough.
+In a deep resonance moment, with Eris present and the party providing some form of harmonic anchor — Oscar's terrarium, Fergie's fire used as a resonance focus, a ritual that requires genuine loss as its component — Sela's voice becomes briefly clear. A few words. Enough.
 
 Enough to know she is not afraid. Enough to know she knows she was loved. Enough.
 
 **Option B — Zennor's Acknowledgment.**
-The resolution of Zennor's arc is not reunion. It is honesty. He has carried a story about his wife that was a way of not carrying what actually happened to his daughter. The arc ends when he is able to say — aloud, to Maren — that he was wrong. Not that he forgives himself. Not that it's okay. Just: *I was wrong, and she was real, and I'm sorry I carried the wrong thing.*
+The resolution of Zennor's arc is not reunion. It is honesty. He has carried a story about his wife that was a way of not carrying what actually happened to his daughter. The arc ends when he is able to say — aloud, to Eris — that he was wrong. Not that he forgives himself. Not that it's okay. Just: *I was wrong, and she was real, and I'm sorry I carried the wrong thing.*
 
-Maren does not need anything after this. She was not waiting for him. She was waiting for *someone who knew Sela* to exist in the same space as her grief. She has been very alone.
+Eris does not need anything after this. She was not waiting for him. She was waiting for *someone who knew Sela* to exist in the same space as her grief. She has been very alone.
 
 **Option C — What the Climax Leaves.**
 If the Veil is changed through the campaign's climax — reformed, disrupted, reharmonized — what happens to Sela is unknown. She may disperse further. She may, if the membrane is disrupted in the right place, briefly *coalesce* — not return, but flicker. A moment.
@@ -326,12 +326,12 @@ Sela Ashfeld is not gone. She is not preserved. She is something there is not ye
 
 When the Veil absorbed her, it did what it always does: it attempted to process her. The Veil is not conscious, but it *patterns*. It sought to convert her consciousness into harmonic structure — to make her part of its membrane. The process was incomplete. Sela's identity was too specific, too new, too *small* in the way that children are small — entirely themselves, without the weight of becoming.
 
-She did not dissolve. She *folded*. She exists now as a recurring harmonic signature — a specific frequency the Veil carries, that repeats, that Maren has learned to hear. She is seven years old. She will always be seven years old. She does not experience time. She is *there* the way a word is there even when no one is saying it.
+She did not dissolve. She *folded*. She exists now as a recurring harmonic signature — a specific frequency the Veil carries, that repeats, that Eris has learned to hear. She is seven years old. She will always be seven years old. She does not experience time. She is *there* the way a word is there even when no one is saying it.
 
 The only way to *hear* her — not speak to her, not reach her, just *hear* — is to be near a resonance site in a state of genuine grief, without armour around it. The Veil responds to raw emotional frequency.
 
 Zennor has never allowed himself this.
 
-That is why Maren hears her, and he has not.
+That is why Eris hears her, and he has not.
 
 That can change.
