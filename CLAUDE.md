@@ -62,6 +62,7 @@ When writing read-aloud/descriptive text, avoid telling the reader what a place 
 - Keep sentences short and concrete rather than analytical asides.
 - If a sentence is a judgment about the scene rather than a sensory detail of it, rewrite it as a sensory detail.
 - This also rules out the "It isn't X. It isn't Y. It's Z." negation-triplet construction and reader-facing metaphors that name their own effect (e.g. "arriving like a verdict already reached") — state the concrete detail directly instead.
+- When a character is introduced in a read-aloud, give a full physical description at that moment — build, coloring, clothing, one or two distinguishing details. No fluff: concrete specifics only, not padding adjectives or a detail gated behind an optional roll.
 
 ---
 

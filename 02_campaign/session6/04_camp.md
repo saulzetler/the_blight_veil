@@ -239,7 +239,7 @@ Have each player roll the existing d20 Luck Roll from `04_reference/mechanics/ru
 > A voice, very close, that might be inside the dream and might be inside the Stone:
 > *"I've been looking for you."*
 >
-> You wake with your hand already closed around the Porter Stone, and it's warm — properly warm, not the double-pulse from before — like it's been having a much longer conversation than you were invited to.
+> You wake with your hand already closed around the Porter Stone, and it's warm — properly warm, not the double-pulse from before — like it's been having a much longer conversation than the one you were invited to.
 
 > [!warning] DM Only — Fergie
 > Do not let this dream show her face, name her, or describe her flame in enough detail to be recognizable before Scene 05. The line *"I've been looking for you"* is the exact line Maria says in person — that's the point. A sharp player will feel the déjà vu land like a gut-punch when she says it for real. Don't explain the overlap. Let them get there.
@@ -298,15 +298,6 @@ Have each player roll the existing d20 Luck Roll from `04_reference/mechanics/ru
 > *"Look what I made you."*
 >
 > You wake with the twine bracelet in a death-grip and the amulet ice-cold against your chest — colder than the watch-beat earlier tonight, cold enough that for a second you're not sure it's ever going to warm up again.
-
-> [!success] DM Only — Name Conflict, **Resolved**
-> The vault used to call Zennor's wife three different things. **Decision: her name is Eris.**
->
-> - `EXT_witchlight_sightings.md` was mixed — it named her Eris in the headers and NPC block, then drifted to "Maren" from the DM-only "What Actually Happened" section onward and never switched back. Now reads Eris throughout.
-> - `session5/00_flow.md` (the DM-only truth note and the NPC table) and `CAMPAIGN_OVERVIEW.md` called her **Maren Ashfeld**. Both updated to Eris.
-> - **Maren Ashwick** (the woman in her late sixties who tends the lower roots, `session5/02_descent.md`) and **Mira Ashwick** of the Listening Rock are unrelated NPCs and were left untouched — no collision anymore now that Zennor's wife is Eris, not Maren.
->
-> This dream, and every future scene, should use **Eris** without hedging.
 
 > [!warning] DM Only — Zennor
 > Do not resolve whether this is memory, the amulet's influence, or something reaching for him from wherever Eris/the daughter actually are — that ambiguity is the point, and it's live territory for `zennor_arc.md` and `amulet_v2.md`'s later stages. The voice-shift at the end (Eris's line finishing in a different register) deliberately echoes the amulet lore's established detail that he sometimes hears her voice shade into his daughter's, or vice versa — don't over-explain it in the moment; let it sit as dread.

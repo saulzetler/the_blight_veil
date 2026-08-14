@@ -1,3 +1,4 @@
+
 # Scene 01 — Cold Open: "The Sky Opens"
 **Session 6 | The Blight Veil**
 
@@ -72,9 +73,9 @@
 Give the party a minute or two to process surfacing from the lower roots before the scene turns.
 
 > [!quote] Read Aloud — The Sky Changes
-> You've been back above ground a couple of hours and it hasn't stopped being a relief — cold air, pine, wet earth, and a city going about its morning with no idea what's under it.
+> You've been back above ground a couple of hours and it hasn't stopped being a relief — cold air, pine, wet earth, and a city going about its morning with no idea what just transpired under it.
 >
-> Then the light changes.
+> Then suddenly the light changes.
 >
 > Not clouds. Something is moving between you and the sun, and it takes your eyes a second too long to find the edges of it. Through the gaps in the canopy: iron ribs, a hull too vast to be natural, sigils along its belly glowing the cold white of a Concord seal.
 >
@@ -86,6 +87,8 @@ Let the party react — questions, guesses, panic, awe. Then:
 
 > [!quote] Read Aloud — Thane's Announcement
 > A voice reaches the entire city at once — amplified by something you don't have a name for, carried on wind that shouldn't carry sound this clearly.
+>
+> At the ship's rail, a figure comes into view: a head taller than anyone standing near him, close-cropped grey hair, a jaw that's been broken and reset more than once. Pale eyes, fixed on the city and nowhere else. He's wrapped in ceremonial steel scored with old battle-marks left unpolished on purpose, and a banner hangs from his shoulder, stitched in flame-orange thread, heavy enough that it barely moves in the wind that's moving everything else.
 >
 > *"People of Rootspire. I am High Marshal Varric Thane, Warden of the Concordant Armies. This city harbors those responsible for the death of a Concord captain, and for defiance of a lawful trial before your own Council. You will surrender them. Or you will be treated as complicit."*
 >

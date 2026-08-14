@@ -39,6 +39,67 @@
 
 ---
 
+## Beat-by-Beat Rundown
+
+> [!tip] What This Section Is
+> The Scene Order table above is the shape of the night; the One-Page Run Sheet below is what to glance at mid-session. This is the walk-through in between — every beat, in the order it happens, linked straight to the exact subsection that has the read-aloud, DCs, or NPC lines for it. Follow the links when you need the detail; skip them when you don't.
+
+### Scene 01 — [[01_open|Cold Open: "The Sky Opens"]]
+
+1. Entry: same in-game day as Session 5's close, a couple of hours after surfacing — [[01_open#Scene Overview|entry condition]]
+2. The sky changes — an airship eclipses the canopy — [[01_open#Running the Scene|read-aloud: the sky changes]]
+3. Thane's announcement names Deyran's death and the Council trial as proof — [[01_open#Running the Scene|read-aloud: Thane's announcement]]
+4. Two warning shots, one narrated action + one roll per PC, no grid — [[01_open#The Warning Shots — Lightweight No-Grid Mechanic|the warning shots mechanic]]
+5. Optional: Kett's secret, Old Wren's half-finished story, Thalan going pale — [[01_open#Optional Beats|optional beats]] · [[01_open#Follow-Up Lines — If a PC Talks to a Local Mid-Scene|follow-up lines]]
+6. Transition: the city turns to look at the party — [[01_open#Transitioning Out|transition note]]
+
+### Scene 02 — [[02_backlash|Backlash and the Way Out]]
+
+1. Thalan (or the crowd) push the party to leave, grounded in his established fear — [[02_backlash#Running the Scene|read-aloud: the city turns]]
+2. The three-way choice of exit: market, Canopy Spiral bridges, or Cindersong tunnel — [[02_backlash#The Three Ways Out|the three ways out]]
+3. 🔒 **Write down the chosen route** — it sets how Scene 05 is approached — [[02_backlash#Write This Down Before You Move On|write this down]]
+4. Optional: a local rounds on Oscar, Kett's secret if it hasn't surfaced yet — [[02_backlash#Optional Beats|optional beats]]
+5. Transition: the Ashroot opens up, no one telling them where to go — [[02_backlash#Transitioning Out|transition note]]
+
+### Scene 03 — [[03_next_goal|A Clear Next Goal]]
+
+1. Catching breath at the treeline — someone has to say what's next — [[03_next_goal#Running the Scene|read-aloud: catching breath]]
+2. Options surfaced through NPCs, not a quest log: [[03_next_goal#Option 1 — The Maria Lead (Intended Pick)|the Maria lead]] (intended pick), [[03_next_goal#Option 2 — The Listening Rock|the Listening Rock]], optionally [[03_next_goal#Option 3 (Optional) — Just Get Distance|just get distance]]
+3. 🔀 If the party invents their own option (e.g. "where's the assessment team?") — [[03_next_goal#If the Party Invents Their Own Option|handling player-generated options]]
+4. Transition: destination chosen, won't arrive before dark — [[03_next_goal#Transitioning Out|transition note]]
+
+### Scene 04 — [[04_camp|Camp in the Ashroot]]
+
+1. Making camp — [[04_camp#Running the Scene|read-aloud: making camp]]
+2. ⚠ **Pacing triage — decide your cuts now, not at 11pm** — [[04_camp#Pacing Triage — Read This First|pacing triage]]
+3. The Luck Roll, themed around Rootspire's reaction to today — [[04_camp#The Luck Roll|the Luck Roll]]
+4. One or two Personal Beats on watch — [[04_camp#Personal Beats — Use One or Two, Not All|personal beats]]
+5. Once asleep, the Night Visions run privately per PC — [[04_camp#The Night Visions|the Night Visions]]
+   - Never cut: [[04_camp#Fergie — The Voice Without a Face|Fergie's dream]] (sets up Scene 05's déjà vu) and [[04_camp#Oscar — The Chamber That Isn't Empty|Oscar's dream]] (sets up Scene 06's reveal)
+   - Cut first if short on time: [[04_camp#Hog — The Thunderwood Invitational|Hog's dream]], then [[04_camp#Zennor — The Twine and the Fire|Zennor's dream]]
+6. Transition: morning comes grey and quiet — [[04_camp#Transitioning Out|transition note]]
+
+### Scene 05 — [[05_maria|Maria Zurita's House]]
+
+1. Approach described per Scene 02's chosen exit route — [[05_maria#Approaching, By Route Chosen in Scene 02|approaching, by route]]
+2. First sight of Maria — *"I've been looking for you."* — [[05_maria#First Sight of Maria|first sight of Maria]]
+3. 🎯 **The Fergie choice point — kinship / suspicion / denial — drives the whole scene** — [[05_maria#The Fergie Choice Point|the Fergie choice point]]
+4. Optional: the fire-sorcerer thread, if Fergie treats her expertise with real respect, can earn [[05_maria#If Fergie Thinks She's the Fire Sorcerer He's Been Searching For|The Inverted Ember]]
+5. Other party members' independent reactions to Maria — [[05_maria#If / Then — Other Party Members|if/then: other party members]]
+6. Oscar's quiet recognition breadcrumbs, building toward Scene 06 — [[05_maria#Optional Flavor Bank|optional flavor bank]]
+7. No hard transition — flows straight into Scene 06 — [[05_maria#Transitioning Out|transitioning out]]
+
+### Scene 06 — [[06_cliffhanger|The Cliffhanger]]
+
+1. The crack — Maria says *"Dawnswell,"* recognizes Oscar — [[06_cliffhanger#Running the Scene|read-aloud: the crack]]
+2. The Hidden Orders line — *"If the Echo cannot be stabilized, it must be severed"* — [[06_cliffhanger#Running the Scene|read-aloud: the order]]
+3. Delivery adjusts based on how Scene 05's choice point played — [[06_cliffhanger#How the Reveal Lands, By Scene 05's Branch|how the reveal lands]]
+4. One-line reactions per PC, if time allows — [[06_cliffhanger#Reaction Prompts — One Line Each, If Time Allows|reaction prompts]]
+5. Follow-up Q&A bank if the table keeps pushing — [[06_cliffhanger#If the Party Asks Before You Cut to Black|follow-up answers]] · [[06_cliffhanger#If the Table Won't Stop|if the table won't stop]]
+6. Cut to black — no resolution — [[06_cliffhanger#Ending the Session|ending the session]]
+
+---
+
 ## One-Page Run Sheet
 
 > [!tip] If You Only Print One Thing

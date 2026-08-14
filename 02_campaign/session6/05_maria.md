@@ -95,6 +95,18 @@ Use whichever exit the party took out of Rootspire to color the approach.
 
 Let this land, then let the table respond however they will.
 
+### She Gives Her Name
+
+Whoever asks — and someone always does — she answers plainly, no hesitation, like it's the easiest question anyone's put to her all day.
+
+> [!quote] Read Aloud
+> *"Maria."* A beat, like she's deciding whether the rest is worth the breath. *"Maria Zurita."*
+
+> [!warning] DM Only — Let This Land
+> This is the actual on-screen moment for the Must-Hit Beat above — "Maria is seen and named for the first time," which didn't have a scripted line before now. Say the full name plainly, then stop talking entirely.
+>
+> Give the table a real, silent count before you continue. This is the exact name an airline once printed on Paul's boarding pass instead of his own — nobody at this table is getting through the next five seconds without saying something out loud about it, and that's correct, let it happen. Maria doesn't react to it; in-fiction nothing happened. Once the laugh's run its course, pick the read-aloud back up exactly where you left off and let the tone settle back in — it will.
+
 ---
 
 ## The Fergie Choice Point

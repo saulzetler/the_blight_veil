@@ -68,7 +68,7 @@
 >
 > And people are looking at you. Not everyone — but enough. A vendor who sold you bread yesterday won't meet your eyes now. A gatewarden's hand rests, pointedly, on the hilt of something.
 >
-> Then Thalan is there, moving through the crowd like it costs him something, his usual measured calm gone thin.
+> Then Thalan is there, moving through the crowd like it costs him something — broad-shouldered, grey hair braided through with thin root-fibers, his usual measured calm gone thin.
 
 > [!quote] Read Aloud — Thalan
 > *"I have spent years — years — keeping that ship out of our sky. You will not be the reason it comes back."*
