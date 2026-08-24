@@ -58,7 +58,7 @@ The campaign follows a group of unlikely allies who fled the Concord capital of 
 - **Mystery:** What is "The Drift" that Vessel-Null warned Oscar about?
 - **Political:** Orrenval is burning; the Trifarix is fractured.
 - **Personal:** 
-    - **Zennor:** Might have seen a vision of his wife, Maren.
+    - **Zennor:** Might have seen a vision of his wife, Eris.
     - **Hog:** Invited to the "Vindication Rounds" (Concord arenas).
     - **Fergie:** Tracking a "woman in smoke" (Maria Zurita).
     - **Oscar:** Discovering his origins as a "Vessel" for containment.

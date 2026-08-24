@@ -75,7 +75,7 @@ Use whichever exit the party took out of Rootspire to color the approach.
 
 **From the market route:**
 > [!quote] Read Aloud
-> The road out here is well-worn, ordinary — the kind of path farmers and traders use without thinking about it. Her house sits back from it at the treeline, deliberately unremarkable. You'd walk past it without a second look if you weren't already watching for it.
+> The road out here is rutted with cart-wheel tracks, packed hard by boots and hooves. Her house sits back from it at the treeline — grey timber, a low fence, a woodpile under the eave. One window, shuttered, faces the road.
 
 **From the Canopy Spiral route:**
 > [!quote] Read Aloud
@@ -83,7 +83,7 @@ Use whichever exit the party took out of Rootspire to color the approach.
 
 **From the Cindersong tunnel route:**
 > [!quote] Read Aloud
-> The tunnel surfaces closer than any of you expected — one moment underground in the dark, the next standing at the edge of a clearing with a house in it, disoriented by how fast the hidden path carried you here. It feels less like arriving and more like being delivered.
+> The tunnel surfaces closer than any of you expected. One moment you're underground in the dark; the next you're blinking against daylight at the edge of a clearing, with a house already in front of you.
 
 > [!tip] Oscar's Sensor — Decibel Reading
 > **16 dB, regardless of which route brought the party here.** Quieter than the Cindersong tunnel itself. No birdsong, no wind through the clearing's edge — the house sits inside a pocket of near-total quiet that doesn't extend far past its own treeline.
@@ -93,7 +93,7 @@ Use whichever exit the party took out of Rootspire to color the approach.
 ## First Sight of Maria
 
 > [!quote] Read Aloud
-> She moves like someone who has studied every step before taking it — precise, deliberate, threaded with quiet tension. Her hair burns in cold blue flame, illuminating sharp features and eyes the color of heated metal. In her palm rests a Porter Stone of pale opal, humming in perfect inversion to Fergie's.
+> Her steps land exact and evenly spaced, like she's counting them without meaning to. Her hair burns in cold blue flame, throwing light across sharp features and eyes the color of heated metal. In her palm rests a Porter Stone of pale opal, humming in perfect inversion to Fergie's.
 >
 > She looks at him the way you'd look at a question you'd been waiting to ask out loud — recognition of *possibility*, more than recognition itself.
 >
@@ -103,6 +103,18 @@ Use whichever exit the party took out of Rootspire to color the approach.
 > **Her voice reads as two overlapping waveforms from a single source — 44 dB and 44 dB, perfectly layered, not an echo.** Oscar's never logged a voice do this before. It isn't distortion; the two signals are too clean, too deliberate, to be a malfunction on his end.
 
 Let this land, then let the table respond however they will.
+
+### She Gives Her Name
+
+Whoever asks — and someone always does — she answers plainly, no hesitation, like it's the easiest question anyone's put to her all day.
+
+> [!quote] Read Aloud
+> *"Maria."* A beat, like she's deciding whether the rest is worth the breath. *"Maria Zurita."*
+
+> [!warning] DM Only — Let This Land
+> This is the actual on-screen moment for the Must-Hit Beat above — "Maria is seen and named for the first time," which didn't have a scripted line before now. Say the full name plainly, then stop talking entirely.
+>
+> Give the table a real, silent count before you continue. This is the exact name an airline once printed on Paul's boarding pass instead of his own — nobody at this table is getting through the next five seconds without saying something out loud about it, and that's correct, let it happen. Maria doesn't react to it; in-fiction nothing happened. Once the laugh's run its course, pick the read-aloud back up exactly where you left off and let the tone settle back in — it will.
 
 ---
 
@@ -202,6 +214,37 @@ Some tables won't play the choice point actively — that's a valid read too. Do
 > *"You don't have to say anything. I've had a great deal of practice being looked at like a problem to solve."* *(To the rest of the party, redirecting:)* *"He'll talk when he's ready, or he won't. Ask me what you came to ask."*
 > This hands the scene to the rest of the table without stalling on Fergie's player, and still leaves the door open for him to step back in later without it feeling forced.
 
+### If Fergie Thinks She's the Fire Sorcerer He's Been Searching For
+
+*Fergie left the Temple of Radiant Dawn looking for someone who understood fire beyond Lathander's renewal doctrine — the rumor of a scholar who "hears the same fire" he does (`fergie_hook.md`). Maria isn't technically that — she's Vision-trained, not a wandering master — but she's the most powerful, most disciplined fire-wielder he's ever stood in front of, and it's entirely in character for him to wonder, out loud or not, whether he's found what he left home to find. This can run alongside any of the three choice-point paths above; it's a separate thread, not a fourth option.*
+
+> [!quote] Maria — First Reaction, If Fergie Asks or Implies It
+> *(A pause longer than her usual half-beat — this one catches her off guard in a way the Echo questions haven't.)* *"A sorcerer. Nobody's called me that."* *(Almost a laugh, with no humor in it.)* *"I was assessed. Calibrated. There's a difference between being taught to want something and being taught to produce it on command. I don't know which one you're asking me to be."*
+
+**If Fergie treats it with real respect** — asks rather than demands, defers to her as someone with something to teach rather than something to use, takes hesitation as hesitation rather than pushing past it:
+
+> [!quote] Maria, if he earns it
+> *(Something shifts. She looks at him a long moment — the way you'd look at a door you'd stopped trying to open.)* *"Nobody's ever asked me to teach anything. Only to perform it, so someone else could write down what happened."* *(A ghost of something like pride, quickly covered.)* *"Give me your hand. I'll show you the part they never taught you at your temple, because they were afraid of it."*
+
+> [!quote] Read Aloud — The Lesson
+> She doesn't explain first. She takes your hand and lets the cold reach you — not painful, precise, drawn exactly where she wants it to stop. *"Fire isn't the opposite of cold. That's the first mistake everyone makes teaching it. It's the same instinct, pointed two ways. Hold both on purpose, and neither one gets to surprise you."*
+>
+> When she lets go, something in your chest that has only ever run one direction — warm, only warm — knows, for the first time, how to run the other way too. It doesn't feel taken from her. It feels like something you'd forgotten you had.
+
+> [!warning] DM Only — Mechanical Reward: The Inverted Ember
+> If Fergie plays this respectfully — and it should feel earned across the whole exchange, not unlocked by a single polite line — Maria teaches him a technique built from her own nature. This deliberately mirrors her racial trait (`maria_zurita.md`'s **Resilience of the Echo** — resistance to fire *and* cold): she's handing him a taste of what makes her different from him, on purpose, as a gift.
+>
+> **The Inverted Ember.** Once per long rest, as a bonus action, Fergie can call up his flame the way Maria showed him — output and boundary, drawn at once. He deals 4d6 fire damage to one creature within 30 feet, and either he or one ally within 10 feet of him gains resistance to fire *and* cold damage until the start of his next turn. Adjust the damage die to your table's level if 4d6 reads as too strong or too weak this far into the campaign — the paired resistance clause is the part that matters thematically and should stay as written regardless.
+>
+> This is a genuine reward, not a participation prize — protect that by only granting it if the roleplay actually earns it. If he asks for it outright ("teach me something"), that's fine and in character — the granting condition is *how he treats her*, not *whether he asked*.
+
+**If Fergie is dismissive or purely transactional** — treats her expertise as a resource to extract rather than a person offering something:
+
+> [!quote] Maria, if he doesn't earn it
+> *(She goes very still — the particular stillness of someone recognizing a shape they've seen before.)* *"That's the second time today someone's looked at me like I'm a door instead of a person. I'll survive it. I'd rather not, from you."*
+>
+> No lesson follows. She isn't punishing him — she genuinely doesn't have it in her to hand something over to someone treating her like an instrument again. The door isn't locked forever: if he circles back later in the scene, or in a future session, with something that reads as real respect, let The Inverted Ember still be available then. It just isn't available on demand.
+
 ---
 
 ## Skill Checks
@@ -213,6 +256,18 @@ Some tables won't play the choice point actively — that's a valid read too. Do
 | Arcana (the Stones) | 15 | Her Porter Stone is tuned to the same harmonic root as Fergie's. They are paired — not similar instruments, the same instrument, inverted. |
 | Insight (her reaction to Thane's airship, if mentioned) | 13 | Genuine unease, not solidarity — whatever branch sent her here, it isn't Thane's, and she doesn't love what his methods say about where this is all heading. |
 | Insight or Perception (the unfinished silhouette study) | 16 | The four rough figures on the sketch wall line up uncomfortably well with the party's own builds and stances. See "The Unfinished Study" above — do not confirm this outright. |
+
+### On a Failure — What They Get Instead
+
+> [!tip] Nothing in this scene should dead-end on a bad roll
+> This is a conversation. A failed check that returns "you learn nothing" stops the scene dead and teaches the table not to roll. Every miss below still moves something.
+
+| Failed check | Give them this instead |
+|---|---|
+| Insight (her fear) | They read her as *composed* — genuinely, impressively composed — and that reading is wrong in a way that will cost them later. Let them act on it. |
+| Persuasion (protective framing) | She hears it as a threat display rather than reassurance, and her formality goes up a notch. Recoverable; anyone can try a different angle. |
+| Arcana (the Stones) | They get the shape but not the meaning: the two Stones are *doing something to each other*, continuously, and have been since the party crossed the clearing. Enough to be unsettled, not enough to explain. |
+| Insight (Thane reaction) | She's unreadable on this — which is itself information, because she was readable about everything else. |
 
 ---
 
@@ -227,6 +282,154 @@ Some tables won't play the choice point actively — that's a valid read too. Do
 
 ---
 
+## Optional Flavor Bank
+
+> [!tip] Optional — All Skippable
+> This is the longest, least scripted scene in the session, which is exactly why the bank is biggest here. You are not short of *plot* in this room — you are short of things to say while the players decide what they want. That's what everything below is for. Take one detail at a time and let it sit.
+
+### The Approach — Outside
+
+*Two of these, maximum, before they reach the door.*
+
+- The clearing didn't happen by accident. Somebody cut it, years ago, and somebody has kept it cut.
+- There's a woodpile under the eaves, stacked properly, seasoned, and — when anyone touches it — completely unburnt. She has never taken a log from it.
+- The chimney smoke is thin and steady and gives off no smell at all.
+- A rope line runs between two posts with nothing hanging on it.
+- The path to the door has been walked into the grass. One person's width, going both ways, hundreds of times.
+- There's a garden, half of it neat rows and half of it gone wild, and the line between them is where somebody stopped one day and didn't come back.
+- Frost on the north face of the house in a season that has no business producing frost.
+- Birdsong here, unbroken, no gaps in it. After the last two days, you catch yourself waiting for it to stop.
+
+> [!tip] Optional — The Handprints (recommended if `EXT_heat_without_flame` ran)
+> A cold-centred handprint on the doorframe, at the height of someone steadying themselves on the way in. Then another on a fencepost. Then a dozen of them, once you know what you're looking at — years of them, all over her own house. She doesn't know she leaves them. Nobody has ever told her.
+
+### Inside the House — Environmental Detail Bank
+
+*Deal these out one at a time as players look around. Every one of them is about the same thing: a person trying to have a life inside an assignment.*
+
+**What a Concord posting looks like:**
+- A field desk with harmonic instruments laid out in perfect order, each one seated in a cut-foam recess.
+- A logbook, current to this morning, in a small disciplined hand. Columns: time, bearing, intensity, duration.
+- Sealed Vision-branch dispatch tubes, four of them, three opened and one not.
+- A wall chart of the Ashroot with resonance sites marked, and a fifth mark east of the known four with a question mark beside it.
+- A tally of days on the doorframe, cut with a knife. It runs to something over four hundred.
+
+**What a life looks like:**
+- A chair by the fire that has been sat in enough to hold a shape, and a second chair that has not.
+- One cup. Washed, dried, put away, in a cupboard built for six.
+- A pressed flower in the back of the logbook, on a page with no observation on it.
+- A child's carved wooden horse on the mantel, badly made, clearly not hers, clearly kept.
+- A shelf of books that are not Concord issue — three of them are novels, and one of those has been read to pieces.
+- Somebody has been teaching themselves to whittle. The results are on a windowsill in order of improvement, and the improvement is real.
+- A blanket folded at the foot of a bed that's been made with hospital corners every morning for four hundred days.
+
+**What the cold does:**
+- The hearth is lit and the room is cold. Not unpleasantly — the temperature of a cellar in summer.
+- Wax on the candles has run *upward*, in thin ridges, against everything wax should do.
+- The window glass has a bloom of frost on the *inside*, in the shape of a hand, old enough to have been there a while.
+- Anything left on the table for long enough develops a faint rime and she moves it without noticing she's doing it.
+- The fire makes no sound. Fire should make sound.
+
+**What doesn't add up:**
+- Two bowls set out on the table this morning. She doesn't comment on it and won't if asked directly.
+- A mirror turned to face the wall, with dust on the back of it, so it's been that way a long time.
+- Every door inside the house is open, propped, wedged. None of them are allowed to be closed.
+- A second set of the same clothes, folded, in a size that isn't quite hers.
+- She has written the same three words in the margin of the logbook, on eleven different days, and then crossed them out each time.
+
+> [!warning] DM Only — The Three Words
+> If a player gets close enough to read the crossed-out margin note, it says *"still here today."* Don't explain it. It's the most frightening thing in the house and it takes a moment to land.
+
+### Maria — Small Behaviour Bank
+
+*Physical business to give her while the table talks. She should always be doing something with her hands.*
+
+- She sets out cups for everyone. There are not enough cups. She improvises, and is quietly mortified.
+- She mirrors whoever is speaking — posture, tilt of the head — and catches herself once, visibly, and stops, and then starts again a minute later.
+- She turns the Porter Stone over in her palm at a steady rhythm, like counting.
+- She pauses a half-beat before every answer, as if checking it against something.
+- When Fergie speaks, her flame steadies. When he stops, it moves again.
+- She stands when anyone else stands. Concord training; she can't help it.
+- She apologises for the state of the house, which is immaculate.
+- Twice, she starts a sentence, stops, and says *"no, sorry — you first,"* to someone who wasn't going to speak.
+- If anyone accepts food or drink from her, she is disproportionately pleased and tries very hard not to show it.
+
+### Maria — Off-Script Answer Bank
+
+> [!tip] Use these when the table asks something you didn't prep
+> Her voice is: controlled, literal, a half-beat slow, and honest to a fault about facts while evasive about feelings. When she doesn't know something she says so plainly.
+
+**About herself:**
+- *"Eighteen. I think. The record says eighteen and I have no reason to argue with it."*
+- *"I've been here four hundred and six days. I know because I've been counting them, and I've never been sure what I was counting toward."*
+- *"I sleep. I eat. I'm told those aren't proof of anything, but they're what I've got."*
+- *"I don't get cold. I make cold. There's a difference and it took me a while to learn it."*
+
+**About the Concord:**
+- *"Vision doesn't tell you the reason. Vision tells you the shape of the thing and expects you to be grateful for the shape."*
+- *"I've never met anyone above the person who gives me my orders. I've assumed there's a person above them. I've assumed a lot of things."*
+- *"They were kind to me. I want that on the table before anyone tells me what they are. They were the first people who were."*
+- **On Thane, if raised:** *(A pause longer than her usual half-beat.)* *"Might does that. Vision watches Might do that and writes it down."* *(And then, more quietly, off her own script:)* *"An airship. Over a city. They didn't tell me that was happening either."*
+
+**About Fergie:**
+- *"I've known where he was for two years. Not who. Not his name. Just — a direction, the way you know which way is down."*
+- *"When his Stone went quiet in the lower roots, mine did too. He'll have felt that. Ask him."*
+- *"I'm not here to hurt him. I need somebody to understand that I mean that, in case I turn out to be wrong about myself."*
+
+**About the party:**
+- *"Four of you. Nobody said four."*
+- **To Hog:** *"You talk to me like I'm a person in a room. Nobody's done that. I'm not being clever, I mean nobody has done that."*
+- **To Zennor:** *"You've decided about me already. That's all right. You'll be the useful one if I turn out to be what you think."*
+- **To Oscar:** *(A beat too long before she answers anything he asks. See Scene 06.)*
+
+**Deflections, when she won't answer:**
+- *"I'd rather not put that into words in this room."*
+- *"That's a question about orders. Ask me something about me."*
+- *"I don't know. I want to be clear that I don't know, rather than let you think I'm keeping it back."*
+
+### Oscar's Quiet Recognition — Breadcrumbs for Scene 06
+
+> [!warning] DM Only — Escalate at most two of these. Do not name anything.
+> Scene 06 works best if Oscar's player has been quietly accumulating unease for twenty minutes before Maria says "Dawnswell."
+
+1. The terrarium leans toward her from the doorway. Not toward the house — toward *her*, and it tracks when she moves.
+2. Her Porter Stone and the terrarium fall into the same rhythm for about four seconds and then break out of it.
+3. She sets a cup down in front of Oscar. Oscar does not drink. She does it anyway, and she does it *first*.
+4. She looks at Oscar's chest plating rather than Oscar's face when she thinks nobody's watching.
+5. The three-minute pulse from the night before is audible in this room, to Oscar, faintly, under everything.
+6. When Oscar speaks, she answers a half-beat *faster* than she answers anyone else — the one time her rhythm breaks.
+
+### Oscar's Sensor Readouts
+
+- *Ambient: 12 dB. Interior. There is a fire burning four metres away and it is contributing nothing to the reading.*
+- *Harmonic component present, continuous, matching the interval logged last night. Source is in this room.*
+- *Her voice reads as two overlapping frequencies approximately 0.4 seconds apart. Recommend not mentioning this.*
+- *Structural note: this house has no echo. I have measured rooms smaller than this one that had echo.*
+- *I am revising the ambient reading downward again. It keeps getting quieter and I do not believe it is the house doing that.*
+
+### Per-PC Optional Micro-Beats
+
+> [!tip] Zennor
+> A woman living alone with a light that isn't natural, in a house at the edge of the world. He has been told a story about exactly this kind of woman for years. Let him notice that he's applying it, or don't — but note which.
+
+> [!tip] Hog
+> He is the only person in the room with no stake in the harmonics and no fear of saying the obvious. If the scene stalls, he's the release valve — hand him the moment and let him ask the blunt question.
+
+> [!tip] Fergie
+> The house is arranged the way he'd arrange it. Not similarly. The same. Cup on the left of the plate, kindling stacked the wrong way round the way his mother did it. Play this one whenever his player needs something to react to that isn't a question.
+
+> [!tip] Oscar
+> Nobody in this room is afraid of Oscar, for the first time in two days. Whether that's a relief or a warning is Oscar's call.
+
+### If the Scene Stalls
+
+- She asks *them* a question — the first one all scene that isn't about Fergie, an order, or a designation: *"What's it like? Travelling with people. I've never done it."*
+- Something outside — the birds going up all at once — and she goes to the window, and doesn't come back to the conversation the same way.
+- She offers to show Fergie something, and it's the logbook, and the entries around the date of Session 5 are underlined.
+- Have her say the quiet part: *"You can ask. Whatever it is, you've all been not-asking it for a quarter of an hour and it's louder than asking would be."*
+
+---
+
 ## Transitioning Out
 
 This scene does not need a hard transition — let it flow directly into Scene 06 once the Fergie choice point has played out and the room has settled into whatever tone it settled into. There's no "leaving" beat here; the cliffhanger interrupts mid-conversation.
@@ -238,7 +441,7 @@ This scene does not need a hard transition — let it flow directly into Scene 0
 - **Fergie's arc** — Whatever choice point he played is now live and carries directly into `fergie_arc.md`'s Act III material for future sessions.
 - **Maria as a person, not just a plot device** — However the party engaged with her, note it; it will shape how she's played going forward.
 - **Oscar's quiet recognition** — The unspoken thread that pays off explicitly in Scene 06.
-- **The house's echoes** — Note which environmental details the party actually found and asked about; a future session can pay off the unfinished silhouette study explicitly once the campaign is ready to confirm or deny it. Until then it stays exactly as ambiguous as it read tonight.
+- **The fire sorcerer thread** — If Fergie pursued this and earned The Inverted Ember, note it — it's now a tangible, ongoing piece of his kit and a standing reason for him to seek Maria out again, independent of whatever else his choice point set in motion.
 
 ---
 *The Blight Veil | Session 6 | Scene 05 of 06*

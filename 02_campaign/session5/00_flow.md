@@ -391,7 +391,7 @@ If he investigates the notice board: the contact name has been torn away. A pers
 
 This is a seed, not a resolution. Everything else is in the full EXT doc.
 
-> [!warning] DM Only — The Truth That woman is **Maren Ashfeld** — Zennor's wife. She didn't cause Sela's death. She was holding Sela's hand when the Veil absorbed her. The glow is residual Veil-touch from contact at the moment of absorption. Zennor built his grief on the wrong story. The dry handprint in wet mud matches the pattern Maria leaves in [[EXT_heat_without_flame]] — same principle, different source. Do not surface this connection yet.
+> [!warning] DM Only — The Truth That woman is **Eris** — Zennor's wife. She didn't cause Sela's death. She was holding Sela's hand when the Veil absorbed her. The glow is residual Veil-touch from contact at the moment of absorption. Zennor built his grief on the wrong story. The dry handprint in wet mud matches the pattern Maria leaves in [[EXT_heat_without_flame]] — same principle, different source. Do not surface this connection yet.
 
 ---
 
@@ -443,7 +443,7 @@ If they report back to Seldris: _"We call it ashbirth. Fire that doesn't want to
 |**Mira Ashwick**|05|Keeper of the Listening Rock|Warm, unhurried, has 30 years of observational data no Vision scholar has ever seen.|
 |**Pellin Brast**|EXT: Hog|Circuit handler|Pragmatist. Misses the work. Hasn't asked the right questions about the new operation.|
 |**Seldris**|EXT: Fergie|Spiral Loom worker|Filed the notice board post and half-wishes he hadn't. Pays 3 gp. Visibly unsettled.|
-|**Maren Ashfeld**|EXT: Zennor|Zennor's wife|Not a witch. Glows softly with residual Veil-touch. Has been looking for years.|
+|**Eris**|EXT: Zennor|Zennor's wife|Not a witch. Glows softly with residual Veil-touch. Has been looking for years.|
 
 ---
 

@@ -1,3 +1,4 @@
+
 # Scene 01 — Cold Open: "The Sky Opens"
 **Session 6 | The Blight Veil**
 
@@ -11,7 +12,7 @@
 | **Estimated time** | 20–30 minutes |
 | **Location** | Rootspire — Rootwalk or Heartwood, surface level |
 | **Movable?** | No. Fixed anchor. Always runs first. |
-| **Entry condition** | Later the same day as Session 5's ending. The party surfaced from the lower roots, crossed one of Rootspire's outer platforms above the river — where Zennor privately saw the witchlight woman (`session5/extras/EXT_witchlight_sightings.md`) — and has spent the rest of the day in Rootspire without deciding their next move. |
+| **Entry condition** | Session begins. **Same in-game day as Session 5's ending** — the party surfaced from the lower roots a couple of hours ago, and Zennor has already had his moment at the riverbank (`session5/extras/EXT_witchlight_sightings.md`). |
 | **Exit condition** | Two warning shots resolved. The city is visibly turning. |
 
 ---
@@ -48,8 +49,7 @@
 > - **The blimp itself is new to this world.** No prior lore mentions airships. Treat it as unmistakably wrong and out of place — a Concord invention nobody in Rootspire has had reason to imagine.
 > - **Thane's fire is ordinary orange war-fire — not Maria's blue-cold variant.** Keep the two visually and narratively distinct. Don't let players connect them; they're not related.
 > - This scene's job is to re-establish the Concord as a personal, present danger and give every player a spotlight beat. Don't let it run past 30 minutes — Scene 05 is where the session's real weight lives.
-> - **Zennor is carrying today's sighting into this scene, whether or not he told anyone.** Session 5 actually closed on `EXT_witchlight_sightings.md` — Zennor alone saw a glowing woman across the river and she vanished before he could act. Don't reference it directly unless his player brings it up; just let him play a beat quieter or more distracted than usual if that fits, the way someone would a few hours after seeing something they haven't decided what to do with yet.
-> - **Oscar's decibel sensor is a running bit this session.** Wherever a scene has a notable sound cue, a specific reading is seeded below — use it if Oscar's player asks, or drop it unprompted for flavor. Treat it as one of Oscar's construct senses, not a joke item; it's most fun when played completely straight.
+> - **Zennor is carrying something into this scene that nobody else knows about.** Session 5 closed on his private riverbank sighting. He may not have told the party. Don't surface it for him and don't have anyone ask — but if Kyle wants to bring it up at any point today, take it, and note that the woman he saw and the woman they're about to walk toward are two different people with two very different kinds of light.
 
 ---
 
@@ -61,7 +61,7 @@
 | **Allegiance**             | The Legion of the Standard (the Concord's standing army)                                                                                                                                                                                                |
 | **Appearance**             | Towering, wrapped in ceremonial steel scored with old battle-marks he's never had polished out. Carries the Banner of the First Flame — a relic said to have burned away heresy during the founding wars — even here, even from the rail of an airship. |
 | **Demeanour**              | Absolute. Unbending. He has led sieges and burned cities to "stop contagion" — this is, to him, a mild gesture.                                                                                                                                         |
-| **Voice / tone**           | Chest-deep, unhurried, every sentence landing like a verdict already reached. No rhetorical flourish. Short declaratives. He does not raise his voice because he has never needed to.                                                                   |
+| **Voice / tone**           | Chest-deep and unhurried. Short declaratives, no rhetorical flourish, and a full second of silence after each one. He does not raise his voice because he has never needed to.                                                                   |
 | **What he wants**          | For the city to feel, immediately and completely, that harboring the party is not survivable. He is not here to raze Rootspire today — he's here to make its choice for it.                                                                             |
 | **What he knows**          | Captain Deyran's death, the party's trial before the Council of 8, and (per his Might-branch sources) that the party is somewhere in this city, right now.                                                                                              |
 | **Verbal tic / mannerism** | Never repeats himself. Says a thing exactly once, at full weight, and lets the silence after it do the rest of the work.                                                                                                                                |
@@ -73,13 +73,13 @@
 Give the party a minute or two of ordinary afternoon before the scene turns — catching breath, comparing notes on the day so far, whatever loose threads need a beat first (Zennor's, if his player raises it, or not).
 
 > [!quote] Read Aloud — The Sky Changes
-> The afternoon light's gone low and gold through Rootspire's canopy, the kind of light that makes a hard day feel almost survivable. The city around you is just going about its business — stalls, someone arguing over the price of dried fish, the ordinary noise of a place that doesn't know anything's wrong yet.
+> You've been back above ground a couple of hours and it hasn't stopped being a relief — cold air, pine, wet earth, and a city going about its morning with no idea what just transpired under it.
 >
-> Then the light changes.
+> Then suddenly the light changes.
 >
-> Not clouds. Something is moving between you and the sun, slow and deliberate, wrong in a way your eyes take a second too long to process. Through the gaps in the canopy: iron ribs, a hull too vast to be natural, sigils along its belly glowing the cold white of a Concord seal.
+> Not clouds. Something is moving between you and the sun, and it takes your eyes a second too long to find the edges of it. Through the gaps in the canopy: iron ribs, a hull too vast to be natural, sigils along its belly glowing the cold white of a Concord seal.
 >
-> It moves slow, closing the distance like it's got nowhere else to be — the kind of unhurried that only makes sense if you already know nobody down here can stop you.
+> It is in no hurry at all. It crosses the gap in the canopy at about walking pace, and it takes a long time doing it.
 >
 > Rootspire goes quiet in stages, block by block, as more and more people look up.
 
@@ -91,9 +91,11 @@ Let the party react — questions, guesses, panic, awe. Then:
 > [!quote] Read Aloud — Thane's Announcement
 > A voice reaches the entire city at once — amplified by something you don't have a name for, carried on wind that shouldn't carry sound this clearly.
 >
+> At the ship's rail, a figure comes into view: a head taller than anyone standing near him, close-cropped grey hair, a jaw that's been broken and reset more than once. Pale eyes, fixed on the city and nowhere else. He's wrapped in ceremonial steel scored with old battle-marks left unpolished on purpose, and a banner hangs from his shoulder, stitched in flame-orange thread, heavy enough that it barely moves in the wind that's moving everything else.
+>
 > *"People of Rootspire. I am High Marshal Varric Thane, Warden of the Concordant Armies. This city harbors those responsible for the death of a Concord captain, and for defiance of a lawful trial before your own Council. You will surrender them. Or you will be treated as complicit."*
 >
-> A beat. Long enough to feel deliberate.
+> A beat. Nobody below makes a sound — not even the birds that scattered when the ship first crossed the light.
 >
 > *"You have been warned once. That is more mercy than the Trifarix usually extends."*
 
@@ -192,6 +194,101 @@ Reference lines. He does not banter. If a PC shouts up at him, he may answer onc
 - Rootspire's tiers react differently: panic and shouting on the Rootwalk market level, a tense hush on the Heartwood administrative level, and stillness on the high Canopy Spiral as people simply stop and stare upward.
 - Doors that react to emotion (per Rootspire's living architecture) stiffen and seal shut up and down the block — the tree itself flinching.
 - A vendor's stall of small warforged figurines — the ones made after rumors of "something like Oscar" below — gets knocked over and scattered in the panic. Nobody stops to pick them up.
+
+---
+
+## Optional Flavor Bank
+
+> [!tip] Optional — All Skippable
+> Nothing below is load-bearing. Pull one or two from a list when the scene needs texture, and ignore the rest. You will not get through a quarter of this in one sitting, and that's the point — run the scene twice and it should feel different both times.
+
+### The Sky, Before Anyone Understands It
+
+*Pick at most two. The description works better short.*
+
+- The birds go first. Every bird in the canopy leaves at once, in the same direction, and the quiet they leave behind is the loudest thing that's happened all week.
+- A shadow crosses the market stalls in a straight line, edge to edge, and does not stop crossing.
+- Somebody's laundry, strung between two branches, starts moving in a wind that isn't coming from anywhere.
+- The sap-lanterns dim. Rootspire's lights run on the tree, and the tree has noticed something.
+- The hum arrives before the ship does — low enough that you feel it in your back teeth before you hear it.
+- A dog on the Rootwalk starts barking at the sky and won't stop. Nobody shushes it. Everyone is grateful for the noise.
+
+### Overheard in the Crowd
+
+*One-liners, no names needed. Deal them out as the party moves.*
+
+- *"Is that — is somebody flying that?"*
+- *"It's got a bottom. Things in the sky don't have bottoms."*
+- *"Get inside. Get inside. Why are you all standing there?"*
+- *"That's Concord white. That's Concord white, that's —"*
+- *"My grandmother said they had one of those in the war. I told her she was lying."*
+- *"Where's the Boughwarden? Somebody get the Boughwarden."*
+- *"It's not moving. Why isn't it moving?"*
+- *"Don't look at it. Don't give it your face."*
+- *"They can't get down here. There's no road. There's no road."*
+- *"Are we supposed to bow? Does anyone know if we're supposed to bow?"*
+- *(A child, very calmly:)* *"It's bigger than the tree."* *(A parent, not calmly, dragging them away.)*
+
+### Small Physical Details
+
+- Ash falls for about a minute after the first shot — fine, grey, warm, settling on shoulders like the world's worst snow.
+- The air smells like a struck flint and burnt sugar. Nobody can place the sugar.
+- A rope bridge two tiers up is still swinging from people running across it, long after the last of them is gone.
+- Sap runs from a fresh split in a root-column, thick and slow. The tree is bleeding a little.
+- Someone's abandoned kettle is still on its hook over a cookfire, boiling merrily, in an empty stall.
+- The scorch mark from the first shot is a perfect circle. Rootspire has nothing in it that is a perfect circle.
+- Every door on the block seals at once — the emotion-reactive kind, all flinching in the same half-second.
+- A ladder is still leaning where someone left it, and there are two abandoned sandals at the bottom of it.
+
+### Oscar's Sensor Readouts
+
+> [!tip] Optional running bit — only if your table enjoys it
+> If Oscar's player is running ambient decibel readings, this scene is the best material they'll get all campaign. Feed them numbers; let the player do the comedy and the horror. Deliver flat, without comment.
+
+- *Ambient: 62 dB. Normal market operation.*
+- *Ambient: 4 dB. Recommend recalibration. Recalibration confirms reading.* — the moment the city goes silent
+- *Impact event. 141 dB, single peak, 0.4 seconds. No structural echo — the sound did not come off anything. It came from above.*
+- *Ambient: 88 dB and climbing. Composition: primarily human vocalisation.* (A pause.) *Primarily screaming.*
+- *Subsonic carrier detected, 11 Hz, constant. Source: overhead. Duration: ongoing.* — the airship's hum, which Oscar can hear and nobody else can
+- *Voice event, 96 dB, uniform across all bearings. A voice should not be the same volume in every direction.*
+- *Ambient dropped 30 dB in under two seconds. That is not people getting quieter. That is people leaving.*
+- *No reading available. Sensor is fine. There is simply nothing to measure.* — after the ship withdraws
+
+### Thane — More Lines
+
+*He does not banter. Use these only where a full stop is called for.*
+
+- **If someone in the crowd screams at him:** *"I heard that. It changes nothing."*
+- **If asked what happens if the city refuses:** *"Then I will have been honest with you, and you will have been honest with me."*
+- **If asked how long the city has:** *"Long enough to do the right thing. Not long enough to argue about it first."*
+- **If a PC gives their name:** *(A pause — the first one he hasn't chosen.)* *"I have that name already."*
+- **If someone invokes the Council of 8:** *"Your Council heard the matter. I am the part that comes after."*
+- **If the party surrenders on the spot:** He does not accept. *"Not to me. Not today. This city has to do it."* (He wants Rootspire to break, not the party to fold. Note this — it's the whole reason Scene 02 works.)
+
+### Per-PC Optional Micro-Beats
+
+*One each, at most. Skip any that don't fit the moment.*
+
+> [!tip] Zennor
+> The amulet is warm during the first shot. It has never once been warm during violence before, and he has been in a great deal of violence.
+
+> [!tip] Hog
+> Static crawls up the Stormfist Fragment when the war-fire lands — the same crackle it made the day they nearly burned Marla. It doesn't do anything with it. It just holds it.
+
+> [!tip] Fergie
+> The war-fire is orange and hot, nothing more. His Porter Stone stays flat and silent against his chest the entire time — no pulse, no warmth, no cold.
+
+> [!tip] Oscar
+> A woman shoves her toddler into Oscar's arms without a word and runs back for something in a stall. She's gone eleven seconds. She takes the child back without ever looking at Oscar's face.
+
+### After the Second Shot
+
+- The second impact lands in a different quarter entirely, and someone near you starts counting on their fingers, tracking where the ship's turned so far.
+- Somewhere in the Heartwood a bell starts ringing, badly, like whoever's pulling it has never done it before.
+- Two Rootspire gatewardens are standing in the open with bows they have not raised, looking at each other, waiting for the other one to decide.
+- Old Wren has come out of the Sighing Boughs with a rag still in his hand and no intention of using it.
+- The ship begins to turn. It takes a long time to turn. Nobody moves until it's finished.
+- A rumor is already moving through the crowd faster than the smoke: *they named names.* Nobody's sure yet whose.
 
 ---
 

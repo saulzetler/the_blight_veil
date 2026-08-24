@@ -1,15 +1,20 @@
 Perfect — using the backstory we’ve developed for **Verdancy Unit 9 (“Oscar”)**, here’s how to 
 ## ⚙️ OSCAR — Integration into *The Blight Veil*
 
+> [!success] DM Only — Canon Decision: Verdancy vs. Dawnswell (resolved)
+> This doc originally gave Oscar a single origin — Project Verdancy — with no mention of Dawnswell, which sessions 5 and 6 later established as his real institutional file (`CLAUDE.md`: a Guile initiative to replicate the Veil Core using artificial vessels). `act1_roadmap.md` flagged the contradiction and proposed three fixes; **option 1 is now canon**: Verdancy was the cover, Dawnswell was the file. Everything below is updated to match. Oscar's public/field designation is still **Verdancy Unit 9** — that's what NPCs, Concord field lists, and Oscar himself know to call it. **Dawnswell's second iteration** is the DM-only truth underneath that name.
+
 ### **Home & Origin: The Citadel of Lumestra**
 
 Oscar’s body was forged in **Lumestra**, a once-renowned Concord citadel in the northern reaches of the continent — a bastion of technomantic research devoted to fusing natural and arcane energies under Concord law.
 Perched on a plateau carved by silver rivers, Lumestra was known for its **“Skyforge Chambers”**: massive atriums filled with hanging gardens and suspended brasswork, where light from mirrored lenses was used to “nurture” machine lifeforms.
 
-The city’s official purpose was “ecological reclamation” — but in truth, it was a site of **moral experimentation**, where the Trifarix’s Veiled Voice sanctioned the creation of sentient constructs designed to control rather than coexist with nature.
+The city’s official purpose was “ecological reclamation” under *Project Verdancy* — a Vision-run line of Concord automata meant to “heal” corrupted regions of the Veil by spreading purified, self-replicating flora, sanctioned by the Trifarix's Veiled Voice. That much was real, and everyone working the project — Tessaline Marr included — believed in it completely.
 
-It was here that *Project Verdancy* was born — a secretive line of Concord automata meant to “heal” corrupted regions of the Veil by spreading purified, self-replicating flora. The early prototypes malfunctioned, either collapsing into inert scrap or transforming uncontrollably, their ecosystems overtaking entire laboratories.
-Oscar was *Unit 9*, the last and most stable model, built to observe rather than dominate.
+> [!warning] DM Only — What Verdancy Was Actually Covering
+> Guile was funding the deeper work through Vision's cover, without Vision's Veiled Voice knowing the full shape of it. The true file was **Project Dawnswell** — Guile's initiative to build artificial vessels capable of containment and resonance processing, seeded on the belief that the Veil Core is dying and will need a replacement (`CLAUDE.md`, `true_nature.md`). Every "ecological" Verdancy construct was also a Dawnswell vessel wearing a gardener's face. Marr never knew. This is why Maria — Vision-trained, not Guile — recognizes the *name* "Dawnswell" without fully understanding what it means (`session6/06_cliffhanger.md`): the name crossed institutional lines that were never meant to touch.
+
+The early prototypes malfunctioned, either collapsing into inert scrap or transforming uncontrollably, their ecosystems overtaking entire laboratories — Guile read these as containment failures, not ecological ones, and refined the design accordingly. Oscar was *Unit 9* in Marr's file — the last and most stable model, built to observe rather than dominate. In the file Marr never saw, Oscar is Dawnswell's **second iteration**. The first iteration — the vessel Vessel-Null, moved out of Lumestra before the collapse and interred in what the party would come to know as the Hollow Nave (`session5/03_combat.md`) — is why Vessel-Null recognized Oscar's architecture on sight and asked if he was "the second iteration."
 
 ---
 
@@ -19,7 +24,7 @@ Oscar’s creator was **Tessaline Marr**, an esteemed Concord engineer and bio-a
 
 Tessaline was brilliant but quietly dissident. She believed the Concord’s drive for perfection through control was *misunderstanding the nature of life itself*. Her designs introduced “adaptive unpredictability” — programming that allowed her constructs to learn and *change their own parameters*.
 
-She was reprimanded multiple times by the Council of the Veiled Voice, accused of “sanctifying chaos.” When Unit 9 neared completion, she encoded fragments of her personality and memories into its structure — not to make it sentient, but to *make it curious*.
+She was reprimanded multiple times by the Council of the Veiled Voice, accused of “sanctifying chaos.” When Unit 9 neared completion, she encoded fragments of her personality and memories into its structure — not to make it sentient, but to *make it curious*. She had no idea she was also, unwittingly, giving Guile's Dawnswell vessel its most unpredictable iteration yet.
 
 Shortly after Oscar’s activation trials, Lumestra suffered a containment breach. Project Verdancy was declared a failure, its results sealed under a Concord mandate. Tessaline disappeared. Rumors vary: some say she defected to the frontier, others that she merged with her own creations in an act of quiet heresy.
 
@@ -43,6 +48,9 @@ Whispers persist that the city still glows faintly at night — pulsing with gol
 #### **Event II — The Recall Directive**
 
 Recently, the Trifarix’s *Veiled Voice* issued a quiet decree: all known **Verdancy signatures** are to be recovered or neutralized. This order is classified above military clearance.
+
+> [!warning] DM Only — Who's Actually Behind the Decree
+> The order genuinely originates with Guile, routed through Vision's chain of command so it never has to say "Dawnswell" aloud. Vision's own officers — Maria included — believe they're executing a Veiled Voice recall order about ecological contamination. Only a narrow circle knows it's a Dawnswell asset-recovery order wearing Vision's paperwork.
 
 Unbeknownst to Oscar, its own reactivation signal may have been a *test* — or a *summons*. Some factions within the Concord believe that the reawakening of Unit 9 indicates the Verdancy network is still alive beneath the surface of the continent, and that the machine’s lunar engine may serve as a beacon to locate it.
 
@@ -88,3 +96,5 @@ Its name, *Oscar*, has begun appearing in Concord field reports tagged “unclas
 
 **In summary:**
 Oscar is a remnant of Concord idealism — a failed attempt to mechanize nature that accidentally produced something alive. Its home, **Lumestra**, is now a forbidden ruin humming with verdant machinery. Its creator, **Tessaline Marr**, was a visionary who paid for compassion with disappearance. And its trinket — the **Terrarium of Resonance** — is both symbol and power: the living conscience of a machine built to perfect a world that never asked to be perfected.
+
+Publicly, all of that is the whole story. **DM-only, it isn't:** underneath Verdancy's honest ecological mission was Guile's Project Dawnswell, and Oscar was always both — Marr's Unit 9, and Dawnswell's second iteration. Whichever name finds Oscar first will determine a great deal about what happens next.

@@ -4,11 +4,66 @@
 
 ---
 
+> [!warning] Post-Session 6 Revision — Read This First
+> **Nothing below this block has been deleted.** The original plan is preserved as written so you can compare. But large parts of it have been outpaced by what actually happened at the table, and running Sessions 7–10 straight off the original text will produce contradictions.
+>
+> **Four things broke:**
+>
+> 1. **"Where We Are" is wrong about Session 5.** Session 5 did not reach the resonance-site/Concord-presence hook. It closed on `EXT_witchlight_sightings` — Zennor's private sighting across the river. The boot-print reveal never happened; Session 6's airship replaced it.
+> 2. **"The Concord is a distant shadow, not yet a direct threat" is obsolete.** A Trifarix Pillar named the party as terrorists over Rootspire from an airship, in public, and the city turned them out. The Concord is now the top-line threat, five sessions early.
+> 3. **Trial B's premise no longer holds.** Sessions 6–7 were built on the party investigating resonance sites *under the Council's mandate*, with Concord observers politely co-existing — "two factions, both pretending to observe." The party has been driven out of Rootspire. There is no mandate to work under and nobody is pretending anything.
+> 4. **All four Sessions 6–7 character beats have already fired**, relocated into Session 6's camp scene (`02_campaign/session6/04_camp.md`) — Hog's sigil, Fergie's double-pulse, Zennor's cold amulet, Oscar's terrarium orientation. Don't run them again.
+>
+> **And Fergie is a full Act ahead.** The roadmap has Maria's *first apparition* at Sessions 8–9 and a Council mention of "Echo-touched" at Session 10. Session 6 delivered a full in-person conversation with dialogue, a named choice point, and her Hidden Orders spoken aloud. `fergie_arc.md`'s **Act II is complete.** Act III (The Fraying of the Self) is what comes next, and its shape is fine as written — it just starts now instead of in Act Two.
+
+---
+
 ## Where We Are
+
+> [!warning] Superseded — see the revision block above. Original text kept for reference.
 
 Session 5 ended with the party descending into Rootspire's lower roots following an Oscar construct sighting, and a closing hook revealing the Concord is already present at the resonance sites. The Council's mandate — observe only — is already under pressure.
 
 The party is mid-act. No backstory threads have fully detonated yet. The Concord is a distant shadow, not yet a direct threat. That changes over the next five sessions.
+
+### Where We Actually Are — After Session 6
+
+The party is standing in a house east of Rootspire, mid-conversation, having just been told by a Concord Vision acolyte that she was ordered to watch for Oscar before she was ordered to watch for Fergie.
+
+Behind them: Rootspire, which asked them to leave, and a Boughwarden whose position with his own city is now damaged. Above them somewhere: an airship, and a man who said he would come back. Ahead of them: nothing they've planned.
+
+They are not observers anymore. They are fugitives with one lead, and the lead just started talking.
+
+**Live and unspent going into Session 7:**
+
+| Thread | State |
+|---|---|
+| Maria Zurita | In the room. Asked to come with them (unresolved by design). Files weekly; filed three days ago. |
+| Maria's Hidden Orders | Spoken aloud. Unclear whether they cover Fergie, Oscar, or both. |
+| Project Dawnswell | Externally confirmed by a second, official source. |
+| Fergie's choice point | Played. Whichever branch it took now drives `fergie_arc.md` Act III. |
+| Thane / the Legion | Withdrew, promised to return. No timetable given. |
+| Rootspire | Politically closed to the party. Thalan damaged. |
+| The Listening Rock / Mira Ashwick | Untouched if the party followed the Maria lead. |
+| Eris / the riverbank | One sighting, one dry handprint, one night vision. Zennor may not have told anyone. |
+| Hog's storm-sigil | Flaring unprompted, warm to the touch, unexplained. |
+| The assessment team | Still unaccounted for. Boot prints east, if the party chased that lead in Scene 03. |
+
+---
+
+## Proposed Resequence — Sessions 7–10
+
+> [!tip] A Proposal, Not a Replacement
+> This is one way to absorb Session 6's overshoot. The original Trial B / Trial C / Point of No Return skeleton below is good and mostly survives — it needs its *entry conditions* rewritten, not its beats thrown out. Take what's useful.
+
+**Session 7 — "The Morning After" (new; absorbs what's left of Trial B)**
+Resolve the Maria standoff first, in the first twenty minutes — the cliffhanger is a question and Session 7 is the answer. Her decision (come, stay, or report) sets the session. Then the assessment team arrives at the house, and the party discovers what Vision scholars actually do at a resonance site — which is the *content* of the original Trial B, delivered from the wrong side of the fence. They are no longer observers with a mandate; they are trespassers watching the people with the mandate. Same scene, better tension. **Fergie's Act III opens here.**
+
+**Session 8 — Trial C, mostly as written.** The site destabilizes. The Concord's disproportionate seal-the-site response lands harder now, because the party has no Council paper to wave. Zennor's amulet stops being cold and starts burning — a clean escalation from the Session 6 night vision, and the natural next beat of `EXT_witchlight_sightings` Beat 2. Hog's sigil goes fully visible.
+
+**Session 9 — Rootspire, Reconsidered.** The original plan had the Council summon the party in Session 10. That no longer works: they were thrown out. Make the return a *choice with a cost* instead of an invitation. Thalan's damaged position is the lever — either he needs them, or he can't afford to be seen needing them. This is a better scene than a summons and it's paid for by Session 6.
+
+**Session 10 — Point of No Return, as written.** The Council's question (*"Now that you know what you know — what do you intend to do?"*) survives intact and is if anything stronger, because the party arrives having chosen to come back rather than having been called. **Cut** the Council's Fergie beat ("your Stone is resonating with something that should not exist") — he's met her, spoken to her, and been told her orders. Replace it with something the Council knows that *Maria doesn't*: what happens to an Echo when the thing it's echoing dies.
 
 ---
 
@@ -25,6 +80,11 @@ Session 10     →   Point of No Return
 ---
 
 ## Sessions 6–7 — Trial B: The Sites Are Not Silent
+
+> [!warning] Largely Superseded — but the *content* is worth keeping
+> Session 6 went somewhere else entirely (airship, exile, Maria). All four character beats in this section have already fired in `session6/04_camp.md` — **do not run them a second time.**
+>
+> What survives is the site material itself: what Vision scholars actually do at a resonance site, and the slow mutual recognition between two groups who both know more than they're saying. Move that into Session 7 and run it from the outside, per the resequence above. The dramatic question below still works if you change one word — the party can't "keep pretending to be observers" because nobody is letting them pretend anymore.
 
 **Dramatic question:** What is the Concord actually doing at the resonance sites — and can the party keep pretending to be observers?
 
@@ -77,6 +137,11 @@ The Dawnshield officer from Sessions 6–7 reappears here. They know who Zennor 
 **Fergie** — The doubled pulse from his Porter Stone becomes impossible to ignore at the unstable site. He sees a figure — briefly, through the resonance shimmer — holding a Stone shaped like his but inverted. She's gone before anyone else can look. This is Maria Zurita's first apparition. It should feel like a reflection in standing water, just a moment before the water moves.
 
 **Oscar** — The Verdancy signatures at this site are stronger. The biomechanical growth is actively orienting toward Oscar. More pressingly: the Concord identifies Oscar by designation during the lockdown. They call them "Verdancy Unit 9" — not Oscar. This is the first time Oscar hears their original classification spoken aloud by someone with institutional memory of what they are. The Recall Directive is in motion.
+
+> [!success] Canon Decision — Verdancy vs. Dawnswell — **resolved**
+> This beat and Session 6 had given Oscar two different origin programmes. **Option 1 is now canon:** Verdancy was the cover; Dawnswell was the file. Marr thought she was building ecological units under Vision's Veiled Voice. Guile was funding a containment programme through that same Vision cover and let her believe otherwise. Oscar is Verdancy Unit 9 *and* Dawnswell's second iteration — same machine, two names, two sets of institutional memory that don't talk to each other. This is why Maria (Vision) has heard "Dawnswell" without fully understanding it, and it makes Marr's disappearance considerably darker. `oscar_hook.md` has been updated to reflect this throughout.
+>
+> The Sessions 8–9 beat above still works exactly as written — a Might-branch officer reading Oscar's Verdancy designation off a field list has no reason to know the Dawnswell name, and that *gap* is still the interesting part.
 
 ### The Concord Moves
 

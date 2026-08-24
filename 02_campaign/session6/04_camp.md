@@ -53,6 +53,28 @@
 
 ---
 
+## Pacing Triage — Read This First
+
+> [!warning] DM Only — This Scene Is Over-Budget As Written
+> Four must-hit beats plus four privately-delivered Night Visions does not fit in 30 minutes at a real table. Camp setup and watch order eats five. Four Luck Rolls with flavored results eats eight. Four dreams read aloud one at a time, with the reactions they're designed to provoke, eats twenty on its own.
+>
+> Realistically this scene wants 40–45 minutes if you run all of it — and Scene 05 is the spine of the session. **Something has to give, and it should be decided now rather than at 11pm.**
+>
+> **Cut in this order:**
+>
+> | Cut # | What goes | Why it's safe |
+> |---|---|---|
+> | 1 | Watch-order banter, camp logistics | Pure texture. Narrate the camp being made and move on. |
+> | 2 | Personal Beats section entirely | Every one of them is re-stated more strongly inside that PC's Night Vision. This section is a duplicate under time pressure. |
+> | 3 | Hog's Night Vision | The only one that opens nothing Scene 05 or 06 needs. It's the best scene in the file and it's the correct thing to cut — offer it to Dawson at the *start* of Session 7 instead, as a cold open. It loses nothing by moving. |
+> | 4 | Zennor's Night Vision | Heavy, excellent, and entirely self-contained. Also movable to Session 7. |
+>
+> **Never cut:** Fergie's vision (Scene 05's déjà vu depends on it) or Oscar's (Scene 06's reveal lands harder with it). If you only have ten minutes, run those two and narrate the night in a sentence.
+>
+> **Hard stop:** if it's been 30 minutes and you haven't said "morning comes," stop what you're doing and say it.
+
+---
+
 ## Running the Scene
 
 > [!quote] Read Aloud — Making Camp
@@ -97,7 +119,7 @@ Have each player roll the existing d20 Luck Roll from `04_reference/mechanics/ru
 > His amulet goes cold at the edge of camp, for no reason anyone can name. It stays cold for the rest of the watch. He's felt this particular cold before, and he doesn't like what it usually means.
 
 > [!tip] Oscar
-> The terrarium leans, faintly, in the direction they're travelling — the same orienting pull it had in the lower roots, quieter now, more patient. It's not urgent. It's *interested.*
+> The terrarium leans, faintly, in the direction they're travelling — the same orienting pull it had in the lower roots, quieter now. It holds the lean a few seconds, relaxes, then does it again. Curious, at whatever speed a plant is curious.
 
 > [!tip] Fergie
 > His Porter Stone double-pulses once in the dark — one warm beat, one cold — and is still again before he can be sure he felt it. If `EXT_heat_without_flame` already ran, this reads as confirmation: whatever's ahead is the same thing that left the cold-centred handprint. The bleed is getting closer.
@@ -112,7 +134,7 @@ Have each player roll the existing d20 Luck Roll from `04_reference/mechanics/ru
 - **Hog**, if he examines the gauntlet token closely: it's warm to the touch, faintly, in a way it's never been before — like something on the other end just noticed him back.
 - **Zennor**, if he asks the amulet (or the party) what the cold means: he doesn't have an answer, only a memory-shape of a feeling — the same cold he felt the night his daughter was taken. He won't say that part out loud unless his player chooses to.
 - **Oscar**, if they try to communicate with the terrarium or ask it something directly: no words, no clearer signal — just the lean, patient and unbothered, like being asked a question by something that doesn't experience urgency the way they do.
-- **Fergie**, if he tries to reach back through the Stone: nothing answers. It's not silence like *absence* — it's silence like someone on the other end is listening very carefully and choosing not to respond yet.
+- **Fergie**, if he tries to reach back through the Stone: nothing answers. The Stone stays warm the whole time he's holding it, though — the warmth of something being held on the other end, not something dormant. Someone over there is listening and choosing not to speak yet.
 
 ## Watch-Order Banter
 
@@ -120,6 +142,86 @@ Have each player roll the existing d20 Luck Roll from `04_reference/mechanics/ru
 - *"I'll take first. I wasn't going to sleep yet anyway."* (whoever's most rattled by today volunteering to avoid lying still with their thoughts)
 - *"Wake me if the sky does anything. Anything at all."*
 - *"Last one standing gets to decide if we're still going through with this in the morning."* — half a joke, half not.
+
+---
+
+## Optional Flavor Bank
+
+> [!tip] Optional — All Skippable
+> Camp scenes live or die on specificity — one concrete object beats three atmospheric sentences. Take at most one from each list, and mind the pacing triage above. This bank exists so you always have something good within reach, not so you use it all.
+
+### The Ashroot at Night
+
+- Something large moves past well outside the firelight, at a completely unhurried pace, and does not come back.
+- The wood is damp and pops like knuckles cracking, at uneven intervals, all night.
+- There's no dew by morning. There should be dew.
+- Every hour or so the whole canopy shifts at once, in a wind nobody on the ground can feel.
+- Frogs somewhere south, steady — then not, then steady again, as if something walked past them.
+- Smoke from the fire goes straight up about eight feet and then bends hard east. It does this all night.
+- Whatever's growing on the north side of the root-hump is faintly luminous, and brighter at the end of the night than the start.
+
+### Camp Logistics — Concrete Details
+
+- The half-loaf from the woman in Rootspire is dense, seedy, and better than anything they've eaten in a week. Eating it is complicated.
+- Somebody's boot came apart on the walk and the repair is going badly.
+- The rations were bought yesterday in Rootspire, from people who today wouldn't sell to them.
+- Water from a stream two hours back tastes faintly of iron.
+- Nobody brought enough blankets, because nobody planned on leaving.
+- Second watch gets the coldest, worst stretch, and everyone knows it.
+- Somebody still has market ash in their hair and finds it hours later.
+
+### Watch-Pairing Prompts
+
+> [!tip] Optional — the best character material in the scene, and nearly free
+> If two PCs share a watch, offer one of these and then get out of the way. Do not answer them yourself.
+
+- **Zennor & Fergie:** Zennor has watched a man lose someone. Fergie is walking toward a woman who might be a piece of himself. One of them is qualified to say something useful and neither wants to.
+- **Hog & Oscar:** Hog asks Oscar something breathtakingly direct that everyone else has been too polite to ask.
+- **Fergie & Oscar:** They both got named by something official this week. Compare notes.
+- **Zennor & Hog:** Two people who solve problems by hitting them, sitting still for four hours.
+- **Fergie & Hog:** Hog is the only one who'd tell Fergie to just walk up and knock, and mean it as a plan.
+- **Zennor & Oscar:** Oscar asks, with no weight on it at all, what Zennor's daughter was like. Nobody has asked him that in years.
+- **Anyone, alone:** four hours, nobody watching. What do they do?
+
+### More Luck Roll Rumors
+
+*Extends the two lists above — draw from either set.*
+
+**Bad (1–10):**
+- *"The Boughwarden's being blamed. Some say he knew who they were and let them in anyway."*
+- *"Somebody counted the dead. There weren't any. People are angrier about that than they expected to be."*
+- *"A Concord recruiter's already out in the farms, and he's getting a hearing he wouldn't have got last week."*
+- *"They're saying the metal one was signalling the ship — that it lit up right before the shots came."*
+- *"Two families have left Rootspire. Word is more are packing."*
+- *"There's a purse being collected. Not for repairs."*
+
+**Good (11–20):**
+- *"The Boughwarden told them to go and they went. Didn't argue, didn't make it worse. That counts for something."*
+- *"Old Wren's been telling anyone who'll sit still that he's seen a ship like that before, and what happened to the town that handed people over."*
+- *"Somebody's saying the fire-touched one put out a stall fire on the way through and didn't stop to be thanked."*
+- *"A gatewarden's version is going round: they had the chance to fight and chose not to."*
+- *"Whoever chalked the arrow on the root-wall is being talked about like a folk hero, and nobody's admitting to it."*
+- *"The word 'terrorist' isn't sticking the way the Marshal wanted. Rootspire's used to being called things."*
+
+### Morning
+
+- The fire is out and nobody remembers letting it go out.
+- The east is the wrong colour — too pale, too early, as if the light is arriving from slightly the wrong place.
+- Whoever slept nearest the eastern edge slept worst and can't say why.
+- Frost on one side of the clearing, none on the other, and the line between them is straight.
+- Everything smells faintly of woodsmoke that isn't theirs.
+- The path ahead has been walked recently — not last night, a few days ago, more than once, by the same person, going both ways.
+
+### Oscar's Sensor Readouts
+
+- *Ambient: 22 dB. Correcting — 22 dB with a periodic component at three-minute intervals, logged 41 times, unattributed.*
+- *Fire at four metres reads 38 dB. Four sleeping crew read 31 dB combined. One of you is louder than the fire.*
+- *Directional sample, east: 19 dB. All other bearings: 24 dB. East is quieter than it should be.*
+- *Still recording the interval. It has not changed. Three minutes. It was three minutes in the Hollow Nave.*
+- *Ambient at dawn: 47 dB. Birds. All of them east of us. None of them going further east than us.*
+
+> [!warning] DM Only — The Three-Minute Interval
+> If you use the readout above, you've handed the party a real, checkable clue: the pulse Oscar logged under the Hollow Nave matches whatever is ahead. Oscar's Night Vision names it independently (*"three minutes apart… the same rhythm as the Listening Rock"*), and Scene 05's approach can carry it a third time. Three sources, one fact, layered by attentiveness — the player tracking it feels clever at Maria's door, and the player who missed it loses nothing.
 
 ---
 
@@ -133,14 +235,14 @@ Have each player roll the existing d20 Luck Roll from `04_reference/mechanics/ru
 > [!quote] Read (privately) to Fergie's player
 > You're warm, and then you're not. The fire you fell asleep next to is gone — not out, just *elsewhere* — and in its place is a cold that doesn't hurt so much as it *waits*.
 >
-> There's someone in the dream with you. You don't see her. You feel her the way you feel your own Porter Stone — a pressure, a pulse, a shape where a person should be. There's no threat in it, and her attention isn't quite on you either — more on the *space* where you are, the way you'd study a reflection before deciding it was really you.
+> There's someone in the dream with you. You don't see her. You feel her the way you feel your own Porter Stone — a pressure, a pulse, a shape where a person should be. She studies the *space* where you're standing, the way you'd study a reflection before deciding it was really you. Whatever she wants, hurting you doesn't seem to be any part of it.
 >
 > Something in your chest answers something in hers before you've decided whether you want it to.
 >
 > A voice, very close, that might be inside the dream and might be inside the Stone:
 > *"I've been looking for you."*
 >
-> You wake with your hand already closed around the Porter Stone, and it's warm — properly warm, not the double-pulse from before — like it's been having a much longer conversation than you were invited to.
+> You wake with your hand already closed around the Porter Stone, and it's warm — properly warm, not the double-pulse from before — like it's been having a much longer conversation than the one you were invited to.
 
 > [!warning] DM Only — Fergie
 > Do not let this dream show her face, name her, or describe her flame in enough detail to be recognizable before Scene 05. The line *"I've been looking for you"* is the exact line Maria says in person — that's the point. A sharp player will feel the déjà vu land like a gut-punch when she says it for real. Don't explain the overlap. Let them get there.
