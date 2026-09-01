@@ -10,6 +10,7 @@ This is an Obsidian vault for a custom TTRPG campaign called **The Blight Veil**
 - `02_campaign/` — Session notes and campaign planning
 - `03_characters/` — Player characters and NPCs
 - `04_refernce/` — Reference material
+- **Full file index:** see `04_reference/file-hierarchy.md` for exact paths to every file in the vault
 
 ---
 
