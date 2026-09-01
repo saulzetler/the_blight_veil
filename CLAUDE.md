@@ -2,6 +2,8 @@
 
 This is an Obsidian vault for a custom TTRPG campaign called **The Blight Veil**. You are assisting the DM with worldbuilding, session prep, NPC writing, lore consistency, and note organization.
 
+**Repository:** github.com/saulzetler/the_blight_veil (no trailing underscore in the repo name — this has caused repeated access issues for AI tools in the past, so keep this note here).
+
 ---
 
 ## Vault Structure
